@@ -33,6 +33,8 @@ The independent GBD 2021 SDI file was not used by the frozen v1.1.10 pipeline. S
 
 - **Provider:** International Agency for Research on Cancer
 - **Platform:** Global Cancer Observatory, Cancer Today
+- **Source:** https://gco.iarc.who.int/today/
+- **Accessed:** April 7, 2026
 - **Use in this study:** external comparison of the 2022 incidence baseline and an external-baseline scaling sensitivity analysis
 
 The analysis uses age-specific 2022 incident-case estimates for China and the global population at ages 25–29, 30–34, 35–39, 40–44, and 45–49 years. The ten case estimates are embedded in the standalone R script for transparent reproduction.
