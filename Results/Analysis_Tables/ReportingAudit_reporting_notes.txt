@@ -1,0 +1,9 @@
+Reporting and consistency analysis reporting notes
+
+1. Figure 4A now uses a mortality-to-incidence ratio calculated consistently for women aged 25-49 years: recalculated weighted ASDR divided by recalculated weighted ASIR.
+2. The crude count ratio is retained as a separate descriptive quantity and should not be conflated with the weighted rate-based MIR.
+3. Counts and weighted rates with 95% UI are aggregated from age-specific GBD estimates and bounds; covariance among GBD draws is not reconstructed.
+4. Risk-attributable HCA losses use YLL-specific PAFs. YLL-specific PAFs were used, consistent with mortality-related productivity loss.
+5. YLL and DALY PAFs are never averaged together.
+6. Signed PAF values are retained in descriptive risk-trend outputs.
+7. High BMI remains constant at zero in the China-specific 25-49-year DALY PAF series and is not interpretable as evidence of no adiposity-related risk.

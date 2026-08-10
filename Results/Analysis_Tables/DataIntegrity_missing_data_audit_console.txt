@@ -1,0 +1,44 @@
+$risk_long_summary
+# A tibble: 5 × 11
+  Risk_Factor                 n_rows n_missing pct_missing n_observed n_zero
+  <chr>                        <int>     <int>       <dbl>      <int>  <int>
+1 High BMI                       170         0           0        170    170
+2 High alcohol use               170         0           0        170      0
+3 High fasting plasma glucose    170         0           0        170      0
+4 Low physical activity          170         0           0        170      0
+5 Tobacco use                    170         0           0        170      0
+# ℹ 5 more variables: pct_zero_among_observed <dbl>, n_negative <int>,
+#   min_observed <dbl>, median_observed <dbl>, max_observed <dbl>
+
+$feature_summary
+# A tibble: 5 × 11
+  Feature   n_rows n_missing pct_missing n_observed n_zero pct_zero_among_obser…¹
+  <chr>      <int>     <int>       <dbl>      <int>  <int>                  <dbl>
+1 High_alc…    170         0           0        170      0                      0
+2 High_BMI     170         0           0        170    170                    100
+3 High_fas…    170         0           0        170      0                      0
+4 Low_phys…    170         0           0        170      0                      0
+5 Tobacco_…    170         0           0        170      0                      0
+# ℹ abbreviated name: ¹​pct_zero_among_observed
+# ℹ 4 more variables: n_negative <int>, min_observed <dbl>,
+#   median_observed <dbl>, max_observed <dbl>
+
+$join_summary
+# A tibble: 7 × 2
+  Metric                                         Value
+  <chr>                                          <int>
+1 Expected year-age rows                           170
+2 Rows in df_features_x                            170
+3 Rows in df_target_y                              170
+4 Rows after left join                             170
+5 Rows with any missing feature                      0
+6 Rows with missing target                           0
+7 Rows complete for all five features and target   170
+
+$target_summary
+# A tibble: 1 × 7
+  n_rows n_missing_target pct_missing_target n_zero_target min_target
+   <int>            <int>              <dbl>         <int>      <dbl>
+1    170                0                  0             0     16418.
+# ℹ 2 more variables: median_target <dbl>, max_target <dbl>
+

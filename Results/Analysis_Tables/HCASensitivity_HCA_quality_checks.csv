@@ -1,0 +1,11 @@
+Check,Passed,Status
+One HCA input row is available for each year-age combination,TRUE,PASS
+No missing YLL values in the HCA input,TRUE,PASS
+No missing GDP-per-capita values in the HCA input,TRUE,PASS
+No missing female LFPR values in the HCA input,TRUE,PASS
+All LFPR values lie between 0 and 1,TRUE,PASS
+The recalculated 2023 main total matches the primary pipeline total,TRUE,PASS
+The normalized age profile preserves the 2023 total,TRUE,PASS
+All scenario multipliers are positive and finite,TRUE,PASS
+All scenario loss estimates are non-negative and finite,TRUE,PASS
+Risk-factor status table contains all five prespecified risks,TRUE,PASS

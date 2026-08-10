@@ -1,0 +1,8 @@
+v1.1.10 release-hygiene requirements
+
+Before uploading Manuscript_Ready, Data S1, GitHub Release assets, or Zenodo files:
+1. Remove __MACOSX directories, .DS_Store files, and AppleDouble files beginning with ._.
+2. Create the archive from the project root using the supplied create_clean_release_zip.py utility or another exclusion-aware archiver.
+3. Confirm that MANUSCRIPT_OUTPUT_INDEX.csv contains 32 entries.
+4. Confirm that V1_1_10_OUTPUT_QUALITY_CHECKS.csv and MANUSCRIPT_OUTPUT_QUALITY_CHECKS.csv contain only PASS results.
+5. Do not include third-party raw source files in the public release unless redistribution is permitted.

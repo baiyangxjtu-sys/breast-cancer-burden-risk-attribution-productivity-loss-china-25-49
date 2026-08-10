@@ -1,0 +1,37 @@
+Analysis,Feature,Spearman_rho,age_name,Risk_Factor
+Overall: absolute DALYs,High_alcohol_use,0.44667167396388646,NA,High alcohol use
+Overall: DALY rate,High_alcohol_use,0.5471620227038184,NA,High alcohol use
+Overall: absolute DALYs,High_fasting_plasma_glucose,0.9041505608783534,NA,High fasting plasma glucose
+Overall: DALY rate,High_fasting_plasma_glucose,0.9741745592662479,NA,High fasting plasma glucose
+Overall: absolute DALYs,Low_physical_activity,-0.021117360055202403,NA,Low physical activity
+Overall: DALY rate,Low_physical_activity,-0.007321645568847284,NA,Low physical activity
+Overall: absolute DALYs,Tobacco_use,0.4513834185184507,NA,Tobacco use
+Overall: DALY rate,Tobacco_use,0.5565635285568604,NA,Tobacco use
+Within age group: DALY rate,High_alcohol_use,-0.7970970206264324,25-29 years,High alcohol use
+Within age group: DALY rate,High_alcohol_use,-0.7699006875477463,30-34 years,High alcohol use
+Within age group: DALY rate,High_alcohol_use,-0.22627960275019096,35-39 years,High alcohol use
+Within age group: DALY rate,High_alcohol_use,0.026126814362108477,40-44 years,High alcohol use
+Within age group: DALY rate,High_alcohol_use,0.17005347593582887,45-49 years,High alcohol use
+Within age group: DALY rate,High_fasting_plasma_glucose,0.8068754774637127,25-29 years,High fasting plasma glucose
+Within age group: DALY rate,High_fasting_plasma_glucose,0.8032085561497326,30-34 years,High fasting plasma glucose
+Within age group: DALY rate,High_fasting_plasma_glucose,0.8713521772345301,35-39 years,High fasting plasma glucose
+Within age group: DALY rate,High_fasting_plasma_glucose,0.9532467532467532,40-44 years,High fasting plasma glucose
+Within age group: DALY rate,High_fasting_plasma_glucose,0.892742551566081,45-49 years,High fasting plasma glucose
+Within age group: DALY rate,Low_physical_activity,-0.8331550802139037,25-29 years,Low physical activity
+Within age group: DALY rate,Low_physical_activity,-0.7469824293353705,30-34 years,Low physical activity
+Within age group: DALY rate,Low_physical_activity,-0.5367456073338426,35-39 years,Low physical activity
+Within age group: DALY rate,Low_physical_activity,-0.7240641711229946,40-44 years,Low physical activity
+Within age group: DALY rate,Low_physical_activity,-0.680977845683728,45-49 years,Low physical activity
+Within age group: DALY rate,Tobacco_use,0.6464476699770817,25-29 years,Tobacco use
+Within age group: DALY rate,Tobacco_use,0.6653934300993124,30-34 years,Tobacco use
+Within age group: DALY rate,Tobacco_use,0.6256684491978609,35-39 years,Tobacco use
+Within age group: DALY rate,Tobacco_use,0.5871657754010695,40-44 years,Tobacco use
+Within age group: DALY rate,Tobacco_use,0.707257448433919,45-49 years,Tobacco use
+Between age-group means: DALY rate,High_alcohol_use,0.8999999999999998,NA,High alcohol use
+Between age-group means: absolute DALYs,High_alcohol_use,0.8999999999999998,NA,High alcohol use
+Between age-group means: DALY rate,High_fasting_plasma_glucose,0.9999999999999998,NA,High fasting plasma glucose
+Between age-group means: absolute DALYs,High_fasting_plasma_glucose,0.9999999999999998,NA,High fasting plasma glucose
+Between age-group means: DALY rate,Low_physical_activity,0.5999999999999999,NA,Low physical activity
+Between age-group means: absolute DALYs,Low_physical_activity,0.5999999999999999,NA,Low physical activity
+Between age-group means: DALY rate,Tobacco_use,0.8999999999999998,NA,Tobacco use
+Between age-group means: absolute DALYs,Tobacco_use,0.8999999999999998,NA,Tobacco use

@@ -1,0 +1,13 @@
+Analysis_type,Analysis_ID,Feature,Mean_abs_SHAP,Normalized_importance,Rank,Risk_Factor
+Forward temporal validation,Fold 1,High_alcohol_use,81.36010615030925,0.6553816700540255,1,High alcohol use
+Forward temporal validation,Fold 1,High_fasting_plasma_glucose,29.211842600504557,0.23531073267658506,2,High fasting plasma glucose
+Forward temporal validation,Fold 1,Low_physical_activity,3.8162656327088675,0.030741239928003872,4,Low physical activity
+Forward temporal validation,Fold 1,Tobacco_use,9.753350551612675,0.07856635734138566,3,Tobacco use
+Forward temporal validation,Fold 2,High_alcohol_use,15.543828423817953,0.11639094015623698,2,High alcohol use
+Forward temporal validation,Fold 2,High_fasting_plasma_glucose,95.88480962117514,0.7179777616053463,1,High fasting plasma glucose
+Forward temporal validation,Fold 2,Low_physical_activity,14.475357755025227,0.10839031751171589,3,Low physical activity
+Forward temporal validation,Fold 2,Tobacco_use,7.6444436485568685,0.057240980726700856,4,Tobacco use
+Forward temporal validation,Fold 3,High_alcohol_use,9.699533875783285,0.08849853887282534,2,High alcohol use
+Forward temporal validation,Fold 3,High_fasting_plasma_glucose,91.76110289891561,0.8372282251818232,1,High fasting plasma glucose
+Forward temporal validation,Fold 3,Low_physical_activity,5.955358242988586,0.05433668356832922,3,Low physical activity
+Forward temporal validation,Fold 3,Tobacco_use,2.185067319869995,0.019936552377022247,4,Tobacco use

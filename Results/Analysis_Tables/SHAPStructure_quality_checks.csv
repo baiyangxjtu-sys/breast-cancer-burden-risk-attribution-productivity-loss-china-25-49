@@ -1,0 +1,8 @@
+Check,Passed,Status
+All five planned sensitivity scenarios were constructed,TRUE,PASS
+All scenario targets and features are finite,TRUE,PASS
+Each scenario contains at least 150 observations,TRUE,PASS
+Full-sample SHAP output contains four non-constant features per scenario,TRUE,PASS
+Bootstrap summary contains four non-constant features per scenario,TRUE,PASS
+All normalized full-sample importance values sum to one within scenario,TRUE,PASS
+All normalized bootstrap mean importance values sum approximately to one within scenario,TRUE,PASS

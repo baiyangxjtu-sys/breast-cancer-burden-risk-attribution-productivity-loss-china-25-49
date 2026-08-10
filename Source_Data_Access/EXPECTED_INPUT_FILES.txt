@@ -1,0 +1,68 @@
+EXPECTED INPUT FILES FOR THE FROZEN v1.1.10 PIPELINE
+=========================================================
+
+Directory layout
+----------------
+
+<PROJECT_ROOT>/
+├── data/
+│   ├── data1a.csv
+│   ├── data1b.csv
+│   ├── data3a.csv
+│   ├── data3b.csv
+│   ├── data3c.csv
+│   ├── data3d.csv
+│   ├── data5a.xlsx
+│   ├── data6a.csv
+│   ├── data6b.csv
+│   ├── UN_Pop.csv.csv
+│   └── API_NY.GDP.PCAP.KD_*.csv
+└── Code/
+    └── GBD_EOBC_full_pipeline_FINAL_STANDALONE_v1.1.10.R
+
+Files read by pattern
+---------------------
+
+1. data1*.csv
+   Required. All matching CSV files are combined.
+
+2. data3*.csv
+   Required. All matching CSV files are combined.
+
+3. data6*.csv
+   Required for Figure 1 world maps.
+
+4. API_NY.GDP.PCAP.KD_*.csv
+   Exactly one matching World Bank CSV is required.
+
+Files read by exact or flexible name
+------------------------------------
+
+5. data5a.xlsx
+   Required ILOSTAT-derived China female age-specific labour-force participation file.
+
+6. (WPP2024|UN_Pop)*.csv
+   Exactly one matching UN population projection file is required.
+
+Not required as runtime inputs
+------------------------------
+
+- GLOBOCAN original exports: the ten age-specific 2022 case estimates used in the analysis are embedded in the standalone R script.
+- data2*.csv
+- data4*.csv
+- GBD_Master_Data_Cleaned.RData
+- GBD_Master_Data_Cleaned_2023.RData
+- IHME_GBD_SDI_2021_SDI_1950_2021_Y2024M05D16.csv
+- full ILO provenance exports
+- GLOBOCAN 2022–2050 projection exports
+
+Important
+---------
+
+Original third-party source files are not included in the public repository. Users must obtain them from the official providers and preserve the expected column names used by the standalone script.
+
+The default author path is /Users/baiyang/Desktop/GBD. Other users should set:
+
+Sys.setenv(GBD_EOBC_PROJECT_ROOT = "/absolute/path/to/project")
+
+before sourcing the R script.

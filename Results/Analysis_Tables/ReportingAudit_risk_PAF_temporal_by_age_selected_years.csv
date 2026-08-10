@@ -1,0 +1,126 @@
+year,age_name,Risk_Factor,PAF,Lower_95_UI,Upper_95_UI,Source_Status
+1990,25-29 years,High BMI,0,0,0,Observed zero
+2000,25-29 years,High BMI,0,0,0,Observed zero
+2010,25-29 years,High BMI,0,0,0,Observed zero
+2020,25-29 years,High BMI,0,0,0,Observed zero
+2023,25-29 years,High BMI,0,0,0,Observed zero
+1990,30-34 years,High BMI,0,0,0,Observed zero
+2000,30-34 years,High BMI,0,0,0,Observed zero
+2010,30-34 years,High BMI,0,0,0,Observed zero
+2020,30-34 years,High BMI,0,0,0,Observed zero
+2023,30-34 years,High BMI,0,0,0,Observed zero
+1990,35-39 years,High BMI,0,0,0,Observed zero
+2000,35-39 years,High BMI,0,0,0,Observed zero
+2010,35-39 years,High BMI,0,0,0,Observed zero
+2020,35-39 years,High BMI,0,0,0,Observed zero
+2023,35-39 years,High BMI,0,0,0,Observed zero
+1990,40-44 years,High BMI,0,0,0,Observed zero
+2000,40-44 years,High BMI,0,0,0,Observed zero
+2010,40-44 years,High BMI,0,0,0,Observed zero
+2020,40-44 years,High BMI,0,0,0,Observed zero
+2023,40-44 years,High BMI,0,0,0,Observed zero
+1990,45-49 years,High BMI,0,0,0,Observed zero
+2000,45-49 years,High BMI,0,0,0,Observed zero
+2010,45-49 years,High BMI,0,0,0,Observed zero
+2020,45-49 years,High BMI,0,0,0,Observed zero
+2023,45-49 years,High BMI,0,0,0,Observed zero
+1990,25-29 years,High alcohol use,0.008707177,0.003569449,0.013382008,Observed positive
+2000,25-29 years,High alcohol use,0.007120979,0.003849932,0.011564344,Observed positive
+2010,25-29 years,High alcohol use,0.010184134,0.005532394,0.017457856,Observed positive
+2020,25-29 years,High alcohol use,0.012101101,0.004749167,0.021217778,Observed positive
+2023,25-29 years,High alcohol use,0.01278197,0.005853235,0.023143531,Observed positive
+1990,30-34 years,High alcohol use,0.011251252,0.005643431,0.018000931,Observed positive
+2000,30-34 years,High alcohol use,0.010220577,0.005717036,0.015853304,Observed positive
+2010,30-34 years,High alcohol use,0.01331315,0.007764648,0.020093377,Observed positive
+2020,30-34 years,High alcohol use,0.014132922,0.006350189,0.02210046,Observed positive
+2023,30-34 years,High alcohol use,0.014492506,0.007030019,0.023191754,Observed positive
+1990,35-39 years,High alcohol use,0.014355623,0.00764465,0.023089521,Observed positive
+2000,35-39 years,High alcohol use,0.011859764,0.00661729,0.018183176,Observed positive
+2010,35-39 years,High alcohol use,0.013361842,0.007496272,0.021128348,Observed positive
+2020,35-39 years,High alcohol use,0.014180415,0.006203075,0.022729825,Observed positive
+2023,35-39 years,High alcohol use,0.014568366,0.006758959,0.023398362,Observed positive
+1990,40-44 years,High alcohol use,0.017381931,0.008779328,0.027870282,Observed positive
+2000,40-44 years,High alcohol use,0.014514268,0.007439625,0.022647457,Observed positive
+2010,40-44 years,High alcohol use,0.01586942,0.008145057,0.025088883,Observed positive
+2020,40-44 years,High alcohol use,0.016031123,0.006406957,0.026220801,Observed positive
+2023,40-44 years,High alcohol use,0.016239884,0.006693777,0.027079366,Observed positive
+1990,45-49 years,High alcohol use,0.016798402,0.006702754,0.027296681,Observed positive
+2000,45-49 years,High alcohol use,0.012477545,0.004602624,0.021054832,Observed positive
+2010,45-49 years,High alcohol use,0.013408332,0.005373625,0.023999345,Observed positive
+2020,45-49 years,High alcohol use,0.013955213,0.004965371,0.024729087,Observed positive
+2023,45-49 years,High alcohol use,0.014464701,0.004951565,0.027010604,Observed positive
+1990,25-29 years,High fasting plasma glucose,0.037119062,0.016426178,0.075665877,Observed positive
+2000,25-29 years,High fasting plasma glucose,0.028636487,0.013117975,0.056804801,Observed positive
+2010,25-29 years,High fasting plasma glucose,0.022848882,0.011284625,0.042152961,Observed positive
+2020,25-29 years,High fasting plasma glucose,0.023673157,0.01079947,0.045670911,Observed positive
+2023,25-29 years,High fasting plasma glucose,0.025011343,0.011466119,0.048521737,Observed positive
+1990,30-34 years,High fasting plasma glucose,0.045145279,0.022443579,0.087039213,Observed positive
+2000,30-34 years,High fasting plasma glucose,0.036445437,0.018308682,0.067603535,Observed positive
+2010,30-34 years,High fasting plasma glucose,0.029600978,0.01583274,0.052185556,Observed positive
+2020,30-34 years,High fasting plasma glucose,0.030584534,0.01601236,0.055883183,Observed positive
+2023,30-34 years,High fasting plasma glucose,0.032046331,0.016380299,0.058872327,Observed positive
+1990,35-39 years,High fasting plasma glucose,0.054268752,0.028541616,0.098619314,Observed positive
+2000,35-39 years,High fasting plasma glucose,0.045665799,0.024821891,0.079565706,Observed positive
+2010,35-39 years,High fasting plasma glucose,0.037545924,0.021943611,0.063068901,Observed positive
+2020,35-39 years,High fasting plasma glucose,0.038599955,0.021372577,0.066769655,Observed positive
+2023,35-39 years,High fasting plasma glucose,0.040487655,0.022208063,0.070389358,Observed positive
+1990,40-44 years,High fasting plasma glucose,0.063398239,0.032605835,0.106792119,Observed positive
+2000,40-44 years,High fasting plasma glucose,0.054873807,0.03228164,0.088998182,Observed positive
+2010,40-44 years,High fasting plasma glucose,0.045163714,0.029394875,0.071147722,Observed positive
+2020,40-44 years,High fasting plasma glucose,0.045535678,0.029004982,0.072675926,Observed positive
+2023,40-44 years,High fasting plasma glucose,0.047710849,0.028632529,0.077574338,Observed positive
+1990,45-49 years,High fasting plasma glucose,0.071014651,0.039310611,0.113695452,Observed positive
+2000,45-49 years,High fasting plasma glucose,0.062938271,0.039593624,0.097455823,Observed positive
+2010,45-49 years,High fasting plasma glucose,0.05338105,0.037059702,0.078816692,Observed positive
+2020,45-49 years,High fasting plasma glucose,0.053412344,0.035272312,0.081530076,Observed positive
+2023,45-49 years,High fasting plasma glucose,0.055625895,0.035304193,0.083623198,Observed positive
+1990,25-29 years,Low physical activity,0.011168373,0.00116381,0.027452007,Observed positive
+2000,25-29 years,Low physical activity,0.010452954,0.001543833,0.023859956,Observed positive
+2010,25-29 years,Low physical activity,0.011747556,0.002113917,0.027245284,Observed positive
+2020,25-29 years,Low physical activity,0.012287149,0.001725028,0.029541914,Observed positive
+2023,25-29 years,Low physical activity,0.012452162,0.001506118,0.031965986,Observed positive
+1990,30-34 years,Low physical activity,0.01110376,0.001048111,0.026205179,Observed positive
+2000,30-34 years,Low physical activity,0.010645425,0.001583051,0.022434808,Observed positive
+2010,30-34 years,Low physical activity,0.011397475,0.001783596,0.025425546,Observed positive
+2020,30-34 years,Low physical activity,0.012563483,0.001524059,0.032238314,Observed positive
+2023,30-34 years,Low physical activity,0.012391762,0.001397063,0.032671491,Observed positive
+1990,35-39 years,Low physical activity,0.01096633,0.001408766,0.029465344,Observed positive
+2000,35-39 years,Low physical activity,0.010606058,0.001574632,0.02338711,Observed positive
+2010,35-39 years,Low physical activity,0.010722944,0.002057656,0.023875909,Observed positive
+2020,35-39 years,Low physical activity,0.011767885,0.001317534,0.030296454,Observed positive
+2023,35-39 years,Low physical activity,0.011994053,0.001334197,0.029335047,Observed positive
+1990,40-44 years,Low physical activity,0.011178685,0.001334634,0.027893398,Observed positive
+2000,40-44 years,Low physical activity,0.01069308,0.001659923,0.024078711,Observed positive
+2010,40-44 years,Low physical activity,0.011288664,0.001802481,0.027437687,Observed positive
+2020,40-44 years,Low physical activity,0.012543136,0.001324628,0.029775343,Observed positive
+2023,40-44 years,Low physical activity,0.012682763,0.00129673,0.028905371,Observed positive
+1990,45-49 years,Low physical activity,0.01205881,0.001552717,0.029379818,Observed positive
+2000,45-49 years,Low physical activity,0.011487986,0.001914834,0.026228253,Observed positive
+2010,45-49 years,Low physical activity,0.01181228,0.001625148,0.02829704,Observed positive
+2020,45-49 years,Low physical activity,0.012921721,0.001645931,0.029685986,Observed positive
+2023,45-49 years,Low physical activity,0.013235712,0.001573293,0.030609445,Observed positive
+1990,25-29 years,Tobacco use,0.136495965,0.087354629,0.183867637,Observed positive
+2000,25-29 years,Tobacco use,0.132203181,0.08403366,0.181219066,Observed positive
+2010,25-29 years,Tobacco use,0.129478379,0.081952744,0.176942115,Observed positive
+2020,25-29 years,Tobacco use,0.127479173,0.081631013,0.173997081,Observed positive
+2023,25-29 years,Tobacco use,0.126562943,0.081072063,0.173961088,Observed positive
+1990,30-34 years,Tobacco use,0.137370708,0.088811617,0.183199105,Observed positive
+2000,30-34 years,Tobacco use,0.133140785,0.087272238,0.181586048,Observed positive
+2010,30-34 years,Tobacco use,0.130591659,0.083501635,0.178460001,Observed positive
+2020,30-34 years,Tobacco use,0.128331929,0.082943212,0.173988344,Observed positive
+2023,30-34 years,Tobacco use,0.127430066,0.082515955,0.174715872,Observed positive
+1990,35-39 years,Tobacco use,0.137975961,0.089455046,0.183262589,Observed positive
+2000,35-39 years,Tobacco use,0.133418932,0.087789445,0.18101204,Observed positive
+2010,35-39 years,Tobacco use,0.130078604,0.083378843,0.177037567,Observed positive
+2020,35-39 years,Tobacco use,0.127935336,0.082487702,0.173192921,Observed positive
+2023,35-39 years,Tobacco use,0.126968429,0.082239165,0.173949956,Observed positive
+1990,40-44 years,Tobacco use,0.140296999,0.090490961,0.186181355,Observed positive
+2000,40-44 years,Tobacco use,0.135924965,0.089526638,0.183308653,Observed positive
+2010,40-44 years,Tobacco use,0.133872936,0.088250979,0.18193097,Observed positive
+2020,40-44 years,Tobacco use,0.130894099,0.084917173,0.177864832,Observed positive
+2023,40-44 years,Tobacco use,0.129928242,0.085092057,0.177213445,Observed positive
+1990,45-49 years,Tobacco use,0.142031351,0.09222011,0.187148678,Observed positive
+2000,45-49 years,Tobacco use,0.13665602,0.09042956,0.183347467,Observed positive
+2010,45-49 years,Tobacco use,0.1326165,0.086749204,0.179330532,Observed positive
+2020,45-49 years,Tobacco use,0.130444757,0.085568984,0.174923135,Observed positive
+2023,45-49 years,Tobacco use,0.129561462,0.085407502,0.17485923,Observed positive

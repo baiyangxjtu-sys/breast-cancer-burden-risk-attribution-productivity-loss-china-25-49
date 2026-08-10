@@ -1,0 +1,21 @@
+Scenario,Bootstrap_ID,Feature,Mean_abs_SHAP,Normalized_importance,Rank,Risk_Factor
+Absolute DALYs (primary scale),NA,High_alcohol_use,12.08661194452468,0.10944736998353952,2,High alcohol use
+Absolute DALYs (primary scale),NA,High_fasting_plasma_glucose,85.30897482037544,0.7724946389390571,1,High fasting plasma glucose
+Absolute DALYs (primary scale),NA,Low_physical_activity,8.752852755905513,0.07925932580478058,3,Low physical activity
+Absolute DALYs (primary scale),NA,Tobacco_use,4.284656736714875,0.03879866527262283,4,Tobacco use
+Age-specific DALY rate,NA,High_alcohol_use,13.076190829627654,0.05102562070792782,3,High alcohol use
+Age-specific DALY rate,NA,High_fasting_plasma_glucose,213.52147223949433,0.8331987348184804,1,High fasting plasma glucose
+Age-specific DALY rate,NA,Low_physical_activity,22.147934045598788,0.08642517509872599,2,Low physical activity
+Age-specific DALY rate,NA,Tobacco_use,7.521561387400417,0.029350469374865917,4,Tobacco use
+Within-age centered rate and PAFs,NA,High_alcohol_use,18.524528435069847,0.13852124169341007,3,High alcohol use
+Within-age centered rate and PAFs,NA,High_fasting_plasma_glucose,90.27528658474193,0.6750533399961146,1,High fasting plasma glucose
+Within-age centered rate and PAFs,NA,Low_physical_activity,20.8380877922563,0.1558213913847869,2,Low physical activity
+Within-age centered rate and PAFs,NA,Tobacco_use,4.092694810427287,0.03060402692568869,4,Tobacco use
+Within-age annual first differences,NA,High_alcohol_use,2.984369128039389,0.26639022437152465,2,High alcohol use
+Within-age annual first differences,NA,High_fasting_plasma_glucose,5.003547969144402,0.446625805645471,1,High fasting plasma glucose
+Within-age annual first differences,NA,Low_physical_activity,1.668282058496367,0.1489138953028235,3,Low physical activity
+Within-age annual first differences,NA,Tobacco_use,1.5467987586772352,0.13807007468018082,4,Tobacco use
+Age- and smooth-year-adjusted residuals,NA,High_alcohol_use,19.328361954036005,0.3596664569499401,1,High alcohol use
+Age- and smooth-year-adjusted residuals,NA,High_fasting_plasma_glucose,17.666171881644164,0.3287360544907859,2,High fasting plasma glucose
+Age- and smooth-year-adjusted residuals,NA,Low_physical_activity,6.988736009466297,0.13004795362694105,4,Low physical activity
+Age- and smooth-year-adjusted residuals,NA,Tobacco_use,9.756414744696196,0.18154953493233297,3,Tobacco use

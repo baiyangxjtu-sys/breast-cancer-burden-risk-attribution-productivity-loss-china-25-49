@@ -1,0 +1,10 @@
+Check,Passed,Status
+"Burden table contains all locations, selected years, five measures and two metrics",TRUE,PASS
+All burden point estimates and UI bounds are finite,TRUE,PASS
+All burden lower bounds are <= point estimates,TRUE,PASS
+All burden point estimates are <= upper bounds,TRUE,PASS
+MIR table contains complete incidence and death values,TRUE,PASS
+Weighted MIR values are finite and non-negative,TRUE,PASS
+Temporal PAF table contains all 170 year-age rows for each of five risks,TRUE,PASS
+HCA PAF selection identifies exactly one measure,TRUE,PASS
+The selected HCA PAF measure is complete according to the inventory,TRUE,PASS

@@ -1,0 +1,11 @@
+Human Capital Approach sensitivity analysis: Human Capital Approach sensitivity assumptions
+
+1. The primary estimate remains Total YLLs multiplied by World Bank GDP per capita in constant 2015 US dollars (NY.GDP.PCAP.KD) and age-specific female labour-force participation.
+2. The analysis estimates mortality-related productivity loss, not the complete economic burden of breast cancer.
+3. The uniform +/-20% scenarios quantify sensitivity to the monetary value assigned to one productive life-year.
+4. The age-graded profile is illustrative and is normalized to preserve the overall 2023 monetary scale; it evaluates redistribution across age groups rather than asserting an observed wage schedule.
+5. The combined scenarios apply both the age profile and the +/-20% monetary bounds.
+6. An optional empirical age-by-sex earnings profile was not supplied.
+7. The scenarios do not account for unpaid household production, informal caregiving, treatment expenditure, morbidity-related work loss, or quality-of-life loss.
+8. Risk-specific losses are based on GBD PAFs and are not additive because risk exposures may overlap.
+9. High BMI is reported according to the source data; a constant-zero PAF series cannot be interpreted as evidence that adiposity is clinically unimportant.

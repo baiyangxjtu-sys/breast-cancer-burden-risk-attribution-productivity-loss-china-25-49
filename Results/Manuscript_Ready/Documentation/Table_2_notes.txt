@@ -1,0 +1,9 @@
+Table 2 notes
+
+China incident cases increased from 50,064 in 1990 to 87,221 in 2023.
+The table presents the complete sequential decomposition pathway. The observed 1990 case count serves as the baseline.
+Total population size was replaced first, followed by age structure; the remaining difference between the demographic counterfactual and the observed 2023 case count was defined as the residual epidemiological component.
+The residual epidemiological component is descriptive and should not be interpreted as a directly measured causal exposure or metabolic mechanism.
+Stage-specific case counts, incremental contributions, and percentages were calculated from unrounded estimates and rounded separately for presentation. Differences between adjacent displayed stage counts may therefore not exactly equal the displayed component contributions.
+Negative component values, if present in another location, indicate that the corresponding component reduced rather than increased the overall change.
+Full decomposition results for China, the global population, and the five SDI strata are provided in Supplementary Table S2.

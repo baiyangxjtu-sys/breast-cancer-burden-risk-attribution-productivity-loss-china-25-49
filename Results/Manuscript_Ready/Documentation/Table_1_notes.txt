@@ -1,0 +1,7 @@
+Table 1 notes
+
+Counts were summed from age-specific GBD estimates for women aged 25-49 years.
+ASIR and ASDR were recalculated by the authors using the study-specific 25-49-year age range and GBD standard-population weights.
+EAPCs and 95% confidence intervals were estimated by log-linear regression of the recalculated weighted rates.
+The displayed uncertainty bounds were aggregated from age-specific GBD lower and upper estimates using the same summation or weighting procedure; covariance among GBD draws was not reconstructed.
+Abbreviations: ASIR, age-standardized incidence rate; ASDR, age-standardized death rate; EAPC, estimated annual percentage change; UI, uncertainty interval.

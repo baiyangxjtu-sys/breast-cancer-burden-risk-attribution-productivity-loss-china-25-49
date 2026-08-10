@@ -1,0 +1,2 @@
+PAF_measure,Rows,Negative_source_PAF_rows,Zero_source_PAF_rows,Missing_source_PAF_rows,Minimum_source_PAF,Maximum_source_PAF,Rule_for_loss_calculation
+YLL,850,0,170,0,0,0.145521695,Negative signed source PAFs were retained for audit and truncated to zero only for monetary loss calculations.

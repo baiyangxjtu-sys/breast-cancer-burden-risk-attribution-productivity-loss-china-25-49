@@ -1,0 +1,3 @@
+Analysis version: v1.1.10
+Completed: 2026-08-02 09:43:01.934806
+This v1.1.10 release is a final reporting-and-packaging patch based on the validated v1.1.8 analysis. It standardizes publication-facing terminology, corrects output labels and documentation, completes the manuscript output index, and adds release-hygiene guidance. No input data, model specification, statistical calculation, random seed, or numerical result was changed.

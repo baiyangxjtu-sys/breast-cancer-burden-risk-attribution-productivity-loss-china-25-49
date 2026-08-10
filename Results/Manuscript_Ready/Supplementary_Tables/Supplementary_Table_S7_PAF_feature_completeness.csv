@@ -1,0 +1,6 @@
+Feature,n_rows,n_missing,pct_missing,n_observed,n_zero,pct_zero_among_observed,n_negative,min_observed,median_observed,max_observed
+High_alcohol_use,170,0,0,170,0,0,0,0.007120979,0.0136837995,0.017398213
+High_BMI,170,0,0,170,170,100,0,0,0,0
+High_fasting_plasma_glucose,170,0,0,170,0,0,0,0.022720416,0.0438545375,0.071648727
+Low_physical_activity,170,0,0,170,0,0,0,0.010450669,0.0113050935,0.013235712
+Tobacco_use,170,0,0,170,0,0,0,0.12650232,0.131357416,0.14552017

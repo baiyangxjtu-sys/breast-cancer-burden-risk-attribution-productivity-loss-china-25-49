@@ -1,0 +1,26 @@
+# R history and session files
+.Rhistory
+.Rapp.history
+.RData
+.RDataTmp
+.Ruserdata
+*.RData
+*.rds
+
+# RStudio project files
+.Rproj.user/
+
+# Credentials and local environment files
+.Renviron
+.httr-oauth
+
+# macOS and operating-system metadata
+.DS_Store
+**/.DS_Store
+._*
+__MACOSX/
+Thumbs.db
+
+# Original third-party source data
+data/
+**/data/

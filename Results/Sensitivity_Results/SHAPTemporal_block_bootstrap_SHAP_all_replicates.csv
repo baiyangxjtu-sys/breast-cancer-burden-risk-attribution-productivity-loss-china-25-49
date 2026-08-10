@@ -1,0 +1,801 @@
+Analysis_type,Analysis_ID,Feature,Mean_abs_SHAP,Normalized_importance,Rank,Risk_Factor,Bootstrap_ID
+Grouped calendar-block bootstrap,Bootstrap 1,High_alcohol_use,7.260684367291191,0.061432622818381355,3,High alcohol use,1
+Grouped calendar-block bootstrap,Bootstrap 1,High_fasting_plasma_glucose,92.817649933169875,0.7853297830876916,1,High fasting plasma glucose,1
+Grouped calendar-block bootstrap,Bootstrap 1,Low_physical_activity,13.11720898573232,0.11098465534193336,2,Low physical activity,1
+Grouped calendar-block bootstrap,Bootstrap 1,Tobacco_use,4.993849160171607,0.0422529387519937,4,Tobacco use,1
+Grouped calendar-block bootstrap,Bootstrap 2,High_alcohol_use,11.616966629992513,0.09916512127333446,3,High alcohol use,2
+Grouped calendar-block bootstrap,Bootstrap 2,High_fasting_plasma_glucose,86.80549328257055,0.7409918219385705,1,High fasting plasma glucose,2
+Grouped calendar-block bootstrap,Bootstrap 2,Low_physical_activity,13.552993199053933,0.11569149305559523,2,Low physical activity,2
+Grouped calendar-block bootstrap,Bootstrap 2,Tobacco_use,5.172254477748099,0.04415156373249977,4,Tobacco use,2
+Grouped calendar-block bootstrap,Bootstrap 3,High_alcohol_use,7.923798824233168,0.06814229693103233,3,High alcohol use,3
+Grouped calendar-block bootstrap,Bootstrap 3,High_fasting_plasma_glucose,93.72283145680147,0.8059882831470699,1,High fasting plasma glucose,3
+Grouped calendar-block bootstrap,Bootstrap 3,Low_physical_activity,9.911234106408322,0.08523364517614575,2,Low physical activity,3
+Grouped calendar-block bootstrap,Bootstrap 3,Tobacco_use,4.725254631173962,0.040635774745751765,4,Tobacco use,3
+Grouped calendar-block bootstrap,Bootstrap 4,High_alcohol_use,7.351564572444733,0.0628907921811378,3,High alcohol use,4
+Grouped calendar-block bootstrap,Bootstrap 4,High_fasting_plasma_glucose,94.53810500581474,0.8087497914939896,1,High fasting plasma glucose,4
+Grouped calendar-block bootstrap,Bootstrap 4,Low_physical_activity,10.033707000665805,0.08583584835131972,2,Low physical activity,4
+Grouped calendar-block bootstrap,Bootstrap 4,Tobacco_use,4.97075557432836,0.042523567973552924,4,Tobacco use,4
+Grouped calendar-block bootstrap,Bootstrap 5,High_alcohol_use,8.077357493647758,0.07001053170846994,3,High alcohol use,5
+Grouped calendar-block bootstrap,Bootstrap 5,High_fasting_plasma_glucose,92.1000895135543,0.7982779321470501,1,High fasting plasma glucose,5
+Grouped calendar-block bootstrap,Bootstrap 5,Low_physical_activity,10.109992953609018,0.0876284085244077,2,Low physical activity,5
+Grouped calendar-block bootstrap,Bootstrap 5,Tobacco_use,5.086023095898631,0.044083127620072306,4,Tobacco use,5
+Grouped calendar-block bootstrap,Bootstrap 6,High_alcohol_use,18.136024042043616,0.1659137767411806,2,High alcohol use,6
+Grouped calendar-block bootstrap,Bootstrap 6,High_fasting_plasma_glucose,77.13537756730528,0.7056575235498236,1,High fasting plasma glucose,6
+Grouped calendar-block bootstrap,Bootstrap 6,Low_physical_activity,9.017982226741665,0.08249920083668762,3,Low physical activity,6
+Grouped calendar-block bootstrap,Bootstrap 6,Tobacco_use,5.020550506101811,0.045929498872308225,4,Tobacco use,6
+Grouped calendar-block bootstrap,Bootstrap 7,High_alcohol_use,9.956817476495225,0.08528992332580299,3,High alcohol use,7
+Grouped calendar-block bootstrap,Bootstrap 7,High_fasting_plasma_glucose,86.27068902999163,0.7389932044051272,1,High fasting plasma glucose,7
+Grouped calendar-block bootstrap,Bootstrap 7,Low_physical_activity,12.703776249393602,0.10882032384511764,2,Low physical activity,7
+Grouped calendar-block bootstrap,Bootstrap 7,Tobacco_use,7.809559400357744,0.06689654842395217,4,Tobacco use,7
+Grouped calendar-block bootstrap,Bootstrap 8,High_alcohol_use,12.278068748116493,0.11059292327340323,2,High alcohol use,8
+Grouped calendar-block bootstrap,Bootstrap 8,High_fasting_plasma_glucose,87.83271401489482,0.7911404310579504,1,High fasting plasma glucose,8
+Grouped calendar-block bootstrap,Bootstrap 8,Low_physical_activity,6.15649025010712,0.055453692908178184,3,Low physical activity,8
+Grouped calendar-block bootstrap,Bootstrap 8,Tobacco_use,4.753110431879759,0.042812952760468065,4,Tobacco use,8
+Grouped calendar-block bootstrap,Bootstrap 9,High_alcohol_use,19.28741836683715,0.16883568836364388,2,High alcohol use,9
+Grouped calendar-block bootstrap,Bootstrap 9,High_fasting_plasma_glucose,75.4105642316096,0.6601191657576122,1,High fasting plasma glucose,9
+Grouped calendar-block bootstrap,Bootstrap 9,Low_physical_activity,14.135712530157145,0.12373935744781776,3,Low physical activity,9
+Grouped calendar-block bootstrap,Bootstrap 9,Tobacco_use,5.404109412431717,0.04730578843092608,4,Tobacco use,9
+Grouped calendar-block bootstrap,Bootstrap 10,High_alcohol_use,7.325836589899572,0.06242939471851768,3,High alcohol use,10
+Grouped calendar-block bootstrap,Bootstrap 10,High_fasting_plasma_glucose,93.07946948821053,0.7932056454659984,1,High fasting plasma glucose,10
+Grouped calendar-block bootstrap,Bootstrap 10,Low_physical_activity,13.233271979693981,0.11277144251031415,2,Low physical activity,10
+Grouped calendar-block bootstrap,Bootstrap 10,Tobacco_use,3.7073712811312256,0.03159351730516975,4,Tobacco use,10
+Grouped calendar-block bootstrap,Bootstrap 11,High_alcohol_use,13.92914138786933,0.12128409927067169,2,High alcohol use,11
+Grouped calendar-block bootstrap,Bootstrap 11,High_fasting_plasma_glucose,87.43714335946476,0.7613344483952738,1,High fasting plasma glucose,11
+Grouped calendar-block bootstrap,Bootstrap 11,Low_physical_activity,8.500018531314153,0.07401153184160109,3,Low physical activity,11
+Grouped calendar-block bootstrap,Bootstrap 11,Tobacco_use,4.980914713080753,0.043369920492453425,4,Tobacco use,11
+Grouped calendar-block bootstrap,Bootstrap 12,High_alcohol_use,10.291106547261862,0.09291987566761084,2,High alcohol use,12
+Grouped calendar-block bootstrap,Bootstrap 12,High_fasting_plasma_glucose,89.74171368655037,0.8102907923124437,1,High fasting plasma glucose,12
+Grouped calendar-block bootstrap,Bootstrap 12,Low_physical_activity,7.559683698886896,0.06825746737350934,3,Low physical activity,12
+Grouped calendar-block bootstrap,Bootstrap 12,Tobacco_use,3.159974730474984,0.028531864646436082,4,Tobacco use,12
+Grouped calendar-block bootstrap,Bootstrap 13,High_alcohol_use,6.842338721410316,0.05931584057652194,3,High alcohol use,13
+Grouped calendar-block bootstrap,Bootstrap 13,High_fasting_plasma_glucose,94.31007921415217,0.8175686488482955,1,High fasting plasma glucose,13
+Grouped calendar-block bootstrap,Bootstrap 13,Low_physical_activity,8.24343294241356,0.07146184574075984,2,Low physical activity,13
+Grouped calendar-block bootstrap,Bootstrap 13,Tobacco_use,5.9584736145375405,0.051653664834422755,4,Tobacco use,13
+Grouped calendar-block bootstrap,Bootstrap 14,High_alcohol_use,9.253563550640555,0.08452525008577143,3,High alcohol use,14
+Grouped calendar-block bootstrap,Bootstrap 14,High_fasting_plasma_glucose,86.96310495138168,0.7943510793462804,1,High fasting plasma glucose,14
+Grouped calendar-block bootstrap,Bootstrap 14,Low_physical_activity,9.445759271846756,0.08628083227975168,2,Low physical activity,14
+Grouped calendar-block bootstrap,Bootstrap 14,Tobacco_use,3.8144864174592144,0.03484283828819651,4,Tobacco use,14
+Grouped calendar-block bootstrap,Bootstrap 15,High_alcohol_use,13.214241571461454,0.11770994770785034,2,High alcohol use,15
+Grouped calendar-block bootstrap,Bootstrap 15,High_fasting_plasma_glucose,88.29337630131666,0.7865005835691031,1,High fasting plasma glucose,15
+Grouped calendar-block bootstrap,Bootstrap 15,Low_physical_activity,6.204761636377696,0.05527083516734277,3,Low physical activity,15
+Grouped calendar-block bootstrap,Bootstrap 15,Tobacco_use,4.548664088098003,0.04051863355570369,4,Tobacco use,15
+Grouped calendar-block bootstrap,Bootstrap 16,High_alcohol_use,4.450291257658425,0.0405620477019389,4,High alcohol use,16
+Grouped calendar-block bootstrap,Bootstrap 16,High_fasting_plasma_glucose,84.65620998529828,0.7715965155718315,1,High fasting plasma glucose,16
+Grouped calendar-block bootstrap,Bootstrap 16,Low_physical_activity,6.359950085625272,0.057967576461684905,3,Low physical activity,16
+Grouped calendar-block bootstrap,Bootstrap 16,Tobacco_use,14.249194448485094,0.12987386026454473,2,Tobacco use,16
+Grouped calendar-block bootstrap,Bootstrap 17,High_alcohol_use,11.675226388784015,0.09987729065985404,3,High alcohol use,17
+Grouped calendar-block bootstrap,Bootstrap 17,High_fasting_plasma_glucose,86.44243366244962,0.7394833971308399,1,High fasting plasma glucose,17
+Grouped calendar-block bootstrap,Bootstrap 17,Low_physical_activity,13.045421159092118,0.11159880566757524,2,Low physical activity,17
+Grouped calendar-block bootstrap,Bootstrap 17,Tobacco_use,5.732624626806116,0.0490405065417309,4,Tobacco use,17
+Grouped calendar-block bootstrap,Bootstrap 18,High_alcohol_use,8.515369670331369,0.07649441545251354,3,High alcohol use,18
+Grouped calendar-block bootstrap,Bootstrap 18,High_fasting_plasma_glucose,86.12282444378909,0.773649925721983,1,High fasting plasma glucose,18
+Grouped calendar-block bootstrap,Bootstrap 18,Low_physical_activity,12.613968868465985,0.11331254102700171,2,Low physical activity,18
+Grouped calendar-block bootstrap,Bootstrap 18,Tobacco_use,4.067985291735214,0.036543117798501716,4,Tobacco use,18
+Grouped calendar-block bootstrap,Bootstrap 19,High_alcohol_use,6.7448583199697385,0.05922084234292633,3,High alcohol use,19
+Grouped calendar-block bootstrap,Bootstrap 19,High_fasting_plasma_glucose,93.64876929451438,0.8222498885676222,1,High fasting plasma glucose,19
+Grouped calendar-block bootstrap,Bootstrap 19,Low_physical_activity,8.62714559427079,0.075747599856193,2,Low physical activity,19
+Grouped calendar-block bootstrap,Bootstrap 19,Tobacco_use,4.872546324133873,0.04278166923325855,4,Tobacco use,19
+Grouped calendar-block bootstrap,Bootstrap 20,High_alcohol_use,7.5295615773867155,0.0658615046196861,2,High alcohol use,20
+Grouped calendar-block bootstrap,Bootstrap 20,High_fasting_plasma_glucose,94.65499091849608,0.8279526048870632,1,High fasting plasma glucose,20
+Grouped calendar-block bootstrap,Bootstrap 20,Low_physical_activity,7.409514183682554,0.0648114432191959,3,Low physical activity,20
+Grouped calendar-block bootstrap,Bootstrap 20,Tobacco_use,4.730099172183476,0.04137444727405478,4,Tobacco use,20
+Grouped calendar-block bootstrap,Bootstrap 21,High_alcohol_use,16.204531208557242,0.13732808875986152,2,High alcohol use,21
+Grouped calendar-block bootstrap,Bootstrap 21,High_fasting_plasma_glucose,93.45132604627048,0.7919693468967445,1,High fasting plasma glucose,21
+Grouped calendar-block bootstrap,Bootstrap 21,Low_physical_activity,6.15180142381612,0.052134499979656,3,Low physical activity,21
+Grouped calendar-block bootstrap,Bootstrap 21,Tobacco_use,2.1910068157348124,0.018568064363737993,4,Tobacco use,21
+Grouped calendar-block bootstrap,Bootstrap 22,High_alcohol_use,12.224445386932176,0.11235254805855159,2,High alcohol use,22
+Grouped calendar-block bootstrap,Bootstrap 22,High_fasting_plasma_glucose,86.78159937017104,0.7975931426924218,1,High fasting plasma glucose,22
+Grouped calendar-block bootstrap,Bootstrap 22,Low_physical_activity,5.868500756077907,0.053936272146441845,3,Low physical activity,22
+Grouped calendar-block bootstrap,Bootstrap 22,Tobacco_use,3.9297993652412995,0.036118037102584856,4,Tobacco use,22
+Grouped calendar-block bootstrap,Bootstrap 23,High_alcohol_use,10.62637964627322,0.09659163928290643,3,High alcohol use,23
+Grouped calendar-block bootstrap,Bootstrap 23,High_fasting_plasma_glucose,82.7067812814432,0.7517878948160059,1,High fasting plasma glucose,23
+Grouped calendar-block bootstrap,Bootstrap 23,Low_physical_activity,12.536364312294651,0.11395301315033893,2,Low physical activity,23
+Grouped calendar-block bootstrap,Bootstrap 23,Tobacco_use,4.143926495182163,0.037667452750748696,4,Tobacco use,23
+Grouped calendar-block bootstrap,Bootstrap 24,High_alcohol_use,14.995520322287783,0.11915056957304235,2,High alcohol use,24
+Grouped calendar-block bootstrap,Bootstrap 24,High_fasting_plasma_glucose,101.01728586309096,0.8026575196207544,1,High fasting plasma glucose,24
+Grouped calendar-block bootstrap,Bootstrap 24,Low_physical_activity,6.956215147235814,0.05527230659904976,3,Low physical activity,24
+Grouped calendar-block bootstrap,Bootstrap 24,Tobacco_use,2.884513199548511,0.022919604207153565,4,Tobacco use,24
+Grouped calendar-block bootstrap,Bootstrap 25,High_alcohol_use,13.103743057610357,0.11116470116767525,2,High alcohol use,25
+Grouped calendar-block bootstrap,Bootstrap 25,High_fasting_plasma_glucose,85.41509388685226,0.7246130624963906,1,High fasting plasma glucose,25
+Grouped calendar-block bootstrap,Bootstrap 25,Low_physical_activity,12.606515060715816,0.10694650172313705,3,Low physical activity,25
+Grouped calendar-block bootstrap,Bootstrap 25,Tobacco_use,6.751482277363539,0.05727573461279711,4,Tobacco use,25
+Grouped calendar-block bootstrap,Bootstrap 26,High_alcohol_use,8.110247363676043,0.07482159973209342,2,High alcohol use,26
+Grouped calendar-block bootstrap,Bootstrap 26,High_fasting_plasma_glucose,90.05924359682729,0.8308472447778309,1,High fasting plasma glucose,26
+Grouped calendar-block bootstrap,Bootstrap 26,Low_physical_activity,7.0425959258175945,0.06497191390196468,3,Low physical activity,26
+Grouped calendar-block bootstrap,Bootstrap 26,Tobacco_use,3.1823793201707304,0.02935924158811108,4,Tobacco use,26
+Grouped calendar-block bootstrap,Bootstrap 27,High_alcohol_use,12.08661194452468,0.10944736998353952,2,High alcohol use,27
+Grouped calendar-block bootstrap,Bootstrap 27,High_fasting_plasma_glucose,85.30897482037544,0.7724946389390571,1,High fasting plasma glucose,27
+Grouped calendar-block bootstrap,Bootstrap 27,Low_physical_activity,8.752852755905513,0.07925932580478058,3,Low physical activity,27
+Grouped calendar-block bootstrap,Bootstrap 27,Tobacco_use,4.284656736714875,0.03879866527262283,4,Tobacco use,27
+Grouped calendar-block bootstrap,Bootstrap 28,High_alcohol_use,12.090796143605429,0.10498508066702478,2,High alcohol use,28
+Grouped calendar-block bootstrap,Bootstrap 28,High_fasting_plasma_glucose,84.97718550194712,0.737861805692337,1,High fasting plasma glucose,28
+Grouped calendar-block bootstrap,Bootstrap 28,Low_physical_activity,11.057009550118272,0.09600865201661382,3,Low physical activity,28
+Grouped calendar-block bootstrap,Bootstrap 28,Tobacco_use,7.0418121899752055,0.06114446162402448,4,Tobacco use,28
+Grouped calendar-block bootstrap,Bootstrap 29,High_alcohol_use,13.156248091117424,0.11583611429862259,2,High alcohol use,29
+Grouped calendar-block bootstrap,Bootstrap 29,High_fasting_plasma_glucose,88.73295371847995,0.7812622943715886,1,High fasting plasma glucose,29
+Grouped calendar-block bootstrap,Bootstrap 29,Low_physical_activity,6.840047803871772,0.06022420326295603,3,Low physical activity,29
+Grouped calendar-block bootstrap,Bootstrap 29,Tobacco_use,4.847143817692995,0.04267738806683288,4,Tobacco use,29
+Grouped calendar-block bootstrap,Bootstrap 30,High_alcohol_use,12.351682403738446,0.11121834024155283,2,High alcohol use,30
+Grouped calendar-block bootstrap,Bootstrap 30,High_fasting_plasma_glucose,84.83416273664025,0.7638728447628496,1,High fasting plasma glucose,30
+Grouped calendar-block bootstrap,Bootstrap 30,Low_physical_activity,10.731505421768217,0.09662976931312947,3,Low physical activity,30
+Grouped calendar-block bootstrap,Bootstrap 30,Tobacco_use,3.140613231523072,0.02827904568246801,4,Tobacco use,30
+Grouped calendar-block bootstrap,Bootstrap 31,High_alcohol_use,10.638709549167578,0.09632185404834266,2,High alcohol use,31
+Grouped calendar-block bootstrap,Bootstrap 31,High_fasting_plasma_glucose,86.94271319964352,0.7871709715054903,1,High fasting plasma glucose,31
+Grouped calendar-block bootstrap,Bootstrap 31,Low_physical_activity,10.14067461695522,0.09181269362528285,3,Low physical activity,31
+Grouped calendar-block bootstrap,Bootstrap 31,Tobacco_use,2.727495348968488,0.024694480820884185,4,Tobacco use,31
+Grouped calendar-block bootstrap,Bootstrap 32,High_alcohol_use,11.957462358124117,0.10993124284294414,2,High alcohol use,32
+Grouped calendar-block bootstrap,Bootstrap 32,High_fasting_plasma_glucose,83.62486769872554,0.7688074077399701,1,High fasting plasma glucose,32
+Grouped calendar-block bootstrap,Bootstrap 32,Low_physical_activity,9.962050501213355,0.09158637176210722,3,Low physical activity,32
+Grouped calendar-block bootstrap,Bootstrap 32,Tobacco_use,3.2278123953763176,0.02967497765497846,4,Tobacco use,32
+Grouped calendar-block bootstrap,Bootstrap 33,High_alcohol_use,17.005904454869384,0.16005535836062953,2,High alcohol use,33
+Grouped calendar-block bootstrap,Bootstrap 33,High_fasting_plasma_glucose,76.13161053175435,0.7165318515442294,1,High fasting plasma glucose,33
+Grouped calendar-block bootstrap,Bootstrap 33,Low_physical_activity,7.892046760115773,0.0742779883152576,3,Low physical activity,33
+Grouped calendar-block bootstrap,Bootstrap 33,Tobacco_use,5.220579635921647,0.04913480177988344,4,Tobacco use,33
+Grouped calendar-block bootstrap,Bootstrap 34,High_alcohol_use,10.864356603341944,0.1031744775546091,2,High alcohol use,34
+Grouped calendar-block bootstrap,Bootstrap 34,High_fasting_plasma_glucose,86.4485825286192,0.8209678366948269,1,High fasting plasma glucose,34
+Grouped calendar-block bootstrap,Bootstrap 34,Low_physical_activity,6.12665448936579,0.05818240317180618,3,Low physical activity,34
+Grouped calendar-block bootstrap,Bootstrap 34,Tobacco_use,1.8612216659766787,0.01767528257875788,4,Tobacco use,34
+Grouped calendar-block bootstrap,Bootstrap 35,High_alcohol_use,6.483039807100945,0.05653770834372076,3,High alcohol use,35
+Grouped calendar-block bootstrap,Bootstrap 35,High_fasting_plasma_glucose,91.44554370080724,0.7974841483197928,1,High fasting plasma glucose,35
+Grouped calendar-block bootstrap,Bootstrap 35,Low_physical_activity,11.399193188022165,0.0994108132904282,2,Low physical activity,35
+Grouped calendar-block bootstrap,Bootstrap 35,Tobacco_use,5.339761077042888,0.046567330046058175,4,Tobacco use,35
+Grouped calendar-block bootstrap,Bootstrap 36,High_alcohol_use,10.316447525383795,0.08754372096054082,3,High alcohol use,36
+Grouped calendar-block bootstrap,Bootstrap 36,High_fasting_plasma_glucose,83.44846791239345,0.7081303298962344,1,High fasting plasma glucose,36
+Grouped calendar-block bootstrap,Bootstrap 36,Low_physical_activity,15.339675326557721,0.13017002733831123,2,Low physical activity,36
+Grouped calendar-block bootstrap,Bootstrap 36,Tobacco_use,8.738784090999294,0.07415592180491365,4,Tobacco use,36
+Grouped calendar-block bootstrap,Bootstrap 37,High_alcohol_use,13.25258151016691,0.11220248230232406,2,High alcohol use,37
+Grouped calendar-block bootstrap,Bootstrap 37,High_fasting_plasma_glucose,88.41683469029034,0.7485778013856463,1,High fasting plasma glucose,37
+Grouped calendar-block bootstrap,Bootstrap 37,Low_physical_activity,10.8366759729736,0.09174830904762168,3,Low physical activity,37
+Grouped calendar-block bootstrap,Bootstrap 37,Tobacco_use,5.606994437776944,0.04747140726440802,4,Tobacco use,37
+Grouped calendar-block bootstrap,Bootstrap 38,High_alcohol_use,12.08661194452468,0.10944736998353952,2,High alcohol use,38
+Grouped calendar-block bootstrap,Bootstrap 38,High_fasting_plasma_glucose,85.30897482037544,0.7724946389390571,1,High fasting plasma glucose,38
+Grouped calendar-block bootstrap,Bootstrap 38,Low_physical_activity,8.752852755905513,0.07925932580478058,3,Low physical activity,38
+Grouped calendar-block bootstrap,Bootstrap 38,Tobacco_use,4.284656736714875,0.03879866527262283,4,Tobacco use,38
+Grouped calendar-block bootstrap,Bootstrap 39,High_alcohol_use,8.886028174004133,0.0735653528375378,3,High alcohol use,39
+Grouped calendar-block bootstrap,Bootstrap 39,High_fasting_plasma_glucose,98.58694681560291,0.8161783178768963,1,High fasting plasma glucose,39
+Grouped calendar-block bootstrap,Bootstrap 39,Low_physical_activity,9.94534031113281,0.0823351507277736,2,Low physical activity,39
+Grouped calendar-block bootstrap,Bootstrap 39,Tobacco_use,3.372625424143146,0.02792117855779215,4,Tobacco use,39
+Grouped calendar-block bootstrap,Bootstrap 40,High_alcohol_use,13.106771799396066,0.11619590431320795,2,High alcohol use,40
+Grouped calendar-block bootstrap,Bootstrap 40,High_fasting_plasma_glucose,86.42612690925598,0.7661964460975667,1,High fasting plasma glucose,40
+Grouped calendar-block bootstrap,Bootstrap 40,Low_physical_activity,9.44178858373095,0.08370460549799859,3,Low physical activity,40
+Grouped calendar-block bootstrap,Bootstrap 40,Tobacco_use,3.824226549421163,0.03390304409122665,4,Tobacco use,40
+Grouped calendar-block bootstrap,Bootstrap 41,High_alcohol_use,13.781073579674258,0.12382480557777126,2,High alcohol use,41
+Grouped calendar-block bootstrap,Bootstrap 41,High_fasting_plasma_glucose,84.20991793099572,0.7566374749573093,1,High fasting plasma glucose,41
+Grouped calendar-block bootstrap,Bootstrap 41,Low_physical_activity,9.382905246273559,0.08430666966237442,3,Low physical activity,41
+Grouped calendar-block bootstrap,Bootstrap 41,Tobacco_use,3.921037366887664,0.03523104980254502,4,Tobacco use,41
+Grouped calendar-block bootstrap,Bootstrap 42,High_alcohol_use,7.4182003129054515,0.06240040028736177,3,High alcohol use,42
+Grouped calendar-block bootstrap,Bootstrap 42,High_fasting_plasma_glucose,97.98235016430125,0.8242077071863472,1,High fasting plasma glucose,42
+Grouped calendar-block bootstrap,Bootstrap 42,Low_physical_activity,9.730970602334642,0.08185495607524326,2,Low physical activity,42
+Grouped calendar-block bootstrap,Bootstrap 42,Tobacco_use,3.7491315884495098,0.03153693645104776,4,Tobacco use,42
+Grouped calendar-block bootstrap,Bootstrap 43,High_alcohol_use,14.018021625324208,0.12411528290891863,2,High alcohol use,43
+Grouped calendar-block bootstrap,Bootstrap 43,High_fasting_plasma_glucose,79.67408910569023,0.7054327903160463,1,High fasting plasma glucose,43
+Grouped calendar-block bootstrap,Bootstrap 43,Low_physical_activity,12.21337611032102,0.10813698763790162,3,Low physical activity,43
+Grouped calendar-block bootstrap,Bootstrap 43,Tobacco_use,7.038070928349215,0.062314939137133436,4,Tobacco use,43
+Grouped calendar-block bootstrap,Bootstrap 44,High_alcohol_use,10.83492102209369,0.09419165702744478,3,High alcohol use,44
+Grouped calendar-block bootstrap,Bootstrap 44,High_fasting_plasma_glucose,83.79290927718668,0.7284402863550763,1,High fasting plasma glucose,44
+Grouped calendar-block bootstrap,Bootstrap 44,Low_physical_activity,12.096670572941795,0.10516047541621527,2,Low physical activity,44
+Grouped calendar-block bootstrap,Bootstrap 44,Tobacco_use,8.306080009656794,0.0722075812012636,4,Tobacco use,44
+Grouped calendar-block bootstrap,Bootstrap 45,High_alcohol_use,16.3824565353639,0.14385304148008618,2,High alcohol use,45
+Grouped calendar-block bootstrap,Bootstrap 45,High_fasting_plasma_glucose,84.48493133178529,0.7418554296224525,1,High fasting plasma glucose,45
+Grouped calendar-block bootstrap,Bootstrap 45,Low_physical_activity,3.7288083990268848,0.03274236852932345,4,Low physical activity,45
+Grouped calendar-block bootstrap,Bootstrap 45,Tobacco_use,9.28708605310496,0.0815491603681378,3,Tobacco use,45
+Grouped calendar-block bootstrap,Bootstrap 46,High_alcohol_use,21.53569393735927,0.1918725982882942,2,High alcohol use,46
+Grouped calendar-block bootstrap,Bootstrap 46,High_fasting_plasma_glucose,79.13869115885566,0.7050873931414368,1,High fasting plasma glucose,46
+Grouped calendar-block bootstrap,Bootstrap 46,Low_physical_activity,6.987963666712099,0.06225937039113846,3,Low physical activity,46
+Grouped calendar-block bootstrap,Bootstrap 46,Tobacco_use,4.577200445664279,0.04078063817913053,4,Tobacco use,46
+Grouped calendar-block bootstrap,Bootstrap 47,High_alcohol_use,13.389164129907593,0.1190756721787286,2,High alcohol use,47
+Grouped calendar-block bootstrap,Bootstrap 47,High_fasting_plasma_glucose,84.40873784387813,0.7506836945905183,1,High fasting plasma glucose,47
+Grouped calendar-block bootstrap,Bootstrap 47,Low_physical_activity,10.00155291758916,0.08894816920145357,3,Low physical activity,47
+Grouped calendar-block bootstrap,Bootstrap 47,Tobacco_use,4.643027144845794,0.04129246402929947,4,Tobacco use,47
+Grouped calendar-block bootstrap,Bootstrap 48,High_alcohol_use,6.69896167249364,0.05563054972157318,2,High alcohol use,48
+Grouped calendar-block bootstrap,Bootstrap 48,High_fasting_plasma_glucose,103.05905597753384,0.8558388923700821,1,High fasting plasma glucose,48
+Grouped calendar-block bootstrap,Bootstrap 48,Low_physical_activity,5.812915943068562,0.048272512250070364,3,Low physical activity,48
+Grouped calendar-block bootstrap,Bootstrap 48,Tobacco_use,4.847823834638385,0.040258045658274254,4,Tobacco use,48
+Grouped calendar-block bootstrap,Bootstrap 49,High_alcohol_use,10.669557162965921,0.09255778747230427,2,High alcohol use,49
+Grouped calendar-block bootstrap,Bootstrap 49,High_fasting_plasma_glucose,88.24083596397848,0.7654841167992784,1,High fasting plasma glucose,49
+Grouped calendar-block bootstrap,Bootstrap 49,Low_physical_activity,10.190869906714514,0.08840520338159755,3,Low physical activity,49
+Grouped calendar-block bootstrap,Bootstrap 49,Tobacco_use,6.173285487269545,0.05355289234681987,4,Tobacco use,49
+Grouped calendar-block bootstrap,Bootstrap 50,High_alcohol_use,5.9662452618208,0.05095034733453887,3,High alcohol use,50
+Grouped calendar-block bootstrap,Bootstrap 50,High_fasting_plasma_glucose,92.5231600124389,0.790126274105637,1,High fasting plasma glucose,50
+Grouped calendar-block bootstrap,Bootstrap 50,Low_physical_activity,14.315840326337254,0.1222539478355406,2,Low physical activity,50
+Grouped calendar-block bootstrap,Bootstrap 50,Tobacco_use,4.293961253608851,0.03666943072428357,4,Tobacco use,50
+Grouped calendar-block bootstrap,Bootstrap 51,High_alcohol_use,12.08661194452468,0.10944736998353952,2,High alcohol use,51
+Grouped calendar-block bootstrap,Bootstrap 51,High_fasting_plasma_glucose,85.30897482037544,0.7724946389390571,1,High fasting plasma glucose,51
+Grouped calendar-block bootstrap,Bootstrap 51,Low_physical_activity,8.752852755905513,0.07925932580478058,3,Low physical activity,51
+Grouped calendar-block bootstrap,Bootstrap 51,Tobacco_use,4.284656736714875,0.03879866527262283,4,Tobacco use,51
+Grouped calendar-block bootstrap,Bootstrap 52,High_alcohol_use,8.070520187870544,0.07365976651021235,3,High alcohol use,52
+Grouped calendar-block bootstrap,Bootstrap 52,High_fasting_plasma_glucose,86.25460350083954,0.7872471422414214,1,High fasting plasma glucose,52
+Grouped calendar-block bootstrap,Bootstrap 52,Low_physical_activity,11.42866011849221,0.10430956323211114,2,Low physical activity,52
+Grouped calendar-block bootstrap,Bootstrap 52,Tobacco_use,3.81105151917128,0.03478352801625499,4,Tobacco use,52
+Grouped calendar-block bootstrap,Bootstrap 53,High_alcohol_use,16.3350108240238,0.13265161449798876,3,High alcohol use,53
+Grouped calendar-block bootstrap,Bootstrap 53,High_fasting_plasma_glucose,83.82335396934958,0.6807037568850292,1,High fasting plasma glucose,53
+Grouped calendar-block bootstrap,Bootstrap 53,Low_physical_activity,17.330225309904883,0.14073344619960937,2,Low physical activity,53
+Grouped calendar-block bootstrap,Bootstrap 53,Tobacco_use,5.65360372408348,0.04591118241737277,4,Tobacco use,53
+Grouped calendar-block bootstrap,Bootstrap 54,High_alcohol_use,8.335304617005235,0.06998916121635139,3,High alcohol use,54
+Grouped calendar-block bootstrap,Bootstrap 54,High_fasting_plasma_glucose,96.73869730584762,0.8122870839999842,1,High fasting plasma glucose,54
+Grouped calendar-block bootstrap,Bootstrap 54,Low_physical_activity,10.400315961044502,0.08732846895763054,2,Low physical activity,54
+Grouped calendar-block bootstrap,Bootstrap 54,Tobacco_use,3.6199028803583455,0.030395285826034003,4,Tobacco use,54
+Grouped calendar-block bootstrap,Bootstrap 55,High_alcohol_use,8.004675260471071,0.0867197926018344,2,High alcohol use,55
+Grouped calendar-block bootstrap,Bootstrap 55,High_fasting_plasma_glucose,72.65921022681628,0.7871639306341808,1,High fasting plasma glucose,55
+Grouped calendar-block bootstrap,Bootstrap 55,Low_physical_activity,6.036947072845171,0.06540212826504788,3,Low physical activity,55
+Grouped calendar-block bootstrap,Bootstrap 55,Tobacco_use,5.604222840815782,0.060714148498937005,4,Tobacco use,55
+Grouped calendar-block bootstrap,Bootstrap 56,High_alcohol_use,8.163245115560644,0.082805679826190845,3,High alcohol use,56
+Grouped calendar-block bootstrap,Bootstrap 56,High_fasting_plasma_glucose,77.01762725465439,0.7812453127574401,1,High fasting plasma glucose,56
+Grouped calendar-block bootstrap,Bootstrap 56,Low_physical_activity,4.460509850824361,0.045246166854021434,4,Low physical activity,56
+Grouped calendar-block bootstrap,Bootstrap 56,Tobacco_use,8.941772131358876,0.09070284056234752,2,Tobacco use,56
+Grouped calendar-block bootstrap,Bootstrap 57,High_alcohol_use,10.379222184485373,0.09359865884460794,3,High alcohol use,57
+Grouped calendar-block bootstrap,Bootstrap 57,High_fasting_plasma_glucose,87.19082490705392,0.7862770571627304,1,High fasting plasma glucose,57
+Grouped calendar-block bootstrap,Bootstrap 57,Low_physical_activity,10.855745020300589,0.09789588820807638,2,Low physical activity,57
+Grouped calendar-block bootstrap,Bootstrap 57,Tobacco_use,2.4649226976202474,0.02222839578458524,4,Tobacco use,57
+Grouped calendar-block bootstrap,Bootstrap 58,High_alcohol_use,8.544249349964016,0.0752805211666191,3,High alcohol use,58
+Grouped calendar-block bootstrap,Bootstrap 58,High_fasting_plasma_glucose,89.07391996804405,0.7848004948002034,1,High fasting plasma glucose,58
+Grouped calendar-block bootstrap,Bootstrap 58,Low_physical_activity,11.5972413264215,0.10217941160059196,2,Low physical activity,58
+Grouped calendar-block bootstrap,Bootstrap 58,Tobacco_use,4.283396451405304,0.03773957243258545,4,Tobacco use,58
+Grouped calendar-block bootstrap,Bootstrap 59,High_alcohol_use,13.136350573336378,0.11194910296906702,2,High alcohol use,59
+Grouped calendar-block bootstrap,Bootstrap 59,High_fasting_plasma_glucose,86.7550459945903,0.7393339210090705,1,High fasting plasma glucose,59
+Grouped calendar-block bootstrap,Bootstrap 59,Low_physical_activity,10.500559082298594,0.08948666247710042,3,Low physical activity,59
+Grouped calendar-block bootstrap,Bootstrap 59,Tobacco_use,6.950213468951337,0.05923031354476215,4,Tobacco use,59
+Grouped calendar-block bootstrap,Bootstrap 60,High_alcohol_use,13.25258151016691,0.11220248230232406,2,High alcohol use,60
+Grouped calendar-block bootstrap,Bootstrap 60,High_fasting_plasma_glucose,88.41683469029034,0.7485778013856463,1,High fasting plasma glucose,60
+Grouped calendar-block bootstrap,Bootstrap 60,Low_physical_activity,10.8366759729736,0.09174830904762168,3,Low physical activity,60
+Grouped calendar-block bootstrap,Bootstrap 60,Tobacco_use,5.606994437776944,0.04747140726440802,4,Tobacco use,60
+Grouped calendar-block bootstrap,Bootstrap 61,High_alcohol_use,13.106771799396066,0.11619590431320795,2,High alcohol use,61
+Grouped calendar-block bootstrap,Bootstrap 61,High_fasting_plasma_glucose,86.42612690925598,0.7661964460975667,1,High fasting plasma glucose,61
+Grouped calendar-block bootstrap,Bootstrap 61,Low_physical_activity,9.44178858373095,0.08370460549799859,3,Low physical activity,61
+Grouped calendar-block bootstrap,Bootstrap 61,Tobacco_use,3.824226549421163,0.03390304409122665,4,Tobacco use,61
+Grouped calendar-block bootstrap,Bootstrap 62,High_alcohol_use,21.792810879209462,0.18438817025303805,2,High alcohol use,62
+Grouped calendar-block bootstrap,Bootstrap 62,High_fasting_plasma_glucose,76.8133642393,0.6499150459097847,1,High fasting plasma glucose,62
+Grouped calendar-block bootstrap,Bootstrap 62,Low_physical_activity,12.326074725126519,0.10429046429878179,3,Low physical activity,62
+Grouped calendar-block bootstrap,Bootstrap 62,Tobacco_use,7.257603926825173,0.061406319538395475,4,Tobacco use,62
+Grouped calendar-block bootstrap,Bootstrap 63,High_alcohol_use,13.25258151016691,0.11220248230232406,2,High alcohol use,63
+Grouped calendar-block bootstrap,Bootstrap 63,High_fasting_plasma_glucose,88.41683469029034,0.7485778013856463,1,High fasting plasma glucose,63
+Grouped calendar-block bootstrap,Bootstrap 63,Low_physical_activity,10.8366759729736,0.09174830904762168,3,Low physical activity,63
+Grouped calendar-block bootstrap,Bootstrap 63,Tobacco_use,5.606994437776944,0.04747140726440802,4,Tobacco use,63
+Grouped calendar-block bootstrap,Bootstrap 64,High_alcohol_use,10.267672026683302,0.0889566166464402,2,High alcohol use,64
+Grouped calendar-block bootstrap,Bootstrap 64,High_fasting_plasma_glucose,93.3290725013789,0.8085804165635005,1,High fasting plasma glucose,64
+Grouped calendar-block bootstrap,Bootstrap 64,Low_physical_activity,6.803469855995739,0.058943610418468226,3,Low physical activity,64
+Grouped calendar-block bootstrap,Bootstrap 64,Tobacco_use,5.023150552272359,0.043519356371590996,4,Tobacco use,64
+Grouped calendar-block bootstrap,Bootstrap 65,High_alcohol_use,15.597213358037612,0.12411758108672322,2,High alcohol use,65
+Grouped calendar-block bootstrap,Bootstrap 65,High_fasting_plasma_glucose,101.1553253734813,0.8049613742654209,1,High fasting plasma glucose,65
+Grouped calendar-block bootstrap,Bootstrap 65,Low_physical_activity,6.689926590332213,0.05323627285074559,3,Low physical activity,65
+Grouped calendar-block bootstrap,Bootstrap 65,Tobacco_use,2.222353646378307,0.01768477179711023,4,Tobacco use,65
+Grouped calendar-block bootstrap,Bootstrap 66,High_alcohol_use,14.186938908608521,0.1196766136245812,2,High alcohol use,66
+Grouped calendar-block bootstrap,Bootstrap 66,High_fasting_plasma_glucose,95.45013942157522,0.8051877525909967,1,High fasting plasma glucose,66
+Grouped calendar-block bootstrap,Bootstrap 66,Low_physical_activity,6.18389906865709,0.052165453330035465,3,Low physical activity,66
+Grouped calendar-block bootstrap,Bootstrap 66,Tobacco_use,2.7229760013794637,0.022970180454386663,4,Tobacco use,66
+Grouped calendar-block bootstrap,Bootstrap 67,High_alcohol_use,14.631403704239604,0.12532955629672007,2,High alcohol use,67
+Grouped calendar-block bootstrap,Bootstrap 67,High_fasting_plasma_glucose,84.78071892121258,0.7262139778040334,1,High fasting plasma glucose,67
+Grouped calendar-block bootstrap,Bootstrap 67,Low_physical_activity,11.893716352137135,0.10187909671991786,3,Low physical activity,67
+Grouped calendar-block bootstrap,Bootstrap 67,Tobacco_use,5.437602366761113,0.04657736917932868,4,Tobacco use,67
+Grouped calendar-block bootstrap,Bootstrap 68,High_alcohol_use,8.706823525533956,0.07702868425319696,3,High alcohol use,68
+Grouped calendar-block bootstrap,Bootstrap 68,High_fasting_plasma_glucose,87.42454057581284,0.7734390518248285,1,High fasting plasma glucose,68
+Grouped calendar-block bootstrap,Bootstrap 68,Low_physical_activity,11.98519726137028,0.10603223699790743,2,Low physical activity,68
+Grouped calendar-block bootstrap,Bootstrap 68,Tobacco_use,4.9169612782021215,0.043500026924066994,4,Tobacco use,68
+Grouped calendar-block bootstrap,Bootstrap 69,High_alcohol_use,7.371922150210422,0.069389385517114,4,High alcohol use,69
+Grouped calendar-block bootstrap,Bootstrap 69,High_fasting_plasma_glucose,81.76201243383044,0.7695978994113751,1,High fasting plasma glucose,69
+Grouped calendar-block bootstrap,Bootstrap 69,Low_physical_activity,8.195578538900351,0.07714218180604498,3,Low physical activity,69
+Grouped calendar-block bootstrap,Bootstrap 69,Tobacco_use,8.91039799995282,0.08387053326546587,2,Tobacco use,69
+Grouped calendar-block bootstrap,Bootstrap 70,High_alcohol_use,8.79957259498975,0.07897787344992732,2,High alcohol use,70
+Grouped calendar-block bootstrap,Bootstrap 70,High_fasting_plasma_glucose,90.59500819374533,0.8131077975758302,1,High fasting plasma glucose,70
+Grouped calendar-block bootstrap,Bootstrap 70,Low_physical_activity,7.046753985018414,0.06324598592191098,3,Low physical activity,70
+Grouped calendar-block bootstrap,Bootstrap 70,Tobacco_use,4.976866433813291,0.04466834305233152,4,Tobacco use,70
+Grouped calendar-block bootstrap,Bootstrap 71,High_alcohol_use,8.91032127321643,0.07747981479889059,2,High alcohol use,71
+Grouped calendar-block bootstrap,Bootstrap 71,High_fasting_plasma_glucose,93.28569331730114,0.8111669624457364,1,High fasting plasma glucose,71
+Grouped calendar-block bootstrap,Bootstrap 71,Low_physical_activity,8.228943720459938,0.0715548874054884,3,Low physical activity,71
+Grouped calendar-block bootstrap,Bootstrap 71,Tobacco_use,4.576881798532079,0.03979833534988466,4,Tobacco use,71
+Grouped calendar-block bootstrap,Bootstrap 72,High_alcohol_use,5.335887507853262,0.048893138607892205,2,High alcohol use,72
+Grouped calendar-block bootstrap,Bootstrap 72,High_fasting_plasma_glucose,95.48329434114343,0.8749206084439963,1,High fasting plasma glucose,72
+Grouped calendar-block bootstrap,Bootstrap 72,Low_physical_activity,5.13069899481009,0.047012980828291015,3,Low physical activity,72
+Grouped calendar-block bootstrap,Bootstrap 72,Tobacco_use,3.1837861650842516,0.029173272119820466,4,Tobacco use,72
+Grouped calendar-block bootstrap,Bootstrap 73,High_alcohol_use,7.110577861581217,0.05972783441947075,3,High alcohol use,73
+Grouped calendar-block bootstrap,Bootstrap 73,High_fasting_plasma_glucose,96.00831813251271,0.8064561052475991,1,High fasting plasma glucose,73
+Grouped calendar-block bootstrap,Bootstrap 73,Low_physical_activity,11.691898991605814,0.0982102749753896,2,Low physical activity,73
+Grouped calendar-block bootstrap,Bootstrap 73,Tobacco_use,4.238856331697281,0.03560578535754054,4,Tobacco use,73
+Grouped calendar-block bootstrap,Bootstrap 74,High_alcohol_use,9.655621624343535,0.08071501435391763,3,High alcohol use,74
+Grouped calendar-block bootstrap,Bootstrap 74,High_fasting_plasma_glucose,90.11664307678447,0.7533193016937486,1,High fasting plasma glucose,74
+Grouped calendar-block bootstrap,Bootstrap 74,Low_physical_activity,9.594107225666042,0.08020079209403656,4,Low physical activity,74
+Grouped calendar-block bootstrap,Bootstrap 74,Tobacco_use,10.259718728480477,0.08576489185829721,2,Tobacco use,74
+Grouped calendar-block bootstrap,Bootstrap 75,High_alcohol_use,7.5897493694635,0.06499828423099882,3,High alcohol use,75
+Grouped calendar-block bootstrap,Bootstrap 75,High_fasting_plasma_glucose,94.35576612739003,0.8080586863983983,1,High fasting plasma glucose,75
+Grouped calendar-block bootstrap,Bootstrap 75,Low_physical_activity,9.598481191355077,0.08220097638160802,2,Low physical activity,75
+Grouped calendar-block bootstrap,Bootstrap 75,Tobacco_use,5.224460498909192,0.04474205298899477,4,Tobacco use,75
+Grouped calendar-block bootstrap,Bootstrap 76,High_alcohol_use,13.077414905236047,0.12335250234639238,2,High alcohol use,76
+Grouped calendar-block bootstrap,Bootstrap 76,High_fasting_plasma_glucose,82.0443626572104,0.773882109768478,1,High fasting plasma glucose,76
+Grouped calendar-block bootstrap,Bootstrap 76,Low_physical_activity,8.182203273562823,0.0771784986417084,3,Low physical activity,76
+Grouped calendar-block bootstrap,Bootstrap 76,Tobacco_use,2.712635418055031,0.0255868892434212,4,Tobacco use,76
+Grouped calendar-block bootstrap,Bootstrap 77,High_alcohol_use,13.704574175858323,0.11896051797448427,2,High alcohol use,77
+Grouped calendar-block bootstrap,Bootstrap 77,High_fasting_plasma_glucose,88.02232421566458,0.7640646945790736,1,High fasting plasma glucose,77
+Grouped calendar-block bootstrap,Bootstrap 77,Low_physical_activity,7.013665270761532,0.060881078302981104,3,Low physical activity,77
+Grouped calendar-block bootstrap,Bootstrap 77,Tobacco_use,6.462147364896887,0.05609370914346091,4,Tobacco use,77
+Grouped calendar-block bootstrap,Bootstrap 78,High_alcohol_use,8.58929356029805,0.07269493781609679,3,High alcohol use,78
+Grouped calendar-block bootstrap,Bootstrap 78,High_fasting_plasma_glucose,90.81867944352767,0.7686380967584695,1,High fasting plasma glucose,78
+Grouped calendar-block bootstrap,Bootstrap 78,Low_physical_activity,12.693881943033022,0.10743385960854722,2,Low physical activity,78
+Grouped calendar-block bootstrap,Bootstrap 78,Tobacco_use,6.053463956187753,0.05123310581688652,4,Tobacco use,78
+Grouped calendar-block bootstrap,Bootstrap 79,High_alcohol_use,9.990045422030722,0.09204266887627326,2,High alcohol use,79
+Grouped calendar-block bootstrap,Bootstrap 79,High_fasting_plasma_glucose,85.32674798395703,0.7861527429752282,1,High fasting plasma glucose,79
+Grouped calendar-block bootstrap,Bootstrap 79,Low_physical_activity,9.606609404262375,0.0885099047167771,3,Low physical activity,79
+Grouped calendar-block bootstrap,Bootstrap 79,Tobacco_use,3.6137087706805153,0.03329468343172146,4,Tobacco use,79
+Grouped calendar-block bootstrap,Bootstrap 80,High_alcohol_use,10.669557162965921,0.09255778747230427,2,High alcohol use,80
+Grouped calendar-block bootstrap,Bootstrap 80,High_fasting_plasma_glucose,88.24083596397848,0.7654841167992784,1,High fasting plasma glucose,80
+Grouped calendar-block bootstrap,Bootstrap 80,Low_physical_activity,10.190869906714514,0.08840520338159755,3,Low physical activity,80
+Grouped calendar-block bootstrap,Bootstrap 80,Tobacco_use,6.173285487269545,0.05355289234681987,4,Tobacco use,80
+Grouped calendar-block bootstrap,Bootstrap 81,High_alcohol_use,9.35611204171882,0.08717730341269532,2,High alcohol use,81
+Grouped calendar-block bootstrap,Bootstrap 81,High_fasting_plasma_glucose,88.32255693603965,0.822961750550356,1,High fasting plasma glucose,81
+Grouped calendar-block bootstrap,Bootstrap 81,Low_physical_activity,5.209985779127216,0.048545005555465856,3,Low physical activity,81
+Grouped calendar-block bootstrap,Bootstrap 81,Tobacco_use,4.434142295314985,0.04131594048148285,4,Tobacco use,81
+Grouped calendar-block bootstrap,Bootstrap 82,High_alcohol_use,11.013530290170628,0.09746268413422784,2,High alcohol use,82
+Grouped calendar-block bootstrap,Bootstrap 82,High_fasting_plasma_glucose,88.34600839334375,0.7818055504187391,1,High fasting plasma glucose,82
+Grouped calendar-block bootstrap,Bootstrap 82,Low_physical_activity,9.356656899149803,0.08280041656834204,3,Low physical activity,82
+Grouped calendar-block bootstrap,Bootstrap 82,Tobacco_use,4.286338546218843,0.03793134887869095,4,Tobacco use,82
+Grouped calendar-block bootstrap,Bootstrap 83,High_alcohol_use,6.776397978163818,0.06086189931061633,3,High alcohol use,83
+Grouped calendar-block bootstrap,Bootstrap 83,High_fasting_plasma_glucose,90.95656839188408,0.8169221354685036,1,High fasting plasma glucose,83
+Grouped calendar-block bootstrap,Bootstrap 83,Low_physical_activity,10.230688989425406,0.09188645135056847,2,Low physical activity,83
+Grouped calendar-block bootstrap,Bootstrap 83,Tobacco_use,3.3769050719326033,0.030329513870311704,4,Tobacco use,83
+Grouped calendar-block bootstrap,Bootstrap 84,High_alcohol_use,9.48868719006286,0.08337443092015971,2,High alcohol use,84
+Grouped calendar-block bootstrap,Bootstrap 84,High_fasting_plasma_glucose,91.77928196682649,0.8064387887355723,1,High fasting plasma glucose,84
+Grouped calendar-block bootstrap,Bootstrap 84,Low_physical_activity,8.469511228975128,0.07441921782680515,3,Low physical activity,84
+Grouped calendar-block bootstrap,Bootstrap 84,Tobacco_use,4.0706390260609195,0.03576756251746286,4,Tobacco use,84
+Grouped calendar-block bootstrap,Bootstrap 85,High_alcohol_use,19.980016220591086,0.16975876357747421,2,High alcohol use,85
+Grouped calendar-block bootstrap,Bootstrap 85,High_fasting_plasma_glucose,81.01707464105942,0.688355718428106,1,High fasting plasma glucose,85
+Grouped calendar-block bootstrap,Bootstrap 85,Low_physical_activity,6.502648483523551,0.055249282801094673,4,Low physical activity,85
+Grouped calendar-block bootstrap,Bootstrap 85,Tobacco_use,10.196783647423281,0.0866362351933253,3,Tobacco use,85
+Grouped calendar-block bootstrap,Bootstrap 86,High_alcohol_use,5.826231025619542,0.053470943842554665,3,High alcohol use,86
+Grouped calendar-block bootstrap,Bootstrap 86,High_fasting_plasma_glucose,90.6036129881354,0.831525677701045,1,High fasting plasma glucose,86
+Grouped calendar-block bootstrap,Bootstrap 86,Low_physical_activity,7.276691108788637,0.06678271766545325,2,Low physical activity,86
+Grouped calendar-block bootstrap,Bootstrap 86,Tobacco_use,5.254156552824904,0.04822066079094697,4,Tobacco use,86
+Grouped calendar-block bootstrap,Bootstrap 87,High_alcohol_use,12.166534496054929,0.11005729122883545,2,High alcohol use,87
+Grouped calendar-block bootstrap,Bootstrap 87,High_fasting_plasma_glucose,85.69307120337206,0.7751712122117401,1,High fasting plasma glucose,87
+Grouped calendar-block bootstrap,Bootstrap 87,Low_physical_activity,9.42460660377846,0.0852540774076287,3,Low physical activity,87
+Grouped calendar-block bootstrap,Bootstrap 87,Tobacco_use,3.263070482064915,0.029517419151795704,4,Tobacco use,87
+Grouped calendar-block bootstrap,Bootstrap 88,High_alcohol_use,16.211212580344256,0.12677242490143026,2,High alcohol use,88
+Grouped calendar-block bootstrap,Bootstrap 88,High_fasting_plasma_glucose,100.12693543153651,0.7829972211946201,1,High fasting plasma glucose,88
+Grouped calendar-block bootstrap,Bootstrap 88,Low_physical_activity,7.0728730700033555,0.05531019136665396,3,Low physical activity,88
+Grouped calendar-block bootstrap,Bootstrap 88,Tobacco_use,4.465467775602113,0.03492016253729579,4,Tobacco use,88
+Grouped calendar-block bootstrap,Bootstrap 89,High_alcohol_use,18.728194699787043,0.1597747349064014,2,High alcohol use,89
+Grouped calendar-block bootstrap,Bootstrap 89,High_fasting_plasma_glucose,81.3143138184267,0.6937119750566663,1,High fasting plasma glucose,89
+Grouped calendar-block bootstrap,Bootstrap 89,Low_physical_activity,11.598306637191596,0.09894794442421698,3,Low physical activity,89
+Grouped calendar-block bootstrap,Bootstrap 89,Tobacco_use,5.575431272781947,0.04756534561271542,4,Tobacco use,89
+Grouped calendar-block bootstrap,Bootstrap 90,High_alcohol_use,17.5991047670736,0.15527189632530394,2,High alcohol use,90
+Grouped calendar-block bootstrap,Bootstrap 90,High_fasting_plasma_glucose,83.11374636187273,0.7332889473135517,1,High fasting plasma glucose,90
+Grouped calendar-block bootstrap,Bootstrap 90,Low_physical_activity,7.819852598274456,0.06899233557550603,3,Low physical activity,90
+Grouped calendar-block bootstrap,Bootstrap 90,Tobacco_use,4.811083420212655,0.042446820785638426,4,Tobacco use,90
+Grouped calendar-block bootstrap,Bootstrap 91,High_alcohol_use,9.308871359597234,0.07992607997617046,2,High alcohol use,91
+Grouped calendar-block bootstrap,Bootstrap 91,High_fasting_plasma_glucose,95.18950352388269,0.8172982070160424,1,High fasting plasma glucose,91
+Grouped calendar-block bootstrap,Bootstrap 91,Low_physical_activity,7.0287495284834325,0.06034892687252086,3,Low physical activity,91
+Grouped calendar-block bootstrap,Bootstrap 91,Tobacco_use,4.941384519947529,0.04242678613526624,4,Tobacco use,91
+Grouped calendar-block bootstrap,Bootstrap 92,High_alcohol_use,8.36144394155811,0.07651332999319418,3,High alcohol use,92
+Grouped calendar-block bootstrap,Bootstrap 92,High_fasting_plasma_glucose,86.88466971946113,0.7950582999849698,1,High fasting plasma glucose,92
+Grouped calendar-block bootstrap,Bootstrap 92,Low_physical_activity,9.356562929951092,0.08561939684882124,2,Low physical activity,92
+Grouped calendar-block bootstrap,Bootstrap 92,Tobacco_use,4.678202208865653,0.042808973173014735,4,Tobacco use,92
+Grouped calendar-block bootstrap,Bootstrap 93,High_alcohol_use,16.68579380862853,0.14485287294308216,2,High alcohol use,93
+Grouped calendar-block bootstrap,Bootstrap 93,High_fasting_plasma_glucose,80.94468617947662,0.7026977845375348,1,High fasting plasma glucose,93
+Grouped calendar-block bootstrap,Bootstrap 93,Low_physical_activity,8.681309787534616,0.07536426963294994,4,Low physical activity,93
+Grouped calendar-block bootstrap,Bootstrap 93,Tobacco_use,8.879531387765619,0.07708507288643301,3,Tobacco use,93
+Grouped calendar-block bootstrap,Bootstrap 94,High_alcohol_use,18.415939988809473,0.15323359896866154,2,High alcohol use,94
+Grouped calendar-block bootstrap,Bootstrap 94,High_fasting_plasma_glucose,92.13411659002304,0.7666207796868576,1,High fasting plasma glucose,94
+Grouped calendar-block bootstrap,Bootstrap 94,Low_physical_activity,6.016331373223939,0.05006011691324869,3,Low physical activity,94
+Grouped calendar-block bootstrap,Bootstrap 94,Tobacco_use,3.615739941290196,0.030085504431232205,4,Tobacco use,94
+Grouped calendar-block bootstrap,Bootstrap 95,High_alcohol_use,72.04426824906292,0.6971272666299265,1,High alcohol use,95
+Grouped calendar-block bootstrap,Bootstrap 95,High_fasting_plasma_glucose,17.209755699511838,0.16652802841571696,2,High fasting plasma glucose,95
+Grouped calendar-block bootstrap,Bootstrap 95,Low_physical_activity,9.852491088847026,0.09533638621352744,3,Low physical activity,95
+Grouped calendar-block bootstrap,Bootstrap 95,Tobacco_use,4.237984163336018,0.04100831874082893,4,Tobacco use,95
+Grouped calendar-block bootstrap,Bootstrap 96,High_alcohol_use,7.5897493694635,0.06499828423099882,3,High alcohol use,96
+Grouped calendar-block bootstrap,Bootstrap 96,High_fasting_plasma_glucose,94.35576612739003,0.8080586863983983,1,High fasting plasma glucose,96
+Grouped calendar-block bootstrap,Bootstrap 96,Low_physical_activity,9.598481191355077,0.08220097638160802,2,Low physical activity,96
+Grouped calendar-block bootstrap,Bootstrap 96,Tobacco_use,5.224460498909192,0.04474205298899477,4,Tobacco use,96
+Grouped calendar-block bootstrap,Bootstrap 97,High_alcohol_use,14.37378141031984,0.12418090449137338,2,High alcohol use,97
+Grouped calendar-block bootstrap,Bootstrap 97,High_fasting_plasma_glucose,88.68082565489938,0.7661494791454567,1,High fasting plasma glucose,97
+Grouped calendar-block bootstrap,Bootstrap 97,Low_physical_activity,8.054925153360648,0.06958975252235884,3,Low physical activity,97
+Grouped calendar-block bootstrap,Bootstrap 97,Tobacco_use,4.6391931526253325,0.040079863840811025,4,Tobacco use,97
+Grouped calendar-block bootstrap,Bootstrap 98,High_alcohol_use,13.145288996979156,0.11136004731510585,2,High alcohol use,98
+Grouped calendar-block bootstrap,Bootstrap 98,High_fasting_plasma_glucose,88.34354669627021,0.7484005518890999,1,High fasting plasma glucose,98
+Grouped calendar-block bootstrap,Bootstrap 98,Low_physical_activity,8.396304992761682,0.07112912629618644,3,Low physical activity,98
+Grouped calendar-block bootstrap,Bootstrap 98,Tobacco_use,8.157993399439489,0.06911027449960773,4,Tobacco use,98
+Grouped calendar-block bootstrap,Bootstrap 99,High_alcohol_use,12.166534496054929,0.11005729122883545,2,High alcohol use,99
+Grouped calendar-block bootstrap,Bootstrap 99,High_fasting_plasma_glucose,85.69307120337206,0.7751712122117401,1,High fasting plasma glucose,99
+Grouped calendar-block bootstrap,Bootstrap 99,Low_physical_activity,9.42460660377846,0.0852540774076287,3,Low physical activity,99
+Grouped calendar-block bootstrap,Bootstrap 99,Tobacco_use,3.263070482064915,0.029517419151795704,4,Tobacco use,99
+Grouped calendar-block bootstrap,Bootstrap 100,High_alcohol_use,9.680584830396315,0.08538463095147364,2,High alcohol use,100
+Grouped calendar-block bootstrap,Bootstrap 100,High_fasting_plasma_glucose,92.07267056326656,0.8120987661898603,1,High fasting plasma glucose,100
+Grouped calendar-block bootstrap,Bootstrap 100,Low_physical_activity,6.864725434736294,0.060548206342628245,3,Low physical activity,100
+Grouped calendar-block bootstrap,Bootstrap 100,Tobacco_use,4.758217235840857,0.04196839651603775,4,Tobacco use,100
+Grouped calendar-block bootstrap,Bootstrap 101,High_alcohol_use,8.31215828547583,0.06946161174723745,3,High alcohol use,101
+Grouped calendar-block bootstrap,Bootstrap 101,High_fasting_plasma_glucose,94.50584657542846,0.7897501704385089,1,High fasting plasma glucose,101
+Grouped calendar-block bootstrap,Bootstrap 101,Low_physical_activity,11.699803721291177,0.09777090325953643,2,Low physical activity,101
+Grouped calendar-block bootstrap,Bootstrap 101,Tobacco_use,5.14768832165967,0.04301731455471717,4,Tobacco use,101
+Grouped calendar-block bootstrap,Bootstrap 102,High_alcohol_use,6.971064283194788,0.06534154597101591,3,High alcohol use,102
+Grouped calendar-block bootstrap,Bootstrap 102,High_fasting_plasma_glucose,87.63916413994396,0.8214640175269126,1,High fasting plasma glucose,102
+Grouped calendar-block bootstrap,Bootstrap 102,Low_physical_activity,8.652883509152076,0.08110566229579948,2,Low physical activity,102
+Grouped calendar-block bootstrap,Bootstrap 102,Tobacco_use,3.4234406982055483,0.03208877420627196,4,Tobacco use,102
+Grouped calendar-block bootstrap,Bootstrap 103,High_alcohol_use,11.734308167190894,0.10750277496583306,2,High alcohol use,103
+Grouped calendar-block bootstrap,Bootstrap 103,High_fasting_plasma_glucose,83.79408012838924,0.767671686405666,1,High fasting plasma glucose,103
+Grouped calendar-block bootstrap,Bootstrap 103,Low_physical_activity,9.602685450850164,0.08797411133080485,3,Low physical activity,103
+Grouped calendar-block bootstrap,Bootstrap 103,Tobacco_use,4.022463647561038,0.03685142729769623,4,Tobacco use,103
+Grouped calendar-block bootstrap,Bootstrap 104,High_alcohol_use,7.4292441984529,0.06144964272490548,3,High alcohol use,104
+Grouped calendar-block bootstrap,Bootstrap 104,High_fasting_plasma_glucose,103.1125937237459,0.8528770727555306,1,High fasting plasma glucose,104
+Grouped calendar-block bootstrap,Bootstrap 104,Low_physical_activity,7.766280085812597,0.06423737379289726,2,Low physical activity,104
+Grouped calendar-block bootstrap,Bootstrap 104,Tobacco_use,2.5915954648845774,0.021435910726666667,4,Tobacco use,104
+Grouped calendar-block bootstrap,Bootstrap 105,High_alcohol_use,18.132760082272924,0.1532667302698655,2,High alcohol use,105
+Grouped calendar-block bootstrap,Bootstrap 105,High_fasting_plasma_glucose,88.32717649095198,0.7465833923414827,1,High fasting plasma glucose,105
+Grouped calendar-block bootstrap,Bootstrap 105,Low_physical_activity,5.974265154407305,0.05049733641357616,3,Low physical activity,105
+Grouped calendar-block bootstrap,Bootstrap 105,Tobacco_use,5.874318656051422,0.04965254097507563,4,Tobacco use,105
+Grouped calendar-block bootstrap,Bootstrap 106,High_alcohol_use,8.9098757987075,0.07843684746658003,3,High alcohol use,106
+Grouped calendar-block bootstrap,Bootstrap 106,High_fasting_plasma_glucose,89.03584319633596,0.7838146130906136,1,High fasting plasma glucose,106
+Grouped calendar-block bootstrap,Bootstrap 106,Low_physical_activity,4.678309305631282,0.04118484271806732,4,Low physical activity,106
+Grouped calendar-block bootstrap,Bootstrap 106,Tobacco_use,10.96895875179154,0.09656369672473883,2,Tobacco use,106
+Grouped calendar-block bootstrap,Bootstrap 107,High_alcohol_use,7.961532758713207,0.07082596381853551,3,High alcohol use,107
+Grouped calendar-block bootstrap,Bootstrap 107,High_fasting_plasma_glucose,84.97547293428113,0.7559436045678071,1,High fasting plasma glucose,107
+Grouped calendar-block bootstrap,Bootstrap 107,Low_physical_activity,12.60865492833888,0.11216686093234947,2,Low physical activity,107
+Grouped calendar-block bootstrap,Bootstrap 107,Tobacco_use,6.8641440530033675,0.061063570681307903,4,Tobacco use,107
+Grouped calendar-block bootstrap,Bootstrap 108,High_alcohol_use,8.742827528013903,0.07209372866707522,2,High alcohol use,108
+Grouped calendar-block bootstrap,Bootstrap 108,High_fasting_plasma_glucose,102.56151994256412,0.8457266675717825,1,High fasting plasma glucose,108
+Grouped calendar-block bootstrap,Bootstrap 108,Low_physical_activity,5.580418400532182,0.04601636812891745,3,Low physical activity,108
+Grouped calendar-block bootstrap,Bootstrap 108,Tobacco_use,4.385526145381086,0.036163235632224816,4,Tobacco use,108
+Grouped calendar-block bootstrap,Bootstrap 109,High_alcohol_use,7.233633173544727,0.06649915766978652,2,High alcohol use,109
+Grouped calendar-block bootstrap,Bootstrap 109,High_fasting_plasma_glucose,91.88372807976077,0.8446917854793017,1,High fasting plasma glucose,109
+Grouped calendar-block bootstrap,Bootstrap 109,Low_physical_activity,5.829443287454984,0.05359036862932108,3,Low physical activity,109
+Grouped calendar-block bootstrap,Bootstrap 109,Tobacco_use,3.8310120063998245,0.03521868822159066,4,Tobacco use,109
+Grouped calendar-block bootstrap,Bootstrap 110,High_alcohol_use,8.70370870048509,0.07309273605531498,2,High alcohol use,110
+Grouped calendar-block bootstrap,Bootstrap 110,High_fasting_plasma_glucose,100.0026694578283,0.8398108180137703,1,High fasting plasma glucose,110
+Grouped calendar-block bootstrap,Bootstrap 110,Low_physical_activity,7.58934757998761,0.06373446062885364,3,Low physical activity,110
+Grouped calendar-block bootstrap,Bootstrap 110,Tobacco_use,2.7818894969299435,0.023361985302061024,4,Tobacco use,110
+Grouped calendar-block bootstrap,Bootstrap 111,High_alcohol_use,10.060334288674023,0.08962001953161651,3,High alcohol use,111
+Grouped calendar-block bootstrap,Bootstrap 111,High_fasting_plasma_glucose,85.39596391705906,0.760728991161263,1,High fasting plasma glucose,111
+Grouped calendar-block bootstrap,Bootstrap 111,Low_physical_activity,11.524710476398468,0.10266505548964096,2,Low physical activity,111
+Grouped calendar-block bootstrap,Bootstrap 111,Tobacco_use,5.274426445562173,0.04698593381747943,4,Tobacco use,111
+Grouped calendar-block bootstrap,Bootstrap 112,High_alcohol_use,13.184836598091266,0.10633685817088417,2,High alcohol use,112
+Grouped calendar-block bootstrap,Bootstrap 112,High_fasting_plasma_glucose,98.91677496573504,0.7977724253158639,1,High fasting plasma glucose,112
+Grouped calendar-block bootstrap,Bootstrap 112,Low_physical_activity,7.611650361383663,0.06138862464491887,3,Low physical activity,112
+Grouped calendar-block bootstrap,Bootstrap 112,Tobacco_use,4.27795640572029,0.034502091868332994,4,Tobacco use,112
+Grouped calendar-block bootstrap,Bootstrap 113,High_alcohol_use,12.291411050803521,0.1119015102808173,2,High alcohol use,113
+Grouped calendar-block bootstrap,Bootstrap 113,High_fasting_plasma_glucose,88.82651467463549,0.8086802323987936,1,High fasting plasma glucose,113
+Grouped calendar-block bootstrap,Bootstrap 113,Low_physical_activity,5.515101403085625,0.050209709349586136,3,Low physical activity,113
+Grouped calendar-block bootstrap,Bootstrap 113,Tobacco_use,3.208305843284025,0.02920854797080306,4,Tobacco use,113
+Grouped calendar-block bootstrap,Bootstrap 114,High_alcohol_use,9.927664517742746,0.08548867157679546,3,High alcohol use,114
+Grouped calendar-block bootstrap,Bootstrap 114,High_fasting_plasma_glucose,85.987556328493,0.7404522936406726,1,High fasting plasma glucose,114
+Grouped calendar-block bootstrap,Bootstrap 114,Low_physical_activity,10.490681070730309,0.09033689515492226,2,Low physical activity,114
+Grouped calendar-block bootstrap,Bootstrap 114,Tobacco_use,9.722519950305715,0.08372213962760992,4,Tobacco use,114
+Grouped calendar-block bootstrap,Bootstrap 115,High_alcohol_use,15.263835584196974,0.12958339768614208,2,High alcohol use,115
+Grouped calendar-block bootstrap,Bootstrap 115,High_fasting_plasma_glucose,88.61297207579894,0.7522860120779636,1,High fasting plasma glucose,115
+Grouped calendar-block bootstrap,Bootstrap 115,Low_physical_activity,7.21773695417625,0.06127548170758095,3,Low physical activity,115
+Grouped calendar-block bootstrap,Bootstrap 115,Tobacco_use,6.697054130342953,0.05685510852831342,4,Tobacco use,115
+Grouped calendar-block bootstrap,Bootstrap 116,High_alcohol_use,15.252227382098928,0.13368375886546524,2,High alcohol use,116
+Grouped calendar-block bootstrap,Bootstrap 116,High_fasting_plasma_glucose,88.09240713084445,0.7721183154258471,1,High fasting plasma glucose,116
+Grouped calendar-block bootstrap,Bootstrap 116,Low_physical_activity,3.0421059470623733,0.02666365689955502,4,Low physical activity,116
+Grouped calendar-block bootstrap,Bootstrap 116,Tobacco_use,7.70510967601748,0.06753426880913274,3,Tobacco use,116
+Grouped calendar-block bootstrap,Bootstrap 117,High_alcohol_use,13.527078200876712,0.10962944139581557,2,High alcohol use,117
+Grouped calendar-block bootstrap,Bootstrap 117,High_fasting_plasma_glucose,101.67136954139261,0.8239898729977038,1,High fasting plasma glucose,117
+Grouped calendar-block bootstrap,Bootstrap 117,Low_physical_activity,6.13331143589252,0.04970707617997549,3,Low physical activity,117
+Grouped calendar-block bootstrap,Bootstrap 117,Tobacco_use,2.0573416751152016,0.016673609426505205,4,Tobacco use,117
+Grouped calendar-block bootstrap,Bootstrap 118,High_alcohol_use,12.756718574376666,0.11581061426653268,2,High alcohol use,118
+Grouped calendar-block bootstrap,Bootstrap 118,High_fasting_plasma_glucose,82.62795235234148,0.7501297345174083,1,High fasting plasma glucose,118
+Grouped calendar-block bootstrap,Bootstrap 118,Low_physical_activity,7.660352263172322,0.06954375421261963,3,Low physical activity,118
+Grouped calendar-block bootstrap,Bootstrap 118,Tobacco_use,7.1065260024631725,0.06451589700343936,4,Tobacco use,118
+Grouped calendar-block bootstrap,Bootstrap 119,High_alcohol_use,10.434944350929822,0.09059085669506203,2,High alcohol use,119
+Grouped calendar-block bootstrap,Bootstrap 119,High_fasting_plasma_glucose,93.29463482113445,0.8099363647058107,1,High fasting plasma glucose,119
+Grouped calendar-block bootstrap,Bootstrap 119,Low_physical_activity,7.571548101831885,0.06573231308049111,3,Low physical activity,119
+Grouped calendar-block bootstrap,Bootstrap 119,Tobacco_use,3.8864836133139975,0.033740465518636194,4,Tobacco use,119
+Grouped calendar-block bootstrap,Bootstrap 120,High_alcohol_use,12.777643678775606,0.11307675713093428,2,High alcohol use,120
+Grouped calendar-block bootstrap,Bootstrap 120,High_fasting_plasma_glucose,87.68890028630986,0.7760097816175694,1,High fasting plasma glucose,120
+Grouped calendar-block bootstrap,Bootstrap 120,Low_physical_activity,6.491497892228996,0.05744701832583015,3,Low physical activity,120
+Grouped calendar-block bootstrap,Bootstrap 120,Tobacco_use,6.041693923753851,0.05346644292566621,4,Tobacco use,120
+Grouped calendar-block bootstrap,Bootstrap 121,High_alcohol_use,7.3714115669074305,0.06295979579057301,3,High alcohol use,121
+Grouped calendar-block bootstrap,Bootstrap 121,High_fasting_plasma_glucose,96.49506842599196,0.8241718357134998,1,High fasting plasma glucose,121
+Grouped calendar-block bootstrap,Bootstrap 121,Low_physical_activity,7.8195049254333275,0.06678699579044202,2,Low physical activity,121
+Grouped calendar-block bootstrap,Bootstrap 121,Tobacco_use,5.395264700509827,0.04608137270548518,4,Tobacco use,121
+Grouped calendar-block bootstrap,Bootstrap 122,High_alcohol_use,7.622184452239205,0.06538213853072586,3,High alcohol use,122
+Grouped calendar-block bootstrap,Bootstrap 122,High_fasting_plasma_glucose,95.04750168709194,0.8153055021489553,1,High fasting plasma glucose,122
+Grouped calendar-block bootstrap,Bootstrap 122,Low_physical_activity,10.526492795348167,0.0902949298197517,2,Low physical activity,122
+Grouped calendar-block bootstrap,Bootstrap 122,Tobacco_use,3.3828229689861047,0.029017429500567234,4,Tobacco use,122
+Grouped calendar-block bootstrap,Bootstrap 123,High_alcohol_use,13.707107622833814,0.11877857224625661,2,High alcohol use,123
+Grouped calendar-block bootstrap,Bootstrap 123,High_fasting_plasma_glucose,83.19318536730374,0.7209083090648111,1,High fasting plasma glucose,123
+Grouped calendar-block bootstrap,Bootstrap 123,Low_physical_activity,11.673361784482703,0.10115520241229525,3,Low physical activity,123
+Grouped calendar-block bootstrap,Bootstrap 123,Tobacco_use,6.826853613506126,0.05915791627663699,4,Tobacco use,123
+Grouped calendar-block bootstrap,Bootstrap 124,High_alcohol_use,18.466331111754783,0.15765630880584008,2,High alcohol use,124
+Grouped calendar-block bootstrap,Bootstrap 124,High_fasting_plasma_glucose,88.58213997658561,0.7562700533372838,1,High fasting plasma glucose,124
+Grouped calendar-block bootstrap,Bootstrap 124,Low_physical_activity,5.668289929124362,0.04839302739991564,3,Low physical activity,124
+Grouped calendar-block bootstrap,Bootstrap 124,Tobacco_use,4.413541294108419,0.03768061045696059,4,Tobacco use,124
+Grouped calendar-block bootstrap,Bootstrap 125,High_alcohol_use,9.19710979303893,0.08386950848280156,2,High alcohol use,125
+Grouped calendar-block bootstrap,Bootstrap 125,High_fasting_plasma_glucose,88.7361286475378,0.8091950255903767,1,High fasting plasma glucose,125
+Grouped calendar-block bootstrap,Bootstrap 125,Low_physical_activity,7.893967812048162,0.0719860059598979,3,Low physical activity,125
+Grouped calendar-block bootstrap,Bootstrap 125,Tobacco_use,3.832549234375577,0.034949459966923814,4,Tobacco use,125
+Grouped calendar-block bootstrap,Bootstrap 126,High_alcohol_use,10.809491643682122,0.09415972193748545,2,High alcohol use,126
+Grouped calendar-block bootstrap,Bootstrap 126,High_fasting_plasma_glucose,89.4272429634543,0.7789861548203656,1,High fasting plasma glucose,126
+Grouped calendar-block bootstrap,Bootstrap 126,Low_physical_activity,9.183737596299718,0.07999804310129888,3,Low physical activity,126
+Grouped calendar-block bootstrap,Bootstrap 126,Tobacco_use,5.379055888402988,0.04685608014085011,4,Tobacco use,126
+Grouped calendar-block bootstrap,Bootstrap 127,High_alcohol_use,8.471638601863592,0.07216995125299122,2,High alcohol use,127
+Grouped calendar-block bootstrap,Bootstrap 127,High_fasting_plasma_glucose,96.23288975883932,0.8198086921817135,1,High fasting plasma glucose,127
+Grouped calendar-block bootstrap,Bootstrap 127,Low_physical_activity,8.235975670310504,0.07016233701427924,3,Low physical activity,127
+Grouped calendar-block bootstrap,Bootstrap 127,Tobacco_use,4.44406468188938,0.0378590195510161,4,Tobacco use,127
+Grouped calendar-block bootstrap,Bootstrap 128,High_alcohol_use,8.954187384598395,0.07688470845482742,2,High alcohol use,128
+Grouped calendar-block bootstrap,Bootstrap 128,High_fasting_plasma_glucose,97.90429339689366,0.8406506063569122,1,High fasting plasma glucose,128
+Grouped calendar-block bootstrap,Bootstrap 128,Low_physical_activity,7.051825126183822,0.0605501644776431,3,Low physical activity,128
+Grouped calendar-block bootstrap,Bootstrap 128,Tobacco_use,2.5522204457836994,0.02191452071061727,4,Tobacco use,128
+Grouped calendar-block bootstrap,Bootstrap 129,High_alcohol_use,14.37378141031984,0.12418090449137338,2,High alcohol use,129
+Grouped calendar-block bootstrap,Bootstrap 129,High_fasting_plasma_glucose,88.68082565489938,0.7661494791454567,1,High fasting plasma glucose,129
+Grouped calendar-block bootstrap,Bootstrap 129,Low_physical_activity,8.054925153360648,0.06958975252235884,3,Low physical activity,129
+Grouped calendar-block bootstrap,Bootstrap 129,Tobacco_use,4.6391931526253325,0.040079863840811025,4,Tobacco use,129
+Grouped calendar-block bootstrap,Bootstrap 130,High_alcohol_use,16.63335907520617,0.14760132777289692,2,High alcohol use,130
+Grouped calendar-block bootstrap,Bootstrap 130,High_fasting_plasma_glucose,85.03359122276306,0.7545722372149302,1,High fasting plasma glucose,130
+Grouped calendar-block bootstrap,Bootstrap 130,Low_physical_activity,4.30389466616599,0.038191958969232734,4,Low physical activity,130
+Grouped calendar-block bootstrap,Bootstrap 130,Tobacco_use,6.720275950431824,0.05963447604294018,3,Tobacco use,130
+Grouped calendar-block bootstrap,Bootstrap 131,High_alcohol_use,8.469937160786461,0.07818030085238392,3,High alcohol use,131
+Grouped calendar-block bootstrap,Bootstrap 131,High_fasting_plasma_glucose,88.95116046386606,0.8210484156163449,1,High fasting plasma glucose,131
+Grouped calendar-block bootstrap,Bootstrap 131,Low_physical_activity,8.499390388411634,0.07845216381347771,2,Low physical activity,131
+Grouped calendar-block bootstrap,Bootstrap 131,Tobacco_use,2.418020133367356,0.022319119717793545,4,Tobacco use,131
+Grouped calendar-block bootstrap,Bootstrap 132,High_alcohol_use,17.301513694270568,0.1582323347961344,2,High alcohol use,132
+Grouped calendar-block bootstrap,Bootstrap 132,High_fasting_plasma_glucose,80.03134537768715,0.7319328736063605,1,High fasting plasma glucose,132
+Grouped calendar-block bootstrap,Bootstrap 132,Low_physical_activity,6.943933281828375,0.06350628015952978,3,Low physical activity,132
+Grouped calendar-block bootstrap,Bootstrap 132,Tobacco_use,5.065673688706011,0.0463285114379752,4,Tobacco use,132
+Grouped calendar-block bootstrap,Bootstrap 133,High_alcohol_use,10.875834256892695,0.08564192543253431,2,High alcohol use,133
+Grouped calendar-block bootstrap,Bootstrap 133,High_fasting_plasma_glucose,98.37332627317485,0.7746422825355431,1,High fasting plasma glucose,133
+Grouped calendar-block bootstrap,Bootstrap 133,Low_physical_activity,8.471615006029605,0.06670986367594885,4,Low physical activity,133
+Grouped calendar-block bootstrap,Bootstrap 133,Tobacco_use,9.271164474176134,0.0730059283559738,3,Tobacco use,133
+Grouped calendar-block bootstrap,Bootstrap 134,High_alcohol_use,20.37404784108786,0.18237474330864337,2,High alcohol use,134
+Grouped calendar-block bootstrap,Bootstrap 134,High_fasting_plasma_glucose,74.6953031452263,0.668622005981536,1,High fasting plasma glucose,134
+Grouped calendar-block bootstrap,Bootstrap 134,Low_physical_activity,6.4758337748401305,0.057967298968158866,4,Low physical activity,134
+Grouped calendar-block bootstrap,Bootstrap 134,Tobacco_use,10.170108000671162,0.0910359517416618,3,Tobacco use,134
+Grouped calendar-block bootstrap,Bootstrap 135,High_alcohol_use,9.866761524142587,0.0769785794618825,2,High alcohol use,135
+Grouped calendar-block bootstrap,Bootstrap 135,High_fasting_plasma_glucose,102.19328179780175,0.7972923683311826,1,High fasting plasma glucose,135
+Grouped calendar-block bootstrap,Bootstrap 135,Low_physical_activity,9.068580055220382,0.07075132085427473,3,Low physical activity,135
+Grouped calendar-block bootstrap,Bootstrap 135,Tobacco_use,7.046793642946902,0.054977731352660326,4,Tobacco use,135
+Grouped calendar-block bootstrap,Bootstrap 136,High_alcohol_use,8.982249272351757,0.08321240670582856,2,High alcohol use,136
+Grouped calendar-block bootstrap,Bootstrap 136,High_fasting_plasma_glucose,87.52481974170489,0.8108382072650036,1,High fasting plasma glucose,136
+Grouped calendar-block bootstrap,Bootstrap 136,Low_physical_activity,7.7908103831550655,0.07217480416253844,3,Low physical activity,136
+Grouped calendar-block bootstrap,Bootstrap 136,Tobacco_use,3.645750981196761,0.03377458186662959,4,Tobacco use,136
+Grouped calendar-block bootstrap,Bootstrap 137,High_alcohol_use,18.136024042043616,0.1659137767411806,2,High alcohol use,137
+Grouped calendar-block bootstrap,Bootstrap 137,High_fasting_plasma_glucose,77.13537756730528,0.7056575235498236,1,High fasting plasma glucose,137
+Grouped calendar-block bootstrap,Bootstrap 137,Low_physical_activity,9.017982226741665,0.08249920083668762,3,Low physical activity,137
+Grouped calendar-block bootstrap,Bootstrap 137,Tobacco_use,5.020550506101811,0.045929498872308225,4,Tobacco use,137
+Grouped calendar-block bootstrap,Bootstrap 138,High_alcohol_use,14.631403704239604,0.12532955629672007,2,High alcohol use,138
+Grouped calendar-block bootstrap,Bootstrap 138,High_fasting_plasma_glucose,84.78071892121258,0.7262139778040334,1,High fasting plasma glucose,138
+Grouped calendar-block bootstrap,Bootstrap 138,Low_physical_activity,11.893716352137135,0.10187909671991786,3,Low physical activity,138
+Grouped calendar-block bootstrap,Bootstrap 138,Tobacco_use,5.437602366761113,0.04657736917932868,4,Tobacco use,138
+Grouped calendar-block bootstrap,Bootstrap 139,High_alcohol_use,17.011523786713095,0.16147086604985153,2,High alcohol use,139
+Grouped calendar-block bootstrap,Bootstrap 139,High_fasting_plasma_glucose,72.85594232739771,0.6915378217718122,1,High fasting plasma glucose,139
+Grouped calendar-block bootstrap,Bootstrap 139,Low_physical_activity,5.966728073884459,0.05663529979169732,4,Low physical activity,139
+Grouped calendar-block bootstrap,Bootstrap 139,Tobacco_use,9.519323773945079,0.09035601238663903,3,Tobacco use,139
+Grouped calendar-block bootstrap,Bootstrap 140,High_alcohol_use,13.92914138786933,0.12128409927067169,2,High alcohol use,140
+Grouped calendar-block bootstrap,Bootstrap 140,High_fasting_plasma_glucose,87.43714335946476,0.7613344483952738,1,High fasting plasma glucose,140
+Grouped calendar-block bootstrap,Bootstrap 140,Low_physical_activity,8.500018531314153,0.07401153184160109,3,Low physical activity,140
+Grouped calendar-block bootstrap,Bootstrap 140,Tobacco_use,4.980914713080753,0.043369920492453425,4,Tobacco use,140
+Grouped calendar-block bootstrap,Bootstrap 141,High_alcohol_use,3.449066168508109,0.03174229289437317,3,High alcohol use,141
+Grouped calendar-block bootstrap,Bootstrap 141,High_fasting_plasma_glucose,93.57366549670697,0.8611730109780266,1,High fasting plasma glucose,141
+Grouped calendar-block bootstrap,Bootstrap 141,Low_physical_activity,8.358409872037523,0.07692374727742526,2,Low physical activity,141
+Grouped calendar-block bootstrap,Bootstrap 141,Tobacco_use,3.2772398841950823,0.030160948850174937,4,Tobacco use,141
+Grouped calendar-block bootstrap,Bootstrap 142,High_alcohol_use,16.21859812911819,0.13722364809052717,2,High alcohol use,142
+Grouped calendar-block bootstrap,Bootstrap 142,High_fasting_plasma_glucose,90.45408107953914,0.7653213238033142,1,High fasting plasma glucose,142
+Grouped calendar-block bootstrap,Bootstrap 142,Low_physical_activity,7.3562644389731915,0.06224048679165347,3,Low physical activity,142
+Grouped calendar-block bootstrap,Bootstrap 142,Tobacco_use,4.162041323259473,0.035214541314505236,4,Tobacco use,142
+Grouped calendar-block bootstrap,Bootstrap 143,High_alcohol_use,5.806139686418807,0.05459125442143086,4,High alcohol use,143
+Grouped calendar-block bootstrap,Bootstrap 143,High_fasting_plasma_glucose,84.47584787046208,0.7942699887757811,1,High fasting plasma glucose,143
+Grouped calendar-block bootstrap,Bootstrap 143,Low_physical_activity,8.75075469794957,0.08227750310808453,2,Low physical activity,143
+Grouped calendar-block bootstrap,Bootstrap 143,Tobacco_use,7.323848154264338,0.06886125369470343,3,Tobacco use,143
+Grouped calendar-block bootstrap,Bootstrap 144,High_alcohol_use,14.482941515327376,0.12475220440754467,2,High alcohol use,144
+Grouped calendar-block bootstrap,Bootstrap 144,High_fasting_plasma_glucose,89.19477552876754,0.7683000623232406,1,High fasting plasma glucose,144
+Grouped calendar-block bootstrap,Bootstrap 144,Low_physical_activity,8.012847589745242,0.06902053697755366,3,Low physical activity,144
+Grouped calendar-block bootstrap,Bootstrap 144,Tobacco_use,4.403107490894549,0.037927196291661025,4,Tobacco use,144
+Grouped calendar-block bootstrap,Bootstrap 145,High_alcohol_use,6.99138996795039,0.06235432754639317,3,High alcohol use,145
+Grouped calendar-block bootstrap,Bootstrap 145,High_fasting_plasma_glucose,90.3417566018946,0.8057338394932222,1,High fasting plasma glucose,145
+Grouped calendar-block bootstrap,Bootstrap 145,Low_physical_activity,5.6827698090935455,0.05068309616132795,4,Low physical activity,145
+Grouped calendar-block bootstrap,Bootstrap 145,Tobacco_use,9.107656162977218,0.08122873679905672,2,Tobacco use,145
+Grouped calendar-block bootstrap,Bootstrap 146,High_alcohol_use,17.5991047670736,0.15527189632530394,2,High alcohol use,146
+Grouped calendar-block bootstrap,Bootstrap 146,High_fasting_plasma_glucose,83.11374636187273,0.7332889473135517,1,High fasting plasma glucose,146
+Grouped calendar-block bootstrap,Bootstrap 146,Low_physical_activity,7.819852598274456,0.06899233557550603,3,Low physical activity,146
+Grouped calendar-block bootstrap,Bootstrap 146,Tobacco_use,4.811083420212655,0.042446820785638426,4,Tobacco use,146
+Grouped calendar-block bootstrap,Bootstrap 147,High_alcohol_use,9.50905194704366,0.08479675041262971,2,High alcohol use,147
+Grouped calendar-block bootstrap,Bootstrap 147,High_fasting_plasma_glucose,89.09551739210592,0.7945072119972326,1,High fasting plasma glucose,147
+Grouped calendar-block bootstrap,Bootstrap 147,Low_physical_activity,8.55021693987005,0.07624636145240633,3,Low physical activity,147
+Grouped calendar-block bootstrap,Bootstrap 147,Tobacco_use,4.984557513892651,0.04444967613773122,4,Tobacco use,147
+Grouped calendar-block bootstrap,Bootstrap 148,High_alcohol_use,7.293390711598263,0.062067035840352745,3,High alcohol use,148
+Grouped calendar-block bootstrap,Bootstrap 148,High_fasting_plasma_glucose,95.96888974273907,0.8166989476854924,1,High fasting plasma glucose,148
+Grouped calendar-block bootstrap,Bootstrap 148,Low_physical_activity,11.101069235451082,0.09447052672048482,2,Low physical activity,148
+Grouped calendar-block bootstrap,Bootstrap 148,Tobacco_use,3.1449316845330246,0.026763489753670017,4,Tobacco use,148
+Grouped calendar-block bootstrap,Bootstrap 149,High_alcohol_use,10.234540730124504,0.09395606610728313,2,High alcohol use,149
+Grouped calendar-block bootstrap,Bootstrap 149,High_fasting_plasma_glucose,85.61620976749589,0.7859817530543948,1,High fasting plasma glucose,149
+Grouped calendar-block bootstrap,Bootstrap 149,Low_physical_activity,8.8280770778656,0.08104431995533627,3,Low physical activity,149
+Grouped calendar-block bootstrap,Bootstrap 149,Tobacco_use,4.250176736361841,0.03901786088298581,4,Tobacco use,149
+Grouped calendar-block bootstrap,Bootstrap 150,High_alcohol_use,23.481125134580275,0.19103012397596758,2,High alcohol use,150
+Grouped calendar-block bootstrap,Bootstrap 150,High_fasting_plasma_glucose,82.71411792530733,0.6729187000738968,1,High fasting plasma glucose,150
+Grouped calendar-block bootstrap,Bootstrap 150,Low_physical_activity,6.694856034074088,0.054465838875283876,4,Low physical activity,150
+Grouped calendar-block bootstrap,Bootstrap 150,Tobacco_use,10.028342489284627,0.08158533707485176,3,Tobacco use,150
+Grouped calendar-block bootstrap,Bootstrap 151,High_alcohol_use,14.887761094464976,0.1253947303017794,2,High alcohol use,151
+Grouped calendar-block bootstrap,Bootstrap 151,High_fasting_plasma_glucose,83.94490520533394,0.7070404127014621,1,High fasting plasma glucose,151
+Grouped calendar-block bootstrap,Bootstrap 151,Low_physical_activity,14.195259563778253,0.11956201696610429,3,Low physical activity,151
+Grouped calendar-block bootstrap,Bootstrap 151,Tobacco_use,5.699241208241267,0.0480028400306543,4,Tobacco use,151
+Grouped calendar-block bootstrap,Bootstrap 152,High_alcohol_use,12.90246861848761,0.10958995156958133,2,High alcohol use,152
+Grouped calendar-block bootstrap,Bootstrap 152,High_fasting_plasma_glucose,89.9288516705527,0.7638304568447106,1,High fasting plasma glucose,152
+Grouped calendar-block bootstrap,Bootstrap 152,Low_physical_activity,10.775747828799135,0.09152618135354486,3,Low physical activity,152
+Grouped calendar-block bootstrap,Bootstrap 152,Tobacco_use,4.126979882861762,0.0350534102321631,4,Tobacco use,152
+Grouped calendar-block bootstrap,Bootstrap 153,High_alcohol_use,17.490879491848105,0.1523163027667081,2,High alcohol use,153
+Grouped calendar-block bootstrap,Bootstrap 153,High_fasting_plasma_glucose,81.72607855235829,0.7116974381144445,1,High fasting plasma glucose,153
+Grouped calendar-block bootstrap,Bootstrap 153,Low_physical_activity,7.509086966010577,0.0653915867609444,4,Low physical activity,153
+Grouped calendar-block bootstrap,Bootstrap 153,Tobacco_use,8.106570895892732,0.07059467235790298,3,Tobacco use,153
+Grouped calendar-block bootstrap,Bootstrap 154,High_alcohol_use,13.214241571461454,0.11770994770785034,2,High alcohol use,154
+Grouped calendar-block bootstrap,Bootstrap 154,High_fasting_plasma_glucose,88.29337630131666,0.7865005835691031,1,High fasting plasma glucose,154
+Grouped calendar-block bootstrap,Bootstrap 154,Low_physical_activity,6.204761636377696,0.05527083516734277,3,Low physical activity,154
+Grouped calendar-block bootstrap,Bootstrap 154,Tobacco_use,4.548664088098003,0.04051863355570369,4,Tobacco use,154
+Grouped calendar-block bootstrap,Bootstrap 155,High_alcohol_use,17.572912265458967,0.13735089828041336,2,High alcohol use,155
+Grouped calendar-block bootstrap,Bootstrap 155,High_fasting_plasma_glucose,99.51162124100854,0.7777885850860592,1,High fasting plasma glucose,155
+Grouped calendar-block bootstrap,Bootstrap 155,Low_physical_activity,6.22676484689993,0.048668754056416415,3,Low physical activity,155
+Grouped calendar-block bootstrap,Bootstrap 155,Tobacco_use,4.630436906218529,0.03619176257711102,4,Tobacco use,155
+Grouped calendar-block bootstrap,Bootstrap 156,High_alcohol_use,9.990045422030722,0.09204266887627326,2,High alcohol use,156
+Grouped calendar-block bootstrap,Bootstrap 156,High_fasting_plasma_glucose,85.32674798395703,0.7861527429752282,1,High fasting plasma glucose,156
+Grouped calendar-block bootstrap,Bootstrap 156,Low_physical_activity,9.606609404262375,0.0885099047167771,3,Low physical activity,156
+Grouped calendar-block bootstrap,Bootstrap 156,Tobacco_use,3.6137087706805153,0.03329468343172146,4,Tobacco use,156
+Grouped calendar-block bootstrap,Bootstrap 157,High_alcohol_use,12.631547134769532,0.11565511715519204,2,High alcohol use,157
+Grouped calendar-block bootstrap,Bootstrap 157,High_fasting_plasma_glucose,85.44307192634133,0.7823213093619832,1,High fasting plasma glucose,157
+Grouped calendar-block bootstrap,Bootstrap 157,Low_physical_activity,6.935074964549173,0.06349791509681194,3,Low physical activity,157
+Grouped calendar-block bootstrap,Bootstrap 157,Tobacco_use,4.207670890583712,0.03852565838601285,4,Tobacco use,157
+Grouped calendar-block bootstrap,Bootstrap 158,High_alcohol_use,13.856355288274148,0.11977177650135175,2,High alcohol use,158
+Grouped calendar-block bootstrap,Bootstrap 158,High_fasting_plasma_glucose,83.56387931976248,0.7223107425617348,1,High fasting plasma glucose,158
+Grouped calendar-block bootstrap,Bootstrap 158,Low_physical_activity,10.417027969658374,0.09004286623958625,3,Low physical activity,158
+Grouped calendar-block bootstrap,Bootstrap 158,Tobacco_use,7.852390636372216,0.06787461469732722,4,Tobacco use,158
+Grouped calendar-block bootstrap,Bootstrap 159,High_alcohol_use,7.711267724370255,0.07088086477258786,3,High alcohol use,159
+Grouped calendar-block bootstrap,Bootstrap 159,High_fasting_plasma_glucose,87.9958105669302,0.80884484526935585,1,High fasting plasma glucose,159
+Grouped calendar-block bootstrap,Bootstrap 159,Low_physical_activity,5.1515682803918885,0.047352475325842795,4,Low physical activity,159
+Grouped calendar-block bootstrap,Bootstrap 159,Tobacco_use,7.933306646018344,0.07292181463221352,2,Tobacco use,159
+Grouped calendar-block bootstrap,Bootstrap 160,High_alcohol_use,8.925631350221332,0.08003935975058059,2,High alcohol use,160
+Grouped calendar-block bootstrap,Bootstrap 160,High_fasting_plasma_glucose,90.26635410540244,0.8094509963641334,1,High fasting plasma glucose,160
+Grouped calendar-block bootstrap,Bootstrap 160,Low_physical_activity,7.587639319020159,0.06804110199976443,3,Low physical activity,160
+Grouped calendar-block bootstrap,Bootstrap 160,Tobacco_use,4.735901811718941,0.04246854188552152,4,Tobacco use,160
+Grouped calendar-block bootstrap,Bootstrap 161,High_alcohol_use,8.909615462141879,0.0732763795490767,2,High alcohol use,161
+Grouped calendar-block bootstrap,Bootstrap 161,High_fasting_plasma_glucose,102.70950067534166,0.8447256098495171,1,High fasting plasma glucose,161
+Grouped calendar-block bootstrap,Bootstrap 161,Low_physical_activity,5.828174312412739,0.047933327179966484,3,Low physical activity,161
+Grouped calendar-block bootstrap,Bootstrap 161,Tobacco_use,4.141897184226443,0.03406468342143988,4,Tobacco use,161
+Grouped calendar-block bootstrap,Bootstrap 162,High_alcohol_use,15.854184803454315,0.13683961212877113,2,High alcohol use,162
+Grouped calendar-block bootstrap,Bootstrap 162,High_fasting_plasma_glucose,86.95917614593225,0.7505564040261595,1,High fasting plasma glucose,162
+Grouped calendar-block bootstrap,Bootstrap 162,Low_physical_activity,6.944151542971239,0.05993591064338764,3,Low physical activity,162
+Grouped calendar-block bootstrap,Bootstrap 162,Tobacco_use,6.1021026937400595,0.05266807320168156,4,Tobacco use,162
+Grouped calendar-block bootstrap,Bootstrap 163,High_alcohol_use,9.233214448348564,0.085697514859467,3,High alcohol use,163
+Grouped calendar-block bootstrap,Bootstrap 163,High_fasting_plasma_glucose,80.4984131033368,0.7471410949759295,1,High fasting plasma glucose,163
+Grouped calendar-block bootstrap,Bootstrap 163,Low_physical_activity,7.262254584887448,0.06740417150312566,4,Low physical activity,163
+Grouped calendar-block bootstrap,Bootstrap 163,Tobacco_use,10.748033874525744,0.09975721866147788,2,Tobacco use,163
+Grouped calendar-block bootstrap,Bootstrap 164,High_alcohol_use,14.986434880337294,0.13304092513765084,2,High alcohol use,164
+Grouped calendar-block bootstrap,Bootstrap 164,High_fasting_plasma_glucose,86.28129059234087,0.7659555333961566,1,High fasting plasma glucose,164
+Grouped calendar-block bootstrap,Bootstrap 164,Low_physical_activity,8.137165043634527,0.07223705798256705,3,Low physical activity,164
+Grouped calendar-block bootstrap,Bootstrap 164,Tobacco_use,3.2404091524288936,0.028766483483625444,4,Tobacco use,164
+Grouped calendar-block bootstrap,Bootstrap 165,High_alcohol_use,24.455167982683463,0.22777489602072357,2,High alcohol use,165
+Grouped calendar-block bootstrap,Bootstrap 165,High_fasting_plasma_glucose,69.968735481711,0.6516872613728599,1,High fasting plasma glucose,165
+Grouped calendar-block bootstrap,Bootstrap 165,Low_physical_activity,7.569376540972906,0.07050100640415315,3,Low physical activity,165
+Grouped calendar-block bootstrap,Bootstrap 165,Tobacco_use,5.372230460976853,0.05003683620226331,4,Tobacco use,165
+Grouped calendar-block bootstrap,Bootstrap 166,High_alcohol_use,8.065857549241798,0.0752585802760949,2,High alcohol use,166
+Grouped calendar-block bootstrap,Bootstrap 166,High_fasting_plasma_glucose,88.77566436459037,0.8283223975080266,1,High fasting plasma glucose,166
+Grouped calendar-block bootstrap,Bootstrap 166,Low_physical_activity,7.863995102716281,0.07337510030588422,3,Low physical activity,166
+Grouped calendar-block bootstrap,Bootstrap 166,Tobacco_use,2.4697382121744074,0.02304392190999439,4,Tobacco use,166
+Grouped calendar-block bootstrap,Bootstrap 167,High_alcohol_use,11.985173494522186,0.11065370348820756,2,High alcohol use,167
+Grouped calendar-block bootstrap,Bootstrap 167,High_fasting_plasma_glucose,88.88785689367967,0.8206615085639676,1,High fasting plasma glucose,167
+Grouped calendar-block bootstrap,Bootstrap 167,Low_physical_activity,4.736190466100679,0.04372711131291583,3,Low physical activity,167
+Grouped calendar-block bootstrap,Bootstrap 167,Tobacco_use,2.7032270503394744,0.02495767663490893,4,Tobacco use,167
+Grouped calendar-block bootstrap,Bootstrap 168,High_alcohol_use,10.669557162965921,0.09255778747230427,2,High alcohol use,168
+Grouped calendar-block bootstrap,Bootstrap 168,High_fasting_plasma_glucose,88.24083596397848,0.7654841167992784,1,High fasting plasma glucose,168
+Grouped calendar-block bootstrap,Bootstrap 168,Low_physical_activity,10.190869906714514,0.08840520338159755,3,Low physical activity,168
+Grouped calendar-block bootstrap,Bootstrap 168,Tobacco_use,6.173285487269545,0.05355289234681987,4,Tobacco use,168
+Grouped calendar-block bootstrap,Bootstrap 169,High_alcohol_use,7.293390711598263,0.062067035840352745,3,High alcohol use,169
+Grouped calendar-block bootstrap,Bootstrap 169,High_fasting_plasma_glucose,95.96888974273907,0.8166989476854924,1,High fasting plasma glucose,169
+Grouped calendar-block bootstrap,Bootstrap 169,Low_physical_activity,11.101069235451082,0.09447052672048482,2,Low physical activity,169
+Grouped calendar-block bootstrap,Bootstrap 169,Tobacco_use,3.1449316845330246,0.026763489753670017,4,Tobacco use,169
+Grouped calendar-block bootstrap,Bootstrap 170,High_alcohol_use,6.318590298996252,0.05461293337994106,3,High alcohol use,170
+Grouped calendar-block bootstrap,Bootstrap 170,High_fasting_plasma_glucose,96.86792532231878,0.8372502887426155,1,High fasting plasma glucose,170
+Grouped calendar-block bootstrap,Bootstrap 170,Low_physical_activity,8.883214436559117,0.07677953076030282,2,Low physical activity,170
+Grouped calendar-block bootstrap,Bootstrap 170,Tobacco_use,3.627961092277923,0.03135724711714054,4,Tobacco use,170
+Grouped calendar-block bootstrap,Bootstrap 171,High_alcohol_use,6.387837220816051,0.060105890340013346,3,High alcohol use,171
+Grouped calendar-block bootstrap,Bootstrap 171,High_fasting_plasma_glucose,86.83281572163105,0.8170470723128713,1,High fasting plasma glucose,171
+Grouped calendar-block bootstrap,Bootstrap 171,Low_physical_activity,7.600750700033763,0.07151871162109014,2,Low physical activity,171
+Grouped calendar-block bootstrap,Bootstrap 171,Tobacco_use,5.454989314692862,0.051328325726025185,4,Tobacco use,171
+Grouped calendar-block bootstrap,Bootstrap 172,High_alcohol_use,10.59661885621574,0.087590288991575,2,High alcohol use,172
+Grouped calendar-block bootstrap,Bootstrap 172,High_fasting_plasma_glucose,98.78264428517397,0.8165246365556537,1,High fasting plasma glucose,172
+Grouped calendar-block bootstrap,Bootstrap 172,Low_physical_activity,8.085171395518325,0.06683098719403896,3,Low physical activity,172
+Grouped calendar-block bootstrap,Bootstrap 172,Tobacco_use,3.5149454630253945,0.029054087258732257,4,Tobacco use,172
+Grouped calendar-block bootstrap,Bootstrap 173,High_alcohol_use,14.305933602417216,0.12586745814229286,2,High alcohol use,173
+Grouped calendar-block bootstrap,Bootstrap 173,High_fasting_plasma_glucose,88.60319119341233,0.7795547476136786,1,High fasting plasma glucose,173
+Grouped calendar-block bootstrap,Bootstrap 173,Low_physical_activity,5.940576255672118,0.05226679040895094,3,Low physical activity,173
+Grouped calendar-block bootstrap,Bootstrap 173,Tobacco_use,4.809014342944412,0.042311003835077694,4,Tobacco use,173
+Grouped calendar-block bootstrap,Bootstrap 174,High_alcohol_use,14.656657963180367,0.12449732515378902,2,High alcohol use,174
+Grouped calendar-block bootstrap,Bootstrap 174,High_fasting_plasma_glucose,88.43154938922208,0.751159738176381,1,High fasting plasma glucose,174
+Grouped calendar-block bootstrap,Bootstrap 174,Low_physical_activity,9.392613103109248,0.0797832091380668,3,Low physical activity,174
+Grouped calendar-block bootstrap,Bootstrap 174,Tobacco_use,5.2458692149313935,0.04455972753176327,4,Tobacco use,174
+Grouped calendar-block bootstrap,Bootstrap 175,High_alcohol_use,54.402645436455224,0.4854146439823308,1,High alcohol use,175
+Grouped calendar-block bootstrap,Bootstrap 175,High_fasting_plasma_glucose,42.49551625269301,0.379171742976005,2,High fasting plasma glucose,175
+Grouped calendar-block bootstrap,Bootstrap 175,Low_physical_activity,8.781059861446128,0.07835014294314327,3,Low physical activity,175
+Grouped calendar-block bootstrap,Bootstrap 175,Tobacco_use,6.395364807446159,0.057063470098521044,4,Tobacco use,175
+Grouped calendar-block bootstrap,Bootstrap 176,High_alcohol_use,15.361169401391903,0.12923759840891524,2,High alcohol use,176
+Grouped calendar-block bootstrap,Bootstrap 176,High_fasting_plasma_glucose,88.31592788135305,0.7430253597494216,1,High fasting plasma glucose,176
+Grouped calendar-block bootstrap,Bootstrap 176,Low_physical_activity,10.162059640322866,0.08549610700110435,3,Low physical activity,176
+Grouped calendar-block bootstrap,Bootstrap 176,Tobacco_use,5.020753741538262,0.04224093484055877,4,Tobacco use,176
+Grouped calendar-block bootstrap,Bootstrap 177,High_alcohol_use,16.3479854004348,0.14285394912228386,2,High alcohol use,177
+Grouped calendar-block bootstrap,Bootstrap 177,High_fasting_plasma_glucose,81.58137805707314,0.7128842939865219,1,High fasting plasma glucose,177
+Grouped calendar-block bootstrap,Bootstrap 177,Low_physical_activity,12.328953141543796,0.10773435390799138,3,Low physical activity,177
+Grouped calendar-block bootstrap,Bootstrap 177,Tobacco_use,4.180139606599422,0.03652740298320277,4,Tobacco use,177
+Grouped calendar-block bootstrap,Bootstrap 178,High_alcohol_use,13.781073579674258,0.12382480557777126,2,High alcohol use,178
+Grouped calendar-block bootstrap,Bootstrap 178,High_fasting_plasma_glucose,84.20991793099572,0.7566374749573093,1,High fasting plasma glucose,178
+Grouped calendar-block bootstrap,Bootstrap 178,Low_physical_activity,9.382905246273559,0.08430666966237442,3,Low physical activity,178
+Grouped calendar-block bootstrap,Bootstrap 178,Tobacco_use,3.921037366887664,0.03523104980254502,4,Tobacco use,178
+Grouped calendar-block bootstrap,Bootstrap 179,High_alcohol_use,12.022945907443543,0.10263606471352468,3,High alcohol use,179
+Grouped calendar-block bootstrap,Bootstrap 179,High_fasting_plasma_glucose,84.80899257730036,0.7239873918973222,1,High fasting plasma glucose,179
+Grouped calendar-block bootstrap,Bootstrap 179,Low_physical_activity,14.009903203555629,0.1195980870994453,2,Low physical activity,179
+Grouped calendar-block bootstrap,Bootstrap 179,Tobacco_use,6.299690783757936,0.05377845628970786,4,Tobacco use,179
+Grouped calendar-block bootstrap,Bootstrap 180,High_alcohol_use,7.625881119510707,0.06304025332934945,3,High alcohol use,180
+Grouped calendar-block bootstrap,Bootstrap 180,High_fasting_plasma_glucose,91.75446790526895,0.7584992226077276,1,High fasting plasma glucose,180
+Grouped calendar-block bootstrap,Bootstrap 180,Low_physical_activity,16.19629684125676,0.13388861429506252,2,Low physical activity,180
+Grouped calendar-block bootstrap,Bootstrap 180,Tobacco_use,5.391794404497041,0.04457190976786052,4,Tobacco use,180
+Grouped calendar-block bootstrap,Bootstrap 181,High_alcohol_use,7.108648896787097,0.06046509215602282,3,High alcohol use,181
+Grouped calendar-block bootstrap,Bootstrap 181,High_fasting_plasma_glucose,94.33952405610505,0.8024377204205257,1,High fasting plasma glucose,181
+Grouped calendar-block bootstrap,Bootstrap 181,Low_physical_activity,11.99446828163722,0.10202313274178973,2,Low physical activity,181
+Grouped calendar-block bootstrap,Bootstrap 181,Tobacco_use,4.123522039382335,0.0350740546816616,4,Tobacco use,181
+Grouped calendar-block bootstrap,Bootstrap 182,High_alcohol_use,11.914430547374137,0.10526661439146037,2,High alcohol use,182
+Grouped calendar-block bootstrap,Bootstrap 182,High_fasting_plasma_glucose,87.62238846947164,0.7741630741309296,1,High fasting plasma glucose,182
+Grouped calendar-block bootstrap,Bootstrap 182,Low_physical_activity,8.716110091875581,0.07700874971630076,3,Low physical activity,182
+Grouped calendar-block bootstrap,Bootstrap 182,Tobacco_use,4.930444520711899,0.043561561761309264,4,Tobacco use,182
+Grouped calendar-block bootstrap,Bootstrap 183,High_alcohol_use,12.541625652593725,0.1092969852427953,2,High alcohol use,183
+Grouped calendar-block bootstrap,Bootstrap 183,High_fasting_plasma_glucose,84.00727971161113,0.7321014568018517,1,High fasting plasma glucose,183
+Grouped calendar-block bootstrap,Bootstrap 183,Low_physical_activity,12.098695029581295,0.10543696078440623,3,Low physical activity,183
+Grouped calendar-block bootstrap,Bootstrap 183,Tobacco_use,6.10053858491866,0.0531645971709468,4,Tobacco use,183
+Grouped calendar-block bootstrap,Bootstrap 184,High_alcohol_use,11.90243396662614,0.09521415697152355,2,High alcohol use,184
+Grouped calendar-block bootstrap,Bootstrap 184,High_fasting_plasma_glucose,101.45573045646444,0.8116005409001747,1,High fasting plasma glucose,184
+Grouped calendar-block bootstrap,Bootstrap 184,Low_physical_activity,8.308726559491719,0.06646610240284817,3,Low physical activity,184
+Grouped calendar-block bootstrap,Bootstrap 184,Tobacco_use,3.34008639564409,0.026719199725453592,4,Tobacco use,184
+Grouped calendar-block bootstrap,Bootstrap 185,High_alcohol_use,10.234540730124504,0.09395606610728313,2,High alcohol use,185
+Grouped calendar-block bootstrap,Bootstrap 185,High_fasting_plasma_glucose,85.61620976749589,0.7859817530543948,1,High fasting plasma glucose,185
+Grouped calendar-block bootstrap,Bootstrap 185,Low_physical_activity,8.8280770778656,0.08104431995533627,3,Low physical activity,185
+Grouped calendar-block bootstrap,Bootstrap 185,Tobacco_use,4.250176736361841,0.03901786088298581,4,Tobacco use,185
+Grouped calendar-block bootstrap,Bootstrap 186,High_alcohol_use,12.982547964747338,0.11533097110217937,2,High alcohol use,186
+Grouped calendar-block bootstrap,Bootstrap 186,High_fasting_plasma_glucose,87.22821514343514,0.774895250710363,1,High fasting plasma glucose,186
+Grouped calendar-block bootstrap,Bootstrap 186,Low_physical_activity,6.95917403833831,0.061822093944118355,3,Low physical activity,186
+Grouped calendar-block bootstrap,Bootstrap 186,Tobacco_use,5.39781322163694,0.0479516842433393,4,Tobacco use,186
+Grouped calendar-block bootstrap,Bootstrap 187,High_alcohol_use,10.405422169517944,0.1045439383892541,2,High alcohol use,187
+Grouped calendar-block bootstrap,Bootstrap 187,High_fasting_plasma_glucose,81.54693545348503,0.8193072474133525,1,High fasting plasma glucose,187
+Grouped calendar-block bootstrap,Bootstrap 187,Low_physical_activity,6.094658426414518,0.06123342086985652,3,Low physical activity,187
+Grouped calendar-block bootstrap,Bootstrap 187,Tobacco_use,1.4845524933216545,0.014915393327536913,4,Tobacco use,187
+Grouped calendar-block bootstrap,Bootstrap 188,High_alcohol_use,14.482941515327376,0.12475220440754467,2,High alcohol use,188
+Grouped calendar-block bootstrap,Bootstrap 188,High_fasting_plasma_glucose,89.19477552876754,0.7683000623232406,1,High fasting plasma glucose,188
+Grouped calendar-block bootstrap,Bootstrap 188,Low_physical_activity,8.012847589745242,0.06902053697755366,3,Low physical activity,188
+Grouped calendar-block bootstrap,Bootstrap 188,Tobacco_use,4.403107490894549,0.037927196291661025,4,Tobacco use,188
+Grouped calendar-block bootstrap,Bootstrap 189,High_alcohol_use,13.231231567290996,0.1102043026016356,2,High alcohol use,189
+Grouped calendar-block bootstrap,Bootstrap 189,High_fasting_plasma_glucose,98.33165202140808,0.8190145474798536,1,High fasting plasma glucose,189
+Grouped calendar-block bootstrap,Bootstrap 189,Low_physical_activity,5.9319018415011024,0.049407426830927414,3,Low physical activity,189
+Grouped calendar-block bootstrap,Bootstrap 189,Tobacco_use,2.5661491697763696,0.021373723087583486,4,Tobacco use,189
+Grouped calendar-block bootstrap,Bootstrap 190,High_alcohol_use,8.91244221584981,0.07442359504547118,2,High alcohol use,190
+Grouped calendar-block bootstrap,Bootstrap 190,High_fasting_plasma_glucose,97.83432142804651,0.8169682050292126,1,High fasting plasma glucose,190
+Grouped calendar-block bootstrap,Bootstrap 190,Low_physical_activity,8.341224611331436,0.06965362665163223,3,Low physical activity,190
+Grouped calendar-block bootstrap,Bootstrap 190,Tobacco_use,4.664923578774666,0.03895457327368399,4,Tobacco use,190
+Grouped calendar-block bootstrap,Bootstrap 191,High_alcohol_use,9.162799404210904,0.08427516542412469,2,High alcohol use,191
+Grouped calendar-block bootstrap,Bootstrap 191,High_fasting_plasma_glucose,87.27285754137179,0.8026951351739845,1,High fasting plasma glucose,191
+Grouped calendar-block bootstrap,Bootstrap 191,Low_physical_activity,8.768844594527035,0.0806517523937707,3,Low physical activity,191
+Grouped calendar-block bootstrap,Bootstrap 191,Tobacco_use,3.5202853896819493,0.03237794700812015,4,Tobacco use,191
+Grouped calendar-block bootstrap,Bootstrap 192,High_alcohol_use,18.728194699787043,0.1597747349064014,2,High alcohol use,192
+Grouped calendar-block bootstrap,Bootstrap 192,High_fasting_plasma_glucose,81.3143138184267,0.6937119750566663,1,High fasting plasma glucose,192
+Grouped calendar-block bootstrap,Bootstrap 192,Low_physical_activity,11.598306637191596,0.09894794442421698,3,Low physical activity,192
+Grouped calendar-block bootstrap,Bootstrap 192,Tobacco_use,5.575431272781947,0.04756534561271542,4,Tobacco use,192
+Grouped calendar-block bootstrap,Bootstrap 193,High_alcohol_use,11.70288189018474,0.10981993417090724,2,High alcohol use,193
+Grouped calendar-block bootstrap,Bootstrap 193,High_fasting_plasma_glucose,85.69149640097338,0.8041296649891146,1,High fasting plasma glucose,193
+Grouped calendar-block bootstrap,Bootstrap 193,Low_physical_activity,6.170641625179526,0.057905348736180244,3,Low physical activity,193
+Grouped calendar-block bootstrap,Bootstrap 193,Tobacco_use,2.9992571298690405,0.028145052103797887,4,Tobacco use,193
+Grouped calendar-block bootstrap,Bootstrap 194,High_alcohol_use,13.704574175858323,0.11896051797448427,2,High alcohol use,194
+Grouped calendar-block bootstrap,Bootstrap 194,High_fasting_plasma_glucose,88.02232421566458,0.7640646945790736,1,High fasting plasma glucose,194
+Grouped calendar-block bootstrap,Bootstrap 194,Low_physical_activity,7.013665270761532,0.060881078302981104,3,Low physical activity,194
+Grouped calendar-block bootstrap,Bootstrap 194,Tobacco_use,6.462147364896887,0.05609370914346091,4,Tobacco use,194
+Grouped calendar-block bootstrap,Bootstrap 195,High_alcohol_use,9.963060818711186,0.08565580588127238,3,High alcohol use,195
+Grouped calendar-block bootstrap,Bootstrap 195,High_fasting_plasma_glucose,88.37476564715891,0.7597877709287343,1,High fasting plasma glucose,195
+Grouped calendar-block bootstrap,Bootstrap 195,Low_physical_activity,11.422853660868372,0.0982061390158303,2,Low physical activity,195
+Grouped calendar-block bootstrap,Bootstrap 195,Tobacco_use,6.554387091483702,0.0563502841741631,4,Tobacco use,195
+Grouped calendar-block bootstrap,Bootstrap 196,High_alcohol_use,15.117682344773236,0.12444125691229391,2,High alcohol use,196
+Grouped calendar-block bootstrap,Bootstrap 196,High_fasting_plasma_glucose,98.56536546033972,0.8113411623670584,1,High fasting plasma glucose,196
+Grouped calendar-block bootstrap,Bootstrap 196,Low_physical_activity,5.638054175789961,0.046409663344823646,3,Low physical activity,196
+Grouped calendar-block bootstrap,Bootstrap 196,Tobacco_use,2.1633857194115134,0.01780791737582406,4,Tobacco use,196
+Grouped calendar-block bootstrap,Bootstrap 197,High_alcohol_use,17.86601166922791,0.13966661534842045,2,High alcohol use,197
+Grouped calendar-block bootstrap,Bootstrap 197,High_fasting_plasma_glucose,98.37267524494844,0.7690232631995729,1,High fasting plasma glucose,197
+Grouped calendar-block bootstrap,Bootstrap 197,Low_physical_activity,7.2139365769046195,0.056394573321018104,3,Low physical activity,197
+Grouped calendar-block bootstrap,Bootstrap 197,Tobacco_use,4.4663614765028745,0.03491554813098855,4,Tobacco use,197
+Grouped calendar-block bootstrap,Bootstrap 198,High_alcohol_use,7.961529468569686,0.06605544827756202,3,High alcohol use,198
+Grouped calendar-block bootstrap,Bootstrap 198,High_fasting_plasma_glucose,93.83371825989555,0.7785223112816523,1,High fasting plasma glucose,198
+Grouped calendar-block bootstrap,Bootstrap 198,Low_physical_activity,14.208356787768357,0.11788430610082154,2,Low physical activity,198
+Grouped calendar-block bootstrap,Bootstrap 198,Tobacco_use,4.524371240068884,0.037537934339964246,4,Tobacco use,198
+Grouped calendar-block bootstrap,Bootstrap 199,High_alcohol_use,6.0162326525239385,0.054012001214351284,3,High alcohol use,199
+Grouped calendar-block bootstrap,Bootstrap 199,High_fasting_plasma_glucose,94.29926353903377,0.8465915849590655,1,High fasting plasma glucose,199
+Grouped calendar-block bootstrap,Bootstrap 199,Low_physical_activity,7.1384542234570665,0.06408698274396063,2,Low physical activity,199
+Grouped calendar-block bootstrap,Bootstrap 199,Tobacco_use,3.93301020968048,0.035309431082622654,4,Tobacco use,199
+Grouped calendar-block bootstrap,Bootstrap 200,High_alcohol_use,8.73212075987283,0.0791060837248151,3,High alcohol use,200
+Grouped calendar-block bootstrap,Bootstrap 200,High_fasting_plasma_glucose,85.57996453029268,0.7752865570080176,1,High fasting plasma glucose,200
+Grouped calendar-block bootstrap,Bootstrap 200,Low_physical_activity,10.65864499400315,0.09655886427536924,2,Low physical activity,200
+Grouped calendar-block bootstrap,Bootstrap 200,Tobacco_use,5.414215458425529,0.04904849499179803,4,Tobacco use,200

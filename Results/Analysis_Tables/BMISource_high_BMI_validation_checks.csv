@@ -1,0 +1,8 @@
+Check,Value
+Selected China 25-49 BMI rows,170
+Expected China 25-49 BMI rows,170
+Selected rows with missing val,0
+Selected rows with val equal to zero,170
+Selected rows with negative val,0
+Selected duplicate year-age keys,0
+Distinct selected rei_name values,1

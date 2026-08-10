@@ -1,0 +1,4 @@
+Completed: 2026-08-02 09:42:19.358406
+Age-specific anchor series: 10
+All projection checks passed: TRUE
+Main Figure 5 now uses explicit multiplicative 2023 anchoring.

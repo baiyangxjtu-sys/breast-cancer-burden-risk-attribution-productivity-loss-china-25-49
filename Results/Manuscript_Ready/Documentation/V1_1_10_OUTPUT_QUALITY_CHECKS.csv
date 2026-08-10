@@ -1,0 +1,20 @@
+Check,Passed,Status
+Analysis version is v1.1.10,TRUE,PASS
+Main Table 2 contains four sequential stages,TRUE,PASS
+Main Table 2 component shares sum to 100%,TRUE,PASS
+Main Table 2 pathway reproduces the decomposition results,TRUE,PASS
+Figure 2 relative contributions sum to 100% within location,TRUE,PASS
+Figure 3 broad PAF object equals DALY-only reconstruction,TRUE,PASS
+Figure 3 specific PAF object equals DALY-only reconstruction,TRUE,PASS
+HCA uses YLL-specific PAFs,TRUE,PASS
+HCA contains no missing source PAF after joining,TRUE,PASS
+GLOBOCAN comparison contains ten matched rows,TRUE,PASS
+GLOBOCAN manuscript table uses case-estimate-derived terminology,TRUE,PASS
+Six main figures exist as PDF and PNG,TRUE,PASS
+Six supplementary figures exist as PDF and PNG,TRUE,PASS
+Two main manuscript tables exist,TRUE,PASS
+Seventeen supplementary CSV tables exist,TRUE,PASS
+Consolidated supplementary workbook exists,TRUE,PASS
+Manuscript output index contains all 32 expected entries,TRUE,PASS
+Manuscript output index includes 17 supplementary tables and the consolidated workbook,TRUE,PASS
+Run-and-upload checklist exists,TRUE,PASS

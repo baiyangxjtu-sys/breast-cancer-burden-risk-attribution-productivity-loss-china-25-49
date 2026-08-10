@@ -1,0 +1,6 @@
+Risk_Factor,Risk_Attributable_Loss_Billion,n_rows,n_missing,n_zero,n_negative,min_PAF,max_PAF,Model_Interpretation
+Tobacco use,0.7931982526085586,170,0,0,0,0.126511273,0.145521695,Variable non-negative PAF series.
+High fasting plasma glucose,0.29113975561367345,170,0,0,0,0.022683763,0.071629225,Variable non-negative PAF series.
+High alcohol use,0.09170623719698404,170,0,0,0,0.007117864,0.017396302,Variable non-negative PAF series.
+Low physical activity,0.07853310332355937,170,0,0,0,0.010446197,0.013255741,Variable non-negative PAF series.
+High BMI,0,170,0,170,0,0,0,Constant at zero; risk-attributable loss is not estimable as a varying series.

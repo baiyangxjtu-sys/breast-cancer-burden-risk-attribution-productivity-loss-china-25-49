@@ -1,0 +1,9 @@
+Check,Passed,Status
+All age-specific anchor ratios are finite,TRUE,PASS
+All age-specific anchor ratios are positive,TRUE,PASS
+Anchored age-specific posterior means equal observed 2023 rates,TRUE,PASS
+No negative anchored posterior means or 95% bounds,TRUE,PASS
+All anchored 95% intervals have correctly ordered bounds,TRUE,PASS
+All anchored fan-chart intervals are properly nested,TRUE,PASS
+Selected projection years are present for both locations and all series,TRUE,PASS
+All selected-year anchored estimates are finite,TRUE,PASS

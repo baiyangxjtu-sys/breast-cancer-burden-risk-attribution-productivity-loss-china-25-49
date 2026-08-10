@@ -1,0 +1,9 @@
+Item,Status,Description
+Analytical foundation,UNCHANGED,"Validated v1.1.8 inputs, models, formulas, parameters, seeds, and numerical results retained"
+Supplementary Figure S1,LAYOUT FIXED,Shortened in-figure subtitle prevents clipping; full high-BMI interpretation moved to the caption
+GLOBOCAN outputs,STANDARDIZED,"Baseline-scaling terminology used in publication-facing figures, tables, raw audit exports, and workbook sheets"
+Supplementary Table S12,CORRECTED,Relative change replaces relative increase because some external-baseline factors are below one
+Supplementary Figure S5,CLARIFIED,Figure states that scaling-factor uncertainty is not propagated
+HCA sensitivity figure,CLARIFIED,Multipliers described as illustrative assumptions rather than empirical age-specific female wage estimates
+Manuscript output index,COMPLETED,"Index includes six main figures, two main tables, six supplementary figures, seventeen supplementary tables, and the consolidated workbook"
+Documentation and packaging,STANDARDIZED,"Version labels, quality-check filenames, release notes, and clean-ZIP guidance updated to v1.1.10"

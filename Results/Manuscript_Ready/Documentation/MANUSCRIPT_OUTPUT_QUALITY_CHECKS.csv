@@ -1,0 +1,9 @@
+Check,Passed,Status
+Main Table 1 contains every target location,TRUE,PASS
+Main Table 1 contains no missing cells,TRUE,PASS
+Six main figures were exported as PDF and PNG,TRUE,PASS
+Six supplementary figures were exported as PDF and PNG,TRUE,PASS
+Seventeen supplementary CSV tables were exported,TRUE,PASS
+The consolidated supplementary workbook exists,TRUE,PASS
+Figure source-data files were exported,TRUE,PASS
+The manuscript output index exists,TRUE,PASS

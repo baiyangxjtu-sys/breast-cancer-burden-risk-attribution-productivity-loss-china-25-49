@@ -1,0 +1,31 @@
+Scenario,age_name,Monetary_Scale,Age_Multiplier,Combined_Multiplier
+Age-graded profile plus 20% higher value,25-29 years,1.2,0.7344167832038913,0.8813001398446695
+Age-graded profile plus 20% higher value,30-34 years,1.2,0.8813001398446695,1.0575601678136033
+Age-graded profile plus 20% higher value,35-39 years,1.2,1.0281834964854477,1.2338201957825372
+Age-graded profile plus 20% higher value,40-44 years,1.2,1.0771446153657072,1.2925735384388486
+Age-graded profile plus 20% higher value,45-49 years,1.2,0.9792223776051883,1.1750668531262258
+Age-graded profile plus 20% lower value,25-29 years,0.8,0.7344167832038913,0.587533426563113
+Age-graded profile plus 20% lower value,30-34 years,0.8,0.8813001398446695,0.7050401118757357
+Age-graded profile plus 20% lower value,35-39 years,0.8,1.0281834964854477,0.8225467971883582
+Age-graded profile plus 20% lower value,40-44 years,0.8,1.0771446153657072,0.8617156922925657
+Age-graded profile plus 20% lower value,45-49 years,0.8,0.9792223776051883,0.7833779020841507
+"Age-graded profile, total-normalized",25-29 years,1,0.7344167832038913,0.7344167832038913
+"Age-graded profile, total-normalized",30-34 years,1,0.8813001398446695,0.8813001398446695
+"Age-graded profile, total-normalized",35-39 years,1,1.0281834964854477,1.0281834964854477
+"Age-graded profile, total-normalized",40-44 years,1,1.0771446153657072,1.0771446153657072
+"Age-graded profile, total-normalized",45-49 years,1,0.9792223776051883,0.9792223776051883
+Main HCA estimate,25-29 years,1,1,1
+Main HCA estimate,30-34 years,1,1,1
+Main HCA estimate,35-39 years,1,1,1
+Main HCA estimate,40-44 years,1,1,1
+Main HCA estimate,45-49 years,1,1,1
+Uniform 20% higher productivity value,25-29 years,1.2,1,1.2
+Uniform 20% higher productivity value,30-34 years,1.2,1,1.2
+Uniform 20% higher productivity value,35-39 years,1.2,1,1.2
+Uniform 20% higher productivity value,40-44 years,1.2,1,1.2
+Uniform 20% higher productivity value,45-49 years,1.2,1,1.2
+Uniform 20% lower productivity value,25-29 years,0.8,1,0.8
+Uniform 20% lower productivity value,30-34 years,0.8,1,0.8
+Uniform 20% lower productivity value,35-39 years,0.8,1,0.8
+Uniform 20% lower productivity value,40-44 years,0.8,1,0.8
+Uniform 20% lower productivity value,45-49 years,0.8,1,0.8

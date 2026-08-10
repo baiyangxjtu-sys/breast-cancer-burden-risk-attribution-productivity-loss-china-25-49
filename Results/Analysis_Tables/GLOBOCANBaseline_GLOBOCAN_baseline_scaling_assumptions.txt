@@ -1,0 +1,10 @@
+GLOBOCAN 2022 external-baseline scaling sensitivity analysis
+
+1. The GBD-based, 2023-anchored BAPC projection remains the prespecified main analysis.
+2. GLOBOCAN 2022 age-specific incidence case estimates are converted to rates using the same 2022 population denominators used in the external comparison.
+3. For each location and five-year age group, the sensitivity factor is the 2022 rate derived from GLOBOCAN case estimates divided by the corresponding 2022 GBD incidence rate.
+4. Each age-specific factor is held constant and applied to the main posterior mean and interval bounds from 2023 through 2050.
+5. The sensitivity analysis changes the incidence baseline level but preserves the relative age-period-cohort trajectory estimated from GBD data.
+6. The scaled 95% uncertainty intervals retain the relative posterior width of the main model; they do not quantify uncertainty in the GLOBOCAN/GBD baseline-scaling factor itself.
+7. This scenario is not an independent GLOBOCAN-based forecast and does not assume that the 2022 difference between the two sources will necessarily persist unchanged through 2050.
+8. Results are interpreted only as an indication of how a higher external baseline could affect the projected magnitude, not as a replacement for the main projection.

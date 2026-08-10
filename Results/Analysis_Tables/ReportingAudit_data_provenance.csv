@@ -1,0 +1,11 @@
+Output,Source_or_derivation,Author_derived
+Table 1 burden estimates,GBD age-specific counts/rates; ages 25-49 aggregated or weighted by the authors,Yes
+EAPC,Log-linear regression fitted by the authors to recalculated weighted rates,Yes
+Decomposition,GBD incidence counts/rates with author-constructed demographic counterfactuals,Yes
+Risk PAF trends,GBD Comparative Risk Assessment PAF estimates; summarized by the authors,Partly
+XGBoost-SHAP ranking,Author-fitted exploratory model using GBD-derived DALY PAF features,Yes
+MIR,Author-calculated ratio; Figure 4 uses weighted ASDR divided by weighted ASIR for ages 25-49,Yes
+HCA total productivity loss,GBD YLLs × World Bank GDP per capita × ILO age-specific female LFPR,Yes
+Risk-attributable productivity loss,HCA total multiplied by YLL-specific GBD PAFs,Yes
+BAPC projection,Author-fitted BAPC model using historical GBD incidence and population denominators,Yes
+GLOBOCAN comparison,GLOBOCAN 2022 counts converted to rates and compared with GBD 2022 rates,Yes

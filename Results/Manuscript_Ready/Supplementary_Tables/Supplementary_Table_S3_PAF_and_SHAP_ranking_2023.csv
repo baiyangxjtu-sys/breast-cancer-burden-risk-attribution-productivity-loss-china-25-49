@@ -1,0 +1,6 @@
+Risk_Factor,25-29 years,30-34 years,35-39 years,40-44 years,45-49 years,Overall PAF (25-49y),SHAP rank,Mean_abs_SHAP
+High fasting plasma glucose,0.025,0.032,0.0405,0.0477,0.0556,0.0402,1,85.3
+High alcohol use,0.0128,0.0145,0.0146,0.0162,0.0145,0.0145,2,12.1
+Low physical activity,0.0125,0.0124,0.012,0.0127,0.0132,0.0126,3,8.8
+Tobacco use,0.1266,0.1274,0.127,0.1299,0.1296,0.1281,4,4.3
+High BMI,0,0,0,0,0,0,NA,NA

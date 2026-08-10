@@ -1,0 +1,3 @@
+PAF_Measure,Raw_rows,Unique_year_age_risk_keys,Missing_val,Missing_lower,Missing_upper,Expected_keys,Complete_for_all_keys
+DALY,850,850,0,0,0,850,TRUE
+YLL,850,850,0,0,0,850,TRUE

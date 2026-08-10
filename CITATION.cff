@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this analysis code or derived data, please cite the associated article and this repository."
+title: "Breast cancer burden, risk-attribution patterns, and mortality-related productivity loss in Chinese women aged 25–49 years"
+type: software
+version: 1.1.10
+authors:
+  - family-names: "Bai"
+    given-names: "Yang"
+    orcid: "https://orcid.org/0009-0001-4478-4383"
+    affiliation: "Department of Breast Surgery, The First Affiliated Hospital of Xi'an Jiaotong University"
+  - family-names: "Zhang"
+    given-names: "Jiaqi"
+    affiliation: "Department of Breast Surgery, The First Affiliated Hospital of Xi'an Jiaotong University"
+  - family-names: "Tian"
+    given-names: "Tian"
+    affiliation: "Department of Breast Surgery, The First Affiliated Hospital of Xi'an Jiaotong University"
+  - family-names: "Wang"
+    given-names: "Ke"
+    affiliation: "Department of Breast Surgery, The First Affiliated Hospital of Xi'an Jiaotong University"
+  - family-names: "Zhang"
+    given-names: "Jian"
+    orcid: "https://orcid.org/0000-0003-1144-3627"
+    affiliation: "Department of Breast Surgery, The First Affiliated Hospital of Xi'an Jiaotong University"
+repository-code: "https://github.com/baiyangxjtu-sys/breast-cancer-burden-risk-attribution-productivity-loss-china-25-49"
+url: "https://github.com/baiyangxjtu-sys/breast-cancer-burden-risk-attribution-productivity-loss-china-25-49"
+license: MIT
+keywords:
+  - breast cancer
+  - disease burden
+  - population attributable fraction
+  - mortality-related productivity loss
+  - Bayesian age-period-cohort model
+  - Global Burden of Disease
+  - reproducible research

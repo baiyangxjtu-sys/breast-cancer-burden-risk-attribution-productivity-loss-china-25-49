@@ -1,0 +1,10 @@
+BAPC projection assumptions
+
+1. Historical incidence counts and population denominators cover 1990-2023.
+2. The Bayesian age-period-cohort model contains an age effect, a second-order random-walk period effect, and a second-order random-walk cohort effect.
+3. The status-quo scenario extrapolates the fitted historical age, period, and cohort structure without imposing a new screening, treatment, prevention, or risk-factor intervention scenario.
+4. China female population denominators for 2024-2050 are taken from the UN World Population Prospects 2024 input file used by the pipeline.
+5. Global female population denominators for 2024-2050 are extrapolated separately by age group with the ARIMA procedure used in this pipeline.
+6. A location- and age-specific multiplicative ratio aligns the posterior mean at 2023 with the observed 2023 incidence rate and is applied to all posterior means and interval bounds from 2023 onward.
+7. The 95% uncertainty intervals quantify posterior uncertainty under the fitted model and specified population trajectories; they do not incorporate all uncertainty from GBD source estimation, population forecasts, alternative model structures, or future policy changes.
+8. Overall 25-49-year uncertainty limits are standardized weighted aggregations of age-specific posterior limits, consistent with the analytical pipeline.

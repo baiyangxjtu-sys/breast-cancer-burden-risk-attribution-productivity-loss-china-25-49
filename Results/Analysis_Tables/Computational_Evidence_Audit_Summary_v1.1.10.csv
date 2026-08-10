@@ -1,0 +1,7 @@
+Audit_scope,Audit_item,Evidence_status,Analytical_result_changed
+Computational evidence only,XGBoost temporal hyperparameter leakage,"No held-out tuning, early stopping, or model selection in the pipeline",FALSE
+Computational evidence only,Fold-specific SHAP evaluation set,Confirmed: SHAP calculated in held-out future-period observations,FALSE
+Computational evidence only,Calendar-block bootstrap structure,Confirmed: six non-overlapping 5-year blocks plus one final 4-year block; sampled with replacement; model refitted,FALSE
+Computational evidence only,GLOBOCAN external-baseline sensitivity,Confirmed: fixed baseline-scaling factors; factor uncertainty not propagated,FALSE
+Computational evidence only,HCA age multipliers,Confirmed: illustrative raw multipliers; normalized scenario preserves 2023 total monetary scale,FALSE
+Computational evidence only,High-BMI constant-zero feature,Confirmed: 170 observed zeros; not rankable; no inference about obesity prevalence or biological importance,FALSE

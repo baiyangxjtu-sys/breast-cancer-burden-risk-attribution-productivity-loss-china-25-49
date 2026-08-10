@@ -1,0 +1,10 @@
+Age-structure and target-scale sensitivity analysis interpretation framework
+
+1. The primary model predicts absolute DALYs and therefore retains both population size and between-age differences.
+2. The age-specific DALY-rate scenario removes the direct population-size component.
+3. The within-age centered scenario removes long-run between-age levels and focuses on temporal deviations within each age group.
+4. The first-difference scenario focuses on year-to-year changes.
+5. The residualized scenario removes age-group levels and smooth secular trends from the target and every feature.
+6. Persistence of a high FPG rank across the last three scenarios would support robustness beyond the simple age gradient.
+7. Loss of the FPG ranking in those scenarios would indicate that its original importance was substantially driven by age or secular structure.
+8. No scenario provides causal evidence, and all findings remain model-based and hypothesis-generating.

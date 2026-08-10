@@ -1,0 +1,23 @@
+Files to upload after the final v1.1.10 run
+
+Preferred method:
+1. Create a clean ZIP of the entire Results/Manuscript_Ready folder, excluding __MACOSX, .DS_Store, and ._* files.
+2. Add Results/Logs/sessionInfo_final.txt and Results/Logs/sessionInfo.txt.
+3. Add Results/Analysis_Tables/HCA_PAF_truncation_audit.csv.
+4. Upload that single ZIP file.
+
+Do not upload the raw GBD, UN, ILO, World Bank, or GLOBOCAN source files unless specifically requested.
+
+Minimum files when a ZIP cannot be uploaded:
+- Main_Figures/Figure_2_Decomposition_and_birth_cohort_patterns.png
+- Main_Figures/Figure_3_GBD_risk_attribution_and_exploratory_SHAP_ranking.png
+- Main_Figures/Figure_4_MIR_and_mortality_related_productivity_loss.png
+- Main_Figures/Figure_6_GBD_and_GLOBOCAN_external_comparison.png
+- Main_Tables/Table_2_Sequential_decomposition_of_increased_cases.csv
+- Supplementary_Tables/Supplementary_Tables_S1_to_S17.xlsx
+- Documentation/V1_1_10_OUTPUT_QUALITY_CHECKS.csv
+- Documentation/MANUSCRIPT_OUTPUT_QUALITY_CHECKS.csv
+- Logs/sessionInfo_final.txt
+- Analysis_Tables/HCA_PAF_truncation_audit.csv
+- Analysis_Tables/Computational_Evidence_Audit_Summary_v1.1.10.csv
+- Sensitivity_Results/Reporting_Assumptions_v1.1.10.txt

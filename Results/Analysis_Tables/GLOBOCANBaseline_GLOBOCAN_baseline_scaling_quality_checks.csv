@@ -1,0 +1,9 @@
+Check,Passed,Status
+Baseline-scaling factors available for both locations and all five age groups,TRUE,PASS
+All baseline-scaling factors are finite and positive,TRUE,PASS
+Applying each factor to the 2022 GBD rate reproduces the GLOBOCAN rate,TRUE,PASS
+No negative baseline-scaled posterior means or 95% bounds,TRUE,PASS
+All baseline-scaled 95% intervals have correctly ordered bounds,TRUE,PASS
+All baseline-scaled fan-chart intervals are properly nested,TRUE,PASS
+Selected years are complete for both locations and all series,TRUE,PASS
+All selected-year baseline-scaled estimates are finite,TRUE,PASS

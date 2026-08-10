@@ -1,0 +1,7 @@
+Scenario,Monetary_Scale,Age_Profile,Interpretation
+Main HCA estimate,1,Flat across age groups,Prespecified main estimate using GDP per capita and age-specific female labour-force participation.
+Uniform 20% lower productivity value,0.8,Flat across age groups,Lower-bound scenario in which the monetary value of each productive life-year is 20% below GDP per capita.
+Uniform 20% higher productivity value,1.2,Flat across age groups,Upper-bound scenario in which the monetary value of each productive life-year is 20% above GDP per capita.
+"Age-graded profile, total-normalized",1,Illustrative normalized age profile,Redistributes the 2023 loss across age groups while preserving the overall 2023 monetary scale.
+Age-graded profile plus 20% lower value,0.8,Illustrative normalized age profile,Combines age grading with a 20% lower monetary value.
+Age-graded profile plus 20% higher value,1.2,Illustrative normalized age profile,Combines age grading with a 20% higher monetary value.

@@ -1,0 +1,7 @@
+year,Scenario,Total_Loss_Billion,Main_Loss_Billion,Absolute_Change_Billion,Relative_Change_Percent,Interpretation
+2023,Uniform 20% lower productivity value,4.92852758539115,6.160659481738937,-1.232131896347787,-19.999999999999996,Lower-bound scenario in which the monetary value of each productive life-year is 20% below GDP per capita.
+2023,Age-graded profile plus 20% lower value,4.9285275853911505,6.160659481738937,-1.232131896347786,-19.999999999999986,Combines age grading with a 20% lower monetary value.
+2023,Main HCA estimate,6.160659481738937,6.160659481738937,0,0,Prespecified main estimate using GDP per capita and age-specific female labour-force participation.
+2023,"Age-graded profile, total-normalized",6.1606594817389375,6.160659481738937,8.881784197001252e-16,2.220446049250313e-14,Redistributes the 2023 loss across age groups while preserving the overall 2023 monetary scale.
+2023,Uniform 20% higher productivity value,7.3927913780867245,6.160659481738937,1.2321318963477879,20.000000000000018,Upper-bound scenario in which the monetary value of each productive life-year is 20% above GDP per capita.
+2023,Age-graded profile plus 20% higher value,7.392791378086725,6.160659481738937,1.2321318963477887,20.000000000000018,Combines age grading with a 20% higher monetary value.

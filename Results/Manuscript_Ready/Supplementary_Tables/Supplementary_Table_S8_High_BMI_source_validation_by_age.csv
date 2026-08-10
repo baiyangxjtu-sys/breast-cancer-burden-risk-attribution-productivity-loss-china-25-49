@@ -1,0 +1,6 @@
+age_name,n_rows,val_n_missing,val_n_zero,val_n_negative,val_min,val_median,val_max,lower_n_missing,lower_n_zero,lower_n_negative,lower_min,lower_median,lower_max,upper_n_missing,upper_n_zero,upper_n_negative,upper_min,upper_median,upper_max
+25-29 years,34,0,34,0,0,0,0,0,34,0,0,0,0,0,34,0,0,0,0
+30-34 years,34,0,34,0,0,0,0,0,34,0,0,0,0,0,34,0,0,0,0
+35-39 years,34,0,34,0,0,0,0,0,34,0,0,0,0,0,34,0,0,0,0
+40-44 years,34,0,34,0,0,0,0,0,34,0,0,0,0,0,34,0,0,0,0
+45-49 years,34,0,34,0,0,0,0,0,34,0,0,0,0,0,34,0,0,0,0

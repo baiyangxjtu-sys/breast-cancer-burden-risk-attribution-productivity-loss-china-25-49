@@ -1,0 +1,10 @@
+analysis stage INTERPRETATION RULES
+
+1. Forward temporal validation prevents future calendar years from entering the training data for each held-out period.
+2. Fold-specific predictive performance and SHAP importance are calculated exclusively in held-out future-period observations.
+3. XGBoost hyperparameters are fixed in the pipeline and applied unchanged across temporal folds; held-out periods are not used for tuning, early stopping, or model selection.
+4. The grouped bootstrap resamples six complete non-overlapping 5-year calendar blocks and one final 4-year block (2020-2023), with replacement, retaining all five age groups within each selected year and refitting the model in every replicate.
+5. Stable ranking requires broadly similar ranks/normalized importance across folds and high bootstrap top-rank frequency.
+6. Predictive performance is reported transparently but does not convert this exploratory analysis into a validated clinical model.
+7. High BMI is excluded from SHAP ranking because all 170 China-specific age-year PAF estimates are exactly zero; correlation or mediation with FPG cannot be estimated from a constant series.
+8. No result from this module should be described as causal evidence.

@@ -1,0 +1,6 @@
+Feature,Risk_Factor,Mean_abs_SHAP,SHAP rank,n_observed,n_unique,Mean,SD,Min,Max,Zero_variance,Model_status
+High_fasting_plasma_glucose,High fasting plasma glucose,85.30897482037544,1,170,170,0.04316564194117647,0.01313412952255413,0.022720416,0.071648727,FALSE,Included in XGBoost-SHAP
+High_alcohol_use,High alcohol use,12.08661194452468,2,170,170,0.013104783752941176,0.002505761776336234,0.007120979,0.017398213,FALSE,Included in XGBoost-SHAP
+Low_physical_activity,Low physical activity,8.752852755905513,3,170,170,0.011420430494117647,7.165602900230023e-4,0.010450669,0.013235712,FALSE,Included in XGBoost-SHAP
+Tobacco_use,Tobacco use,4.284656736714875,4,170,170,0.1332669572235294,0.00515655159839864,0.12650232,0.14552017,FALSE,Included in XGBoost-SHAP
+High_BMI,High BMI,NA,NA,170,1,0,0,0,0,TRUE,Excluded from XGBoost-SHAP: zero variance

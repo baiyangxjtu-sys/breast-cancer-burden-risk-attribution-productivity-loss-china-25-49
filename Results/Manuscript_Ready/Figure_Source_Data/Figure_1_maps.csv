@@ -1,0 +1,817 @@
+population_group_id,population_group_name,measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower,measure_clean
+1,All Population,1,Deaths,369,Nauru,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,76.29330341,112.1753041,52.14713964,Deaths
+1,All Population,1,Deaths,374,Niue,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,34.3204283,47.55054267,23.45357922,Deaths
+1,All Population,1,Deaths,71,Australia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,14.37175396,16.05208513,12.48484818,Deaths
+1,All Population,1,Deaths,54,Slovakia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,20.10820774,22.01832525,15.96479274,Deaths
+1,All Population,1,Deaths,88,Malta,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,21.00030312,23.86490721,17.63551771,Deaths
+1,All Population,1,Deaths,20,Vietnam,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,13.47209578,19.27612488,9.333594067,Deaths
+1,All Population,1,Deaths,37,Kyrgyzstan,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,10.58632146,12.21884954,9.22177979,Deaths
+1,All Population,1,Deaths,106,Bahamas,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,42.38211234,49.03220656,36.227637,Deaths
+1,All Population,1,Deaths,141,Egypt,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,22.78690229,32.05297225,15.83549134,Deaths
+1,All Population,1,Deaths,89,Netherlands,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,20.31234716,22.60836607,17.82899629,Deaths
+1,All Population,1,Deaths,38,Mongolia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,5.832963878,7.759476727,4.394103369,Deaths
+1,All Population,1,Deaths,107,Barbados,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,37.95587046,44.58923718,32.02922298,Deaths
+1,All Population,1,Deaths,123,Peru,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,14.29119098,17.12782876,11.54517892,Deaths
+1,All Population,1,Deaths,176,Comoros,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,8.632164005,11.75308158,5.762171043,Deaths
+1,All Population,1,Deaths,298,American Samoa,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,37.69970204,51.30136364,25.45615549,Deaths
+1,All Population,1,Deaths,160,Afghanistan,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,6.784143934,10.98292147,4.053803093,Deaths
+1,All Population,1,Deaths,155,Türkiye,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,12.86513242,15.15998421,10.50763329,Deaths
+1,All Population,1,Deaths,172,Equatorial Guinea,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,51.25873018,71.96269914,32.20856851,Deaths
+1,All Population,1,Deaths,208,Guinea,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,20.24529013,28.90794223,13.76816287,Deaths
+1,All Population,1,Deaths,173,Gabon,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,43.87972053,60.21412883,30.6094905,Deaths
+1,All Population,1,Deaths,156,United Arab Emirates,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,19.15819345,26.04280702,13.16514132,Deaths
+1,All Population,1,Deaths,72,New Zealand,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,19.89386203,23.11765548,17.59654788,Deaths
+1,All Population,1,Deaths,125,Colombia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,13.10435654,13.97481114,12.07988425,Deaths
+1,All Population,1,Deaths,209,Guinea-Bissau,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,30.48483397,42.62980742,21.34746637,Deaths
+1,All Population,1,Deaths,55,Slovenia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,18.02841779,20.08775247,16.05262658,Deaths
+1,All Population,1,Deaths,8,Taiwan,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,14.0483077,16.16793356,12.21238183,Deaths
+1,All Population,1,Deaths,10,Cambodia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,17.70712867,25.46749961,11.51900388,Deaths
+1,All Population,1,Deaths,210,Liberia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,37.01337116,52.09488842,25.23278799,Deaths
+1,All Population,1,Deaths,142,Iran,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,9.166649424,11.24615167,7.131212126,Deaths
+1,All Population,1,Deaths,195,Namibia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,31.97015581,40.91573237,22.63754612,Deaths
+1,All Population,1,Deaths,207,Ghana,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,24.13698158,31.7158953,18.03490232,Deaths
+1,All Population,1,Deaths,44,Bosnia and Herzegovina,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,19.70284506,23.54818145,16.14518638,Deaths
+1,All Population,1,Deaths,79,Finland,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,17.39072764,20.00248456,14.73120242,Deaths
+1,All Population,1,Deaths,416,Tuvalu,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,40.26855792,55.78355061,27.03699793,Deaths
+1,All Population,1,Deaths,191,Zambia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,38.40975304,53.80864069,25.89461935,Deaths
+1,All Population,1,Deaths,177,Djibouti,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,20.61626666,28.39775317,13.34578471,Deaths
+1,All Population,1,Deaths,61,Republic of Moldova,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,15.08849276,16.74025621,13.78676093,Deaths
+1,All Population,1,Deaths,190,Uganda,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,35.44809195,46.09634827,23.96220664,Deaths
+1,All Population,1,Deaths,39,Tajikistan,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,13.9529111,20.39958649,10.26464844,Deaths
+1,All Population,1,Deaths,139,Algeria,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,12.83126548,18.22073882,8.258555823,Deaths
+1,All Population,1,Deaths,74,Andorra,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,19.42745448,25.11817207,14.07537018,Deaths
+1,All Population,1,Deaths,80,France,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,20.61088001,23.57449454,18.03174859,Deaths
+1,All Population,1,Deaths,22,Fiji,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,45.65856366,56.98081847,35.76723086,Deaths
+1,All Population,1,Deaths,376,Northern Mariana Islands,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,35.96208396,47.62428693,24.6621347,Deaths
+1,All Population,1,Deaths,108,Belize,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,12.81045724,15.48771,10.68956922,Deaths
+1,All Population,1,Deaths,422,United States Virgin Islands,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,22.79069487,27.09439881,18.79331265,Deaths
+1,All Population,1,Deaths,178,Eritrea,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,27.00021948,36.82987347,18.45752219,Deaths
+1,All Population,1,Deaths,57,Belarus,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,15.16083937,17.3511835,13.25563317,Deaths
+1,All Population,1,Deaths,75,Austria,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,17.72963242,20.20446252,15.60820943,Deaths
+1,All Population,1,Deaths,385,Puerto Rico,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,14.17103708,15.46280459,12.72662763,Deaths
+1,All Population,1,Deaths,40,Turkmenistan,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,13.45315726,16.10833958,11.36553474,Deaths
+1,All Population,1,Deaths,23,Kiribati,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,16.49999156,23.03488943,11.06684806,Deaths
+1,All Population,1,Deaths,126,Costa Rica,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,18.01909796,20.09474192,16.03719759,Deaths
+1,All Population,1,Deaths,349,Greenland,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,26.02227747,34.5032688,19.22867496,Deaths
+1,All Population,1,Deaths,62,Russia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,15.08376767,16.70978394,13.68374192,Deaths
+1,All Population,1,Deaths,143,Iraq,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,29.59669856,41.23018521,20.9303647,Deaths
+1,All Population,1,Deaths,90,Norway,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,13.19790493,14.75416228,11.47763711,Deaths
+1,All Population,1,Deaths,380,Palau,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,59.09124511,79.14408783,39.89055922,Deaths
+1,All Population,1,Deaths,181,Madagascar,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,30.22754199,40.93695466,20.19126257,Deaths
+1,All Population,1,Deaths,105,Antigua and Barbuda,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,30.1826282,35.42284391,25.74248875,Deaths
+1,All Population,1,Deaths,121,Bolivia (Plurinational State of),2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,17.28905651,24.6794597,12.02594706,Deaths
+1,All Population,1,Deaths,92,Spain,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,13.89900031,15.29298131,12.17633943,Deaths
+1,All Population,1,Deaths,110,Dominica,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,26.26220096,38.261956,18.70501389,Deaths
+1,All Population,1,Deaths,145,Kuwait,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,17.56452799,20.41037416,14.63344367,Deaths
+1,All Population,1,Deaths,91,Portugal,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,16.35205483,18.52253703,13.92968783,Deaths
+1,All Population,1,Deaths,196,South Africa,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,23.16817357,27.18917686,19.22683431,Deaths
+1,All Population,1,Deaths,213,Niger,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,24.096111,34.99106798,15.99934512,Deaths
+1,All Population,1,Deaths,128,Guatemala,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,9.707855222,11.31563256,8.361751818,Deaths
+1,All Population,1,Deaths,97,Argentina,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,23.87464597,27.02937384,21.14981329,Deaths
+1,All Population,1,Deaths,63,Ukraine,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,15.70475653,18.2468596,13.43374763,Deaths
+1,All Population,1,Deaths,122,Ecuador,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,10.9979826,11.92026584,10.04018745,Deaths
+1,All Population,1,Deaths,140,Bahrain,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,19.43877664,24.95600139,14.43661082,Deaths
+1,All Population,1,Deaths,24,Marshall Islands,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,56.71379931,78.067146,38.09774833,Deaths
+1,All Population,1,Deaths,163,India,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,15.510313,19.5025278,11.75971349,Deaths
+1,All Population,1,Deaths,161,Bangladesh,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,16.38591781,22.70451072,10.39348172,Deaths
+1,All Population,1,Deaths,13,Malaysia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,23.6820971,26.97624478,19.88809448,Deaths
+1,All Population,1,Deaths,114,Haiti,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,27.49251658,40.02840964,18.04032412,Deaths
+1,All Population,1,Deaths,305,Bermuda,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,25.80239996,30.21272128,21.74079665,Deaths
+1,All Population,1,Deaths,6,China,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,6.741441504,8.027781663,5.712871684,Deaths
+1,All Population,1,Deaths,164,Nepal,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,10.12781582,14.62566374,6.650613373,Deaths
+1,All Population,1,Deaths,217,Sierra Leone,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,22.08928738,30.26745198,14.81436469,Deaths
+1,All Population,1,Deaths,182,Malawi,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,24.21194464,34.87875231,15.57262266,Deaths
+1,All Population,1,Deaths,115,Jamaica,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,28.67964974,34.07310523,23.45580888,Deaths
+1,All Population,1,Deaths,98,Chile,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,13.00870548,13.83433464,11.76873332,Deaths
+1,All Population,1,Deaths,150,Oman,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,9.448764507,12.93178173,6.402869136,Deaths
+1,All Population,1,Deaths,218,Togo,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,29.71720137,40.15598673,20.52558984,Deaths
+1,All Population,1,Deaths,132,Panama,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,14.89858118,17.16469886,12.95923758,Deaths
+1,All Population,1,Deaths,151,Qatar,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,16.89417454,22.10494942,12.45113482,Deaths
+1,All Population,1,Deaths,157,Yemen,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,7.839613872,12.06262429,4.920092346,Deaths
+1,All Population,1,Deaths,116,Saint Lucia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,21.5418592,25.31524907,17.88995126,Deaths
+1,All Population,1,Deaths,7,North Korea,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,14.65614408,19.6407506,10.23983411,Deaths
+1,All Population,1,Deaths,200,Benin,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,18.50178137,26.57417942,12.96058091,Deaths
+1,All Population,1,Deaths,41,Uzbekistan,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,11.42054242,12.47854632,10.26096984,Deaths
+1,All Population,1,Deaths,201,Burkina Faso,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,24.96203111,33.51963399,16.34717648,Deaths
+1,All Population,1,Deaths,58,Estonia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,14.57212142,16.25660103,12.97633985,Deaths
+1,All Population,1,Deaths,367,Monaco,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,37.00169027,51.073141,25.91707169,Deaths
+1,All Population,1,Deaths,168,Angola,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,24.40366126,34.21886123,15.98032095,Deaths
+1,All Population,1,Deaths,28,Solomon Islands,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,36.38885377,51.93652434,24.60311721,Deaths
+1,All Population,1,Deaths,133,Venezuela (Bolivarian Republic of),2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,24.80235612,29.50008561,20.72506441,Deaths
+1,All Population,1,Deaths,185,Rwanda,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,31.20566453,43.4719616,21.54775447,Deaths
+1,All Population,1,Deaths,29,Tonga,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,43.97532403,60.47634154,29.66703747,Deaths
+1,All Population,1,Deaths,179,Ethiopia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,31.32474261,42.24556681,21.45389029,Deaths
+1,All Population,1,Deaths,46,Croatia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,16.52787059,18.30239386,14.71413268,Deaths
+1,All Population,1,Deaths,109,Cuba,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,18.65442745,21.71313615,16.19645774,Deaths
+1,All Population,1,Deaths,76,Belgium,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,19.61589716,22.29115176,17.16324443,Deaths
+1,All Population,1,Deaths,351,Guam,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,18.1586562,20.99279788,14.99880545,Deaths
+1,All Population,1,Deaths,111,Dominican Republic,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,21.48338394,25.35043534,16.3312133,Deaths
+1,All Population,1,Deaths,393,Saint Kitts and Nevis,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,29.70450723,34.5865579,25.14038601,Deaths
+1,All Population,1,Deaths,197,Eswatini,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,20.35415791,31.48537834,13.12399111,Deaths
+1,All Population,1,Deaths,214,Nigeria,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,38.72517179,56.3395481,26.0608121,Deaths
+1,All Population,1,Deaths,81,Germany,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,22.15011044,24.32886998,19.85517344,Deaths
+1,All Population,1,Deaths,47,Czechia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,16.21840803,17.67775148,14.63543339,Deaths
+1,All Population,1,Deaths,186,Seychelles,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,21.57999171,27.56459763,15.67763336,Deaths
+1,All Population,1,Deaths,215,Sao Tome and Principe,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,25.08591693,35.81934065,15.81586473,Deaths
+1,All Population,1,Deaths,82,Greece,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,20.38392677,22.52708017,18.22217175,Deaths
+1,All Population,1,Deaths,127,El Salvador,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,16.44530845,19.17200818,13.90618199,Deaths
+1,All Population,1,Deaths,11,Indonesia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,17.98340862,25.10067818,12.0774168,Deaths
+1,All Population,1,Deaths,93,Sweden,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,14.50208333,16.42734241,12.77450628,Deaths
+1,All Population,1,Deaths,522,Sudan,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,13.45360425,21.34394425,8.391508801,Deaths
+1,All Population,1,Deaths,198,Zimbabwe,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,14.93482278,21.21579655,9.954746163,Deaths
+1,All Population,1,Deaths,94,Switzerland,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,15.45236819,17.20870265,13.11192925,Deaths
+1,All Population,1,Deaths,25,Micronesia (Federated States of),2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,30.26062709,40.9397516,20.6939324,Deaths
+1,All Population,1,Deaths,30,Vanuatu,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,20.53309872,29.735107760000002,13.6388884,Deaths
+1,All Population,1,Deaths,48,Hungary,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,19.76938363,21.84143023,17.95606694,Deaths
+1,All Population,1,Deaths,175,Burundi,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,20.07637147,28.18888174,12.68195091,Deaths
+1,All Population,1,Deaths,49,North Macedonia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,23.64609106,28.04677854,19.02126036,Deaths
+1,All Population,1,Deaths,59,Latvia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,17.76213572,19.83215444,15.85355102,Deaths
+1,All Population,1,Deaths,216,Senegal,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,23.77315802,33.29288658,15.85864325,Deaths
+1,All Population,1,Deaths,435,South Sudan,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,27.12615525,37.42497081,17.70244094,Deaths
+1,All Population,1,Deaths,95,UK,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,20.82658135,22.38017324,18.841477,Deaths
+1,All Population,1,Deaths,144,Jordan,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,21.16323144,24.88107599,17.85555466,Deaths
+1,All Population,1,Deaths,117,Saint Vincent and the Grenadines,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,28.34853785,34.19811847,23.14508894,Deaths
+1,All Population,1,Deaths,118,Suriname,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,18.10181498,25.26165429,13.09522589,Deaths
+1,All Population,1,Deaths,320,Cook Islands,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,64.38346528,85.37716269,45.11512517,Deaths
+1,All Population,1,Deaths,180,Kenya,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,25.17044156,33.38405865,17.50016168,Deaths
+1,All Population,1,Deaths,162,Bhutan,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,16.41869411,23.55260361,10.05824142,Deaths
+1,All Population,1,Deaths,45,Bulgaria,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,17.84377533,19.97554075,16.00450165,Deaths
+1,All Population,1,Deaths,26,Papua New Guinea,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,22.81037555,31.19272889,14.70397293,Deaths
+1,All Population,1,Deaths,43,Albania,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,10.03228161,13.54235322,6.974694726,Deaths
+1,All Population,1,Deaths,12,Laos,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,29.55965253,41.8510405,19.78279682,Deaths
+1,All Population,1,Deaths,83,Iceland,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,17.97600562,20.43226066,15.40070373,Deaths
+1,All Population,1,Deaths,66,Brunei Darussalam,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,18.37749437,23.70057567,13.83850274,Deaths
+1,All Population,1,Deaths,129,Honduras,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,9.81514187,13.2949033,6.647889075,Deaths
+1,All Population,1,Deaths,146,Lebanon,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,23.63211743,29.78254304,17.83554477,Deaths
+1,All Population,1,Deaths,101,Canada,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,16.80836219,19.09223127,14.79102879,Deaths
+1,All Population,1,Deaths,67,Japan,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,11.31700559,12.21235587,10.01074486,Deaths
+1,All Population,1,Deaths,130,Mexico,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,12.15848981,12.80848609,11.45841813,Deaths
+1,All Population,1,Deaths,99,Uruguay,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,30.75192657,32.78545544,28.22746577,Deaths
+1,All Population,1,Deaths,135,Brazil,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,16.57402278,17.70677352,15.15410757,Deaths
+1,All Population,1,Deaths,17,Sri Lanka,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,17.46644796,20.15093846,14.38846025,Deaths
+1,All Population,1,Deaths,211,Mali,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,38.74201819,53.61735052,25.0183623,Deaths
+1,All Population,1,Deaths,193,Botswana,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,17.14628907,25.18176451,11.10109795,Deaths
+1,All Population,1,Deaths,14,Maldives,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,13.56432997,17.51908686,10.11408004,Deaths
+1,All Population,1,Deaths,84,Ireland,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,20.50756869,23.22673339,17.91141995,Deaths
+1,All Population,1,Deaths,169,Central African Republic,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,23.3364529,35.40710755,13.3339251,Deaths
+1,All Population,1,Deaths,204,Chad,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,21.64241391,31.21603552,13.60569924,Deaths
+1,All Population,1,Deaths,85,Israel,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,19.73773183,21.8031892,17.4178785,Deaths
+1,All Population,1,Deaths,60,Lithuania,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,16.94532716,18.72856844,15.40228151,Deaths
+1,All Population,1,Deaths,165,Pakistan,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,34.02674122,45.04829832,22.71963064,Deaths
+1,All Population,1,Deaths,147,Libya,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,14.59458184,20.04755856,9.868035536,Deaths
+1,All Population,1,Deaths,102,USA,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,16.7651171,18.66250197,14.83852614,Deaths
+1,All Population,1,Deaths,206,Gambia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,20.49664782,29.71186933,13.73815794,Deaths
+1,All Population,1,Deaths,136,Paraguay,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,21.58988485,26.59480261,17.84986661,Deaths
+1,All Population,1,Deaths,112,Grenada,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,25.64807786,31.15339806,20.73196091,Deaths
+1,All Population,1,Deaths,77,Cyprus,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,22.27125611,28.47223091,17.17039523,Deaths
+1,All Population,1,Deaths,27,Samoa,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,14.45871103,20.71938315,9.465326314,Deaths
+1,All Population,1,Deaths,396,San Marino,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,14.61404255,19.15595989,10.54460691,Deaths
+1,All Population,1,Deaths,212,Mauritania,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,34.25973735,49.01559915,22.76072157,Deaths
+1,All Population,1,Deaths,131,Nicaragua,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,12.05621165,15.19600856,9.310789597,Deaths
+1,All Population,1,Deaths,194,Lesotho,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,19.05704053,26.56948918,12.52972007,Deaths
+1,All Population,1,Deaths,53,Serbia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,28.14458845,32.54757761,24.25784514,Deaths
+1,All Population,1,Deaths,119,Trinidad and Tobago,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,31.45157526,36.96410105,27.18059244,Deaths
+1,All Population,1,Deaths,154,Tunisia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,27.1698914,33.88344866,20.51802885,Deaths
+1,All Population,1,Deaths,18,Thailand,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,15.76009308,19.76047851,12.48176085,Deaths
+1,All Population,1,Deaths,33,Armenia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,15.17129007,17.26076917,13.34365432,Deaths
+1,All Population,1,Deaths,205,Côte d'Ivoire,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,47.29168327,63.63119799,31.3212714,Deaths
+1,All Population,1,Deaths,113,Guyana,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,27.19364102,33.09550453,21.95322341,Deaths
+1,All Population,1,Deaths,19,Timor-Leste,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,18.56244657,26.34478133,12.02286886,Deaths
+1,All Population,1,Deaths,34,Azerbaijan,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,14.06777133,17.60924493,11.00967445,Deaths
+1,All Population,1,Deaths,78,Denmark,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,22.16081823,24.25885107,19.66912271,Deaths
+1,All Population,1,Deaths,152,Saudi Arabia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,17.86354362,22.54107245,13.01346909,Deaths
+1,All Population,1,Deaths,148,Morocco,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,22.5016857,34.43152739,14.17116185,Deaths
+1,All Population,1,Deaths,187,Somalia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,7.550431546,11.38013117,4.619781647,Deaths
+1,All Population,1,Deaths,153,Syria,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,10.27734155,13.35684302,7.692250684,Deaths
+1,All Population,1,Deaths,413,Tokelau,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,25.60614786,37.2762515,17.46147997,Deaths
+1,All Population,1,Deaths,183,Mauritius,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,24.4391056,26.77684204,21.9835068,Deaths
+1,All Population,1,Deaths,15,Myanmar,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,24.71033487,31.8477889,17.22911595,Deaths
+1,All Population,1,Deaths,170,Congo,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,40.68581043,61.22568294,27.67171002,Deaths
+1,All Population,1,Deaths,149,Palestine,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,21.50184962,27.76663444,16.56457518,Deaths
+1,All Population,1,Deaths,35,Georgia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,25.18903635,29.25357622,21.69553259,Deaths
+1,All Population,1,Deaths,50,Montenegro,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,26.98651352,34.53241894,20.44519359,Deaths
+1,All Population,1,Deaths,184,Mozambique,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,8.993286537,12.69476035,6.013963171,Deaths
+1,All Population,1,Deaths,189,Tanzania,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,15.9355956,22.45725092,10.33186627,Deaths
+1,All Population,1,Deaths,171,Democratic Republic of the Congo,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,39.8986442,57.64034311,24.3592092,Deaths
+1,All Population,1,Deaths,16,Philippines,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,25.03291997,29.22484508,20.70416228,Deaths
+1,All Population,1,Deaths,51,Poland,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,19.10094011,20.22951541,17.67114163,Deaths
+1,All Population,1,Deaths,36,Kazakhstan,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,10.60010613,11.81197562,9.225020944,Deaths
+1,All Population,1,Deaths,52,Romania,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,18.49477268,21.06774043,15.73838841,Deaths
+1,All Population,1,Deaths,202,Cameroon,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,37.96107192,52.16485098,25.81591375,Deaths
+1,All Population,1,Deaths,68,South Korea,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,6.409200041,7.563803339,4.515167669,Deaths
+1,All Population,1,Deaths,203,Cabo Verde,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,18.98857513,25.95386583,13.16230194,Deaths
+1,All Population,1,Deaths,86,Italy,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,18.12783052,20.12452652,15.70494854,Deaths
+1,All Population,1,Deaths,69,Singapore,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,12.474451759999999,13.80686266,10.98467665,Deaths
+1,All Population,1,Deaths,87,Luxembourg,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,18.48253299,20.62421506,16.22313818,Deaths
+1,All Population,2,DALYs (Disability-Adjusted Life Years),59,Latvia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,512.9477854,576.7394637,456.0068066,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,554.9668983,617.3081064,505.847656,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),61,Republic of Moldova,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,457.9030235,508.8234326,412.9948635,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),60,Lithuania,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,511.0313579,572.6075894,456.7616674,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),38,Mongolia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,193.957609,258.6370854,145.1607291,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),49,North Macedonia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,675.3613653,799.7681708,545.1437796,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),13,Malaysia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,768.6990906,904.8274713,646.6541979,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),128,Guatemala,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,303.3478722,355.9350286,260.5825439,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),50,Montenegro,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,754.9962047,967.8776813,581.5972969,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),39,Tajikistan,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,441.3768938,622.6244402,327.7736107,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,413.8277963,463.6597479,370.715079,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),117,Saint Vincent and the Grenadines,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,918.8366736,1098.145352,746.4919837,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),28,Solomon Islands,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,1185.601899,1652.430937,815.9215375,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),106,Bahamas,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,1306.875642,1513.298087,1101.896354,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),29,Tonga,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,1332.31119,1817.624695,917.7552992,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,518.9561189,554.9103848,486.6024679,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,687.2916015,767.8686006,615.2534628,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),8,Taiwan,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,470.9135493,547.531862,404.5277813,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),15,Myanmar,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,897.6776966,1172.184355,634.7685294,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),6,China,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,228.4314771,269.2216625,195.3167722,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),26,Papua New Guinea,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,781.3039608,1089.577779,521.3345311,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),37,Kyrgyzstan,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,318.8195027,368.3810144,274.4764183,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),119,Trinidad and Tobago,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,908.593814,1069.313118,783.1652285,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,326.6321623,463.0104188,213.2559334,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),76,Belgium,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,542.5649534,625.4281862,479.2858268,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),18,Thailand,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,548.8663568,680.1144989,431.745438,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),129,Honduras,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,275.9961995,369.4342135,187.101218,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,379.4464577,409.5702146,344.8383272,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),118,Suriname,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,562.1865569,790.4592675,411.7776851,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),165,Pakistan,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,1156.120116,1530.687666,770.61627,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),40,Turkmenistan,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,479.387475,579.4596852,402.5713368,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),108,Belize,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,400.1677067,483.2065102,334.8081006,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),19,Timor-Leste,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,651.7734738,928.8788439,426.0364437,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),41,Uzbekistan,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,379.5964207,420.4159122,336.2551912,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),30,Vanuatu,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,659.5592407,953.6372015,437.585705,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),107,Barbados,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,1122.745833,1319.17977,955.3528034,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),58,Estonia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,411.7213423,461.3456912,369.8654144,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),87,Luxembourg,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,483.5609852,548.1727823,422.0783011,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),86,Italy,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,528.6418819,580.2110324,470.0594445,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),154,Tunisia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,858.5471878,1071.024316,657.7351024,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),151,Qatar,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,473.6190464,618.1087633,351.5667924,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),11,Indonesia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,666.6800172,936.6601389,446.2713396,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),176,Comoros,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,277.6796213,379.6449434,189.3662955,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),110,Dominica,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,793.3892643,1123.855067,567.9879713,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),155,Türkiye,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,405.5958839,465.9570919,341.8730456,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),77,Cyprus,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,581.9496133,754.7976909,454.8280008,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),175,Burundi,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,744.915682,1027.236658,468.8726475,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),98,Chile,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,373.1924609,393.4451539,350.2198679,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),17,Sri Lanka,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,548.3967285,642.0514796,451.6704092,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),69,Singapore,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,387.300011,430.986008,353.8989581,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),62,Russia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,451.7377549,501.4485413,412.4667463,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),140,Bahrain,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,581.6411408,742.5092542,425.9325779,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),153,Syria,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,297.1882086,386.3409248,221.5693243,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),82,Greece,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,557.028486,622.3627179,495.0694711,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),168,Angola,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,946.1797959,1364.579987,610.1433037,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),68,South Korea,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,232.4612604,278.3536324,162.3921746,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),78,Denmark,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,568.436277,618.8288042,520.2187506,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),53,Serbia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,757.6463684,872.1478836,660.7041205,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),20,Vietnam,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,490.6654694,708.1041236,341.8463821,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),178,Eritrea,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,1051.207841,1444.888016,700.7980416,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),95,UK,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,578.0215495,619.4865894,540.8648114,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),135,Brazil,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,516.0704575,546.6871118,484.2031981,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),10,Cambodia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,588.9846381,839.8704355,391.5067489,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),99,Uruguay,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,874.6131727,935.5361167,817.8915699,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),36,Kazakhstan,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,341.2234092,380.2255725,298.699407,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),57,Belarus,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,483.0298836,553.0259378,420.6482604,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),145,Kuwait,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,511.3925502,583.0258947,430.6161679,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,619.8006061,706.5202354,544.0174781,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),109,Cuba,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,509.5472076,581.3298222,444.9583854,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),146,Lebanon,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,781.8839631,986.5743475,610.2860708,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),89,Netherlands,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,561.0337208,628.9376833,506.396242,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),126,Costa Rica,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,528.2403365,588.0429249,466.6751783,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),157,Yemen,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,244.9126353,354.2169399,153.3964481,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),142,Iran,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,305.6000199,371.8995495,236.3791272,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),84,Ireland,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,572.3236289,647.4759869,501.5612063,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),139,Algeria,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,452.6677739,635.0778747,299.3720247,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),115,Jamaica,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,917.698537,1087.889067,763.1252224,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),136,Paraguay,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,630.1498398,775.7112796,514.4472286,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),125,Colombia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,412.234152,438.4264761,384.3673008,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),44,Bosnia and Herzegovina,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,547.1584567,657.1584393,454.7738195,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),33,Armenia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,454.9946753,511.9881004,401.9451998,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),131,Nicaragua,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,386.2859117,493.3867202,297.5960103,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),156,United Arab Emirates,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,467.724336,633.7908309,332.3734541,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),144,Jordan,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,679.8238207,807.8685424,583.4302862,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),201,Burkina Faso,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,798.5873604,1069.034831,533.9259351,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),190,Uganda,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,1364.31964,1787.280488,954.7680783,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),22,Fiji,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,1403.520807,1766.187646,1104.603994,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),185,Rwanda,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,1084.980007,1533.33119,741.3267351,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),14,Maldives,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,333.1936537,428.0945979,248.8846973,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),25,Micronesia (Federated States of),2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,921.8453231,1248.377669,637.1914889,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),147,Libya,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,506.7809458,704.6250923,349.1663056,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),210,Liberia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,1353.209604,1887.627763,925.6555814,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),111,Dominican Republic,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,643.1312811,753.8365954,483.1189895,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),66,Brunei Darussalam,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,647.6818669,831.4731077,496.5095465,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),79,Finland,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,499.1788602,566.6064546,431.5790639,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),88,Malta,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,587.6381652,662.6303678,504.8241157,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),24,Marshall Islands,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,1685.229565,2307.099129,1126.214244,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),177,Djibouti,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,747.9691315,1059.838151,485.6652274,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),127,El Salvador,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,504.8314588,586.4936626,425.3927893,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),116,Saint Lucia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,656.2349242,782.7926681,544.060071,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),122,Ecuador,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,352.7540802,381.6836631,324.491955,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),46,Croatia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,489.9206121,540.0065542,439.0276269,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),75,Austria,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,482.5425918,537.4273669,429.3598804,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),55,Slovenia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,479.4855569,524.8885988,438.9733454,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),180,Kenya,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,943.3025304,1234.089733,655.1482948,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),298,American Samoa,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,1182.348159,1602.82874,812.7843167,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),35,Georgia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,740.9388027,851.0157898,645.7339731,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),212,Mauritania,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,1164.269877,1686.163873,742.1653119,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),160,Afghanistan,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,213.4590707,336.9603719,129.9299694,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),305,Bermuda,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,691.6931321,805.1637155,590.5322207,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),47,Czechia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,450.9082517,484.7774276,414.565589,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,USA,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,505.1673007,565.3296179,457.8302821,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),133,Venezuela (Bolivarian Republic of),2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,739.964622,889.8355957,604.7580906,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),396,San Marino,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,471.4016671,609.9389117,343.0966974,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),162,Bhutan,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,586.2924875,836.4628913,360.3732811,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),12,Laos,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,1046.601902,1495.971452,692.2111165,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),148,Morocco,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,818.9245519,1207.606975,519.3547475,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),416,Tuvalu,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,1211.867994,1663.952202,810.5628427,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),187,Somalia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,269.7744866,403.8453082,163.6693659,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),169,Central African Republic,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,916.1938892,1404.874621,523.2190299,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),91,Portugal,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,516.3263176,593.0443726,441.8296207,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),186,Seychelles,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,711.4314536,900.4120412,521.2384786,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),320,Cook Islands,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,1874.259824,2436.52091,1335.76949,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),94,Switzerland,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,423.9572826,469.3677827,369.9046488,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),93,Sweden,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,402.8535473,456.1317362,363.0071318,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),105,Antigua and Barbuda,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,944.2773241,1110.075408,802.8977366,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),63,Ukraine,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,510.2045141,591.29994,442.952557,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),367,Monaco,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,1016.967376,1337.622128,748.4086806,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),203,Cabo Verde,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,612.9922004,844.2411753,423.9693748,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),149,Palestine,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,653.0653302,832.7563831,510.6339043,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),113,Guyana,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,860.3884393,1031.794578,687.7393996,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),522,Sudan,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,470.0059727,704.2664296,296.6058012,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),204,Chad,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,731.6633103,1062.556732,458.2258145,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),90,Norway,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,381.9777428,428.0887797,334.1600506,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),184,Mozambique,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,265.8180213,382.4699897,178.3850605,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),215,Sao Tome and Principe,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,857.3776117,1199.99135,536.484044,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),393,Saint Kitts and Nevis,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,891.8095467,1039.72737,754.2192823,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),152,Saudi Arabia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,494.9190741,681.9910603,365.3994611,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),52,Romania,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,535.218372,611.9956725,455.5179338,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),214,Nigeria,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,1341.220256,1935.407902,926.2177779,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),205,Côte d'Ivoire,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,1776.779297,2408.517056,1193.789591,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),171,Democratic Republic of the Congo,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,1584.713632,2295.200669,968.2106472,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),16,Philippines,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,821.0925202,948.5246607,692.3766395,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),141,Egypt,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,679.5737421,946.0300784,484.1416824,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),182,Malawi,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,904.6325532,1309.097609,587.4413082,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),435,South Sudan,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,1015.485666,1403.935602,653.4997353,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),349,Greenland,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,610.4450045,799.8331695,455.0446781,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),351,Guam,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,596.5994641,698.8998543,493.9626176,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),163,India,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,474.0954921,586.9337265,370.6399904,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),27,Samoa,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,473.6271704,675.9107693,312.3623945,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),195,Namibia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,1244.435273,1624.7138,825.6573046,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),130,Mexico,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,375.2926322,393.7288379,353.6899608,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),173,Gabon,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,1660.640323,2279.006021,1156.911631,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),72,New Zealand,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,615.440213,700.4203579,541.1530422,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),206,Gambia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,701.7404434,1012.703942,460.0117121,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),83,Iceland,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,529.1918767,605.1905135,454.7472686,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),374,Niue,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,1108.554841,1525.662723,765.1932876,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),217,Sierra Leone,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,805.3861566,1113.957494,537.3104179,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),121,Bolivia (Plurinational State of),2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,588.6666772,833.8215535,408.8281945,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),207,Ghana,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,881.3910061,1152.071315,653.8505461,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),194,Lesotho,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,599.6669741,878.3299993,385.8838648,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),74,Andorra,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,664.9947682,863.7821843,487.1116781,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),197,Eswatini,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,836.632007,1325.486438,508.5320642,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),413,Tokelau,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,700.8273198,990.2214765,480.2871213,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),216,Senegal,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,826.422936,1153.37872,549.52242,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),380,Palau,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,1618.007438,2157.359737,1104.789619,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),385,Puerto Rico,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,416.7174582,453.8641093,376.220035,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),208,Guinea,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,738.8184582,1068.047269,499.862002,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),196,South Africa,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,706.5562183,891.7969535,575.7074847,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),189,Tanzania,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,503.0453487,709.1435124,318.1985142,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),132,Panama,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,460.6281075,529.4975644,402.3888926,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),143,Iraq,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,1048.707484,1427.067495,757.2276352,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),200,Benin,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,674.0348673,964.8698251,464.7424241,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),43,Albania,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,303.3406467,405.704968,206.3278367,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),218,Togo,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,1047.389293,1451.564922,708.6686842,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),7,North Korea,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,495.0390396,668.6806035,356.186671,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),54,Slovakia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,550.4055307,598.607088,463.104918,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),179,Ethiopia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,1062.615812,1535.361246,703.6837457,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),85,Israel,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,543.1590413,609.3220918,482.0493626,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),198,Zimbabwe,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,481.408939,694.4626147,314.52249870000003,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),211,Mali,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,1464.394176,2057.27951,925.1053958,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),123,Peru,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,451.8715143,537.8234403,369.6525553,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),101,Canada,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,487.1196603,547.2017146,437.6747985,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),45,Bulgaria,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,523.1486326,587.8339393,466.2175499,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),202,Cameroon,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,1268.181553,1726.523132,861.8984291,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),112,Grenada,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,794.5036982,966.185678,643.1792451,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),422,United States Virgin Islands,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,715.6171085,849.0403328,587.3922423,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),213,Niger,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,838.1581278,1247.740308,558.5908992,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),181,Madagascar,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,1015.248391,1386.428191,675.5515724,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),114,Haiti,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,884.5875359,1277.62481,592.9083564,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),23,Kiribati,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,586.8985758,827.3193035,396.2067646,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),170,Congo,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,1502.189706,2299.666921,979.0363342,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),161,Bangladesh,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,617.6292568,855.2489051,378.1655196,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),34,Azerbaijan,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,457.9211288,578.2900433,361.1576866,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),191,Zambia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,1355.041454,1906.014508,925.7161292,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),150,Oman,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,284.621178,389.6564507,199.3994338,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),369,Nauru,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,2473.257809,3576.092417,1701.588227,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),81,Germany,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,640.6777563,705.6157033,580.5831683,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),183,Mauritius,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,766.4311383,841.7914806,700.5492731,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),193,Botswana,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,626.9787095,975.9137709,381.4987004,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),172,Equatorial Guinea,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,1951.059695,2712.926249,1218.840889,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),92,Spain,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,418.4410598,467.1632384,374.6119352,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),209,Guinea-Bissau,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,1087.652358,1540.867715,748.3458248,DALYs
+1,All Population,2,DALYs (Disability-Adjusted Life Years),376,Northern Mariana Islands,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,1000.652458,1338.469442,696.6463443,DALYs
+1,All Population,5,Prevalence,191,Zambia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,464.4325234,647.6081016,318.370031,Prevalence
+1,All Population,5,Prevalence,38,Mongolia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,138.1922484,179.171425,108.6526109,Prevalence
+1,All Population,5,Prevalence,132,Panama,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,439.1333642,515.8625295,367.6803835,Prevalence
+1,All Population,5,Prevalence,98,Chile,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,393.7485455,433.0591956,355.085273,Prevalence
+1,All Population,5,Prevalence,85,Israel,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,848.6279034,961.204571,724.587435,Prevalence
+1,All Population,5,Prevalence,109,Cuba,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,508.4668627,586.2485397,434.5236066,Prevalence
+1,All Population,5,Prevalence,17,Sri Lanka,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,431.1541066,507.2933871,356.2949859,Prevalence
+1,All Population,5,Prevalence,204,Chad,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,230.7153421,320.8691573,160.9137689,Prevalence
+1,All Population,5,Prevalence,6,China,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,316.8911904,366.0621471,269.1253833,Prevalence
+1,All Population,5,Prevalence,14,Maldives,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,268.2235444,343.4882938,212.2590707,Prevalence
+1,All Population,5,Prevalence,66,Brunei Darussalam,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,503.0907585,631.8080575,410.4228326,Prevalence
+1,All Population,5,Prevalence,145,Kuwait,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,750.0104724,870.2987913,630.9875192,Prevalence
+1,All Population,5,Prevalence,193,Botswana,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,196.7751175,287.9527558,129.9441267,Prevalence
+1,All Population,5,Prevalence,51,Poland,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,518.2395095,561.767859,475.3496509,Prevalence
+1,All Population,5,Prevalence,156,United Arab Emirates,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,334.5122735,423.9410083,253.0675936,Prevalence
+1,All Population,5,Prevalence,79,Finland,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,983.1595222,1107.669814,869.8658341,Prevalence
+1,All Population,5,Prevalence,126,Costa Rica,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,547.9766492,632.3541856,466.6591354,Prevalence
+1,All Population,5,Prevalence,171,Democratic Republic of the Congo,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,522.8605306,720.4346123,343.7345934,Prevalence
+1,All Population,5,Prevalence,53,Serbia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,692.096485,798.2156534,611.124484,Prevalence
+1,All Population,5,Prevalence,111,Dominican Republic,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,369.5594732,440.004895,290.0131381,Prevalence
+1,All Population,5,Prevalence,147,Libya,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,379.4921822,510.8997161,280.4007138,Prevalence
+1,All Population,5,Prevalence,206,Gambia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,258.1611407,347.9688551,184.927418,Prevalence
+1,All Population,5,Prevalence,16,Philippines,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,395.4167656,465.6076733,340.0294496,Prevalence
+1,All Population,5,Prevalence,61,Republic of Moldova,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,427.8066829,483.1957148,383.3198775,Prevalence
+1,All Population,5,Prevalence,55,Slovenia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,718.1673055,810.1460473,627.0072846,Prevalence
+1,All Population,5,Prevalence,113,Guyana,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,425.9015086,509.806105,349.6350949,Prevalence
+1,All Population,5,Prevalence,208,Guinea,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,247.3505604,340.905219,181.7486932,Prevalence
+1,All Population,5,Prevalence,34,Azerbaijan,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,302.3394609,374.0043939,238.4543109,Prevalence
+1,All Population,5,Prevalence,160,Afghanistan,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,81.90663694,119.3626305,55.42955051,Prevalence
+1,All Population,5,Prevalence,40,Turkmenistan,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,276.4870879,315.7435445,237.2130227,Prevalence
+1,All Population,5,Prevalence,108,Belize,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,272.6593348,324.4527318,222.1323505,Prevalence
+1,All Population,5,Prevalence,162,Bhutan,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,252.7491688,354.6021569,169.0433322,Prevalence
+1,All Population,5,Prevalence,27,Samoa,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,195.0358614,271.5722149,140.6137871,Prevalence
+1,All Population,5,Prevalence,115,Jamaica,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,666.8822589,790.4997346,548.4089049,Prevalence
+1,All Population,5,Prevalence,68,South Korea,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,402.061641,479.6173744,310.5403363,Prevalence
+1,All Population,5,Prevalence,141,Egypt,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,423.8180024,559.5652921,308.2765274,Prevalence
+1,All Population,5,Prevalence,94,Switzerland,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,859.5017739,969.2041908,759.3128499,Prevalence
+1,All Population,5,Prevalence,87,Luxembourg,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,857.1212042,976.2049861,745.3238904,Prevalence
+1,All Population,5,Prevalence,155,Türkiye,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,385.8127342,443.1183112,319.7861048,Prevalence
+1,All Population,5,Prevalence,143,Iraq,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,799.3399852,1044.250777,607.1149953,Prevalence
+1,All Population,5,Prevalence,49,North Macedonia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,525.3540414,621.1747915,434.7557487,Prevalence
+1,All Population,5,Prevalence,74,Andorra,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,1225.893908,1546.016079,962.0193989,Prevalence
+1,All Population,5,Prevalence,10,Cambodia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,252.7521998,348.2610251,184.0724397,Prevalence
+1,All Population,5,Prevalence,19,Timor-Leste,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,282.9365754,386.7402295,196.8111698,Prevalence
+1,All Population,5,Prevalence,8,Taiwan,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,629.7298997,722.4668042,555.0127692,Prevalence
+1,All Population,5,Prevalence,81,Germany,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,976.3955011,1062.281284,894.0096274,Prevalence
+1,All Population,5,Prevalence,128,Guatemala,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,176.8248619,207.3537559,151.7827913,Prevalence
+1,All Population,5,Prevalence,136,Paraguay,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,399.4780631,486.1899387,323.1861726,Prevalence
+1,All Population,5,Prevalence,186,Seychelles,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,461.7293341,582.2124816,357.0317001,Prevalence
+1,All Population,5,Prevalence,76,Belgium,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,910.6277988,1037.780257,810.7102389,Prevalence
+1,All Population,5,Prevalence,36,Kazakhstan,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,282.2687763,321.3802129,250.369367,Prevalence
+1,All Population,5,Prevalence,29,Tonga,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,520.8974536,695.8863132,381.8314197,Prevalence
+1,All Population,5,Prevalence,57,Belarus,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,577.0079297,669.0367918,494.4550966,Prevalence
+1,All Population,5,Prevalence,121,Bolivia (Plurinational State of),2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,415.8667994,573.8404917,301.5136734,Prevalence
+1,All Population,5,Prevalence,179,Ethiopia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,377.9821829,527.1883707,255.307161,Prevalence
+1,All Population,5,Prevalence,149,Palestine,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,540.5060939,675.7303504,430.5185133,Prevalence
+1,All Population,5,Prevalence,168,Angola,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,332.2957731,445.8768928,227.9757112,Prevalence
+1,All Population,5,Prevalence,102,USA,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,1012.912545,1134.293484,902.8663016,Prevalence
+1,All Population,5,Prevalence,12,Laos,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,395.1792263,526.6596819,284.9208388,Prevalence
+1,All Population,5,Prevalence,123,Peru,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,373.1405043,454.5609962,304.0215658,Prevalence
+1,All Population,5,Prevalence,25,Micronesia (Federated States of),2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,337.2625634,433.0328029,255.4794347,Prevalence
+1,All Population,5,Prevalence,44,Bosnia and Herzegovina,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,506.9002348,614.672515,426.6015975,Prevalence
+1,All Population,5,Prevalence,89,Netherlands,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,973.7241206,1089.213395,869.8139921,Prevalence
+1,All Population,5,Prevalence,78,Denmark,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,890.3607109,1003.26224,791.7329258,Prevalence
+1,All Population,5,Prevalence,181,Madagascar,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,337.8784388,451.4029501,234.835341,Prevalence
+1,All Population,5,Prevalence,83,Iceland,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,907.2725814,1036.354817,792.8460359,Prevalence
+1,All Population,5,Prevalence,170,Congo,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,464.5246693,688.8222156,309.7650163,Prevalence
+1,All Population,5,Prevalence,216,Senegal,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,307.3218535,416.3166641,214.6074819,Prevalence
+1,All Population,5,Prevalence,151,Qatar,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,599.0484065,751.3806665,453.4131662,Prevalence
+1,All Population,5,Prevalence,59,Latvia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,557.6690422,638.3031011,486.7904042,Prevalence
+1,All Population,5,Prevalence,210,Liberia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,480.6879506,659.5439331,337.9516789,Prevalence
+1,All Population,5,Prevalence,183,Mauritius,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,521.8515611,586.7023535,465.5154157,Prevalence
+1,All Population,5,Prevalence,117,Saint Vincent and the Grenadines,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,579.0366638,679.7541284,473.9857518,Prevalence
+1,All Population,5,Prevalence,130,Mexico,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,260.2254439,288.3940451,228.7057046,Prevalence
+1,All Population,5,Prevalence,189,Tanzania,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,210.6042414,282.3920647,150.8726461,Prevalence
+1,All Population,5,Prevalence,173,Gabon,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,661.3201772,857.6695044,474.0631543,Prevalence
+1,All Population,5,Prevalence,23,Kiribati,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,183.3247601,250.1159502,137.5222823,Prevalence
+1,All Population,5,Prevalence,106,Bahamas,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,929.2567162,1071.658928,790.3429901,Prevalence
+1,All Population,5,Prevalence,46,Croatia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,637.1145471,712.7176946,557.5489364,Prevalence
+1,All Population,5,Prevalence,320,Cook Islands,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,1174.743906,1506.042276,867.556786,Prevalence
+1,All Population,5,Prevalence,91,Portugal,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,1033.30139,1156.043958,902.921007,Prevalence
+1,All Population,5,Prevalence,195,Namibia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,534.578212,701.7171893,371.0011754,Prevalence
+1,All Population,5,Prevalence,164,Nepal,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,138.9343183,185.0367944,93.72253404,Prevalence
+1,All Population,5,Prevalence,369,Nauru,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,768.0926412,1006.89179,564.2761706,Prevalence
+1,All Population,5,Prevalence,72,New Zealand,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,1013.569081,1182.588598,873.9024136,Prevalence
+1,All Population,5,Prevalence,185,Rwanda,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,389.1431275,524.8417261,275.8064475,Prevalence
+1,All Population,5,Prevalence,212,Mauritania,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,483.7521489,656.7321901,338.2218379,Prevalence
+1,All Population,5,Prevalence,153,Syria,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,258.9174957,323.1961541,204.9588843,Prevalence
+1,All Population,5,Prevalence,119,Trinidad and Tobago,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,638.8298185,758.6185621,536.1058399,Prevalence
+1,All Population,5,Prevalence,376,Northern Mariana Islands,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,570.7173124,731.0461817,442.2417375,Prevalence
+1,All Population,5,Prevalence,175,Burundi,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,241.5920337,332.0381357,168.8752645,Prevalence
+1,All Population,5,Prevalence,351,Guam,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,373.5052727,434.5513706,324.900495,Prevalence
+1,All Population,5,Prevalence,18,Thailand,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,444.7563622,546.758799,364.910055,Prevalence
+1,All Population,5,Prevalence,214,Nigeria,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,547.7444515,750.5251934,398.7169602,Prevalence
+1,All Population,5,Prevalence,92,Spain,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,726.3843264,810.6492002,647.7836856,Prevalence
+1,All Population,5,Prevalence,177,Djibouti,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,279.6436699,373.0524958,192.0372779,Prevalence
+1,All Population,5,Prevalence,45,Bulgaria,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,486.4611771,552.7748846,430.4439086,Prevalence
+1,All Population,5,Prevalence,93,Sweden,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,807.1618187,891.1686812,730.9342685,Prevalence
+1,All Population,5,Prevalence,197,Eswatini,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,360.0965146,522.7296707,241.4606914,Prevalence
+1,All Population,5,Prevalence,47,Czechia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,600.098359,667.2673112,532.6297243,Prevalence
+1,All Population,5,Prevalence,385,Puerto Rico,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,523.4285852,594.1929052,461.2746158,Prevalence
+1,All Population,5,Prevalence,7,North Korea,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,328.2007608,432.0336432,242.5774043,Prevalence
+1,All Population,5,Prevalence,33,Armenia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,439.7801126,493.3145374,386.6629867,Prevalence
+1,All Population,5,Prevalence,422,United States Virgin Islands,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,632.4717012,747.444736,529.9752033,Prevalence
+1,All Population,5,Prevalence,71,Australia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,829.4229247,919.8613382,752.7497036,Prevalence
+1,All Population,5,Prevalence,11,Indonesia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,309.8965037,400.8881602,223.8868848,Prevalence
+1,All Population,5,Prevalence,58,Estonia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,573.485845,647.0866025,507.1853867,Prevalence
+1,All Population,5,Prevalence,41,Uzbekistan,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,265.3941833,296.2575077,232.0526667,Prevalence
+1,All Population,5,Prevalence,396,San Marino,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,903.4636633,1152.995986,702.9474218,Prevalence
+1,All Population,5,Prevalence,201,Burkina Faso,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,277.956954,358.6815098,198.4864984,Prevalence
+1,All Population,5,Prevalence,63,Ukraine,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,367.8033599,421.5764065,313.9330028,Prevalence
+1,All Population,5,Prevalence,416,Tuvalu,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,446.4032926,585.6039026,328.5861543,Prevalence
+1,All Population,5,Prevalence,39,Tajikistan,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,234.6781691,317.2028354,182.040172,Prevalence
+1,All Population,5,Prevalence,50,Montenegro,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,851.1604046,1034.175705,684.4731024,Prevalence
+1,All Population,5,Prevalence,80,France,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,1204.038807,1356.977956,1068.807205,Prevalence
+1,All Population,5,Prevalence,20,Vietnam,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,353.4339311,479.0616926,262.9429188,Prevalence
+1,All Population,5,Prevalence,97,Argentina,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,565.3636441,632.6396984,508.5742867,Prevalence
+1,All Population,5,Prevalence,99,Uruguay,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,771.3181342,843.3971729,695.8071703,Prevalence
+1,All Population,5,Prevalence,101,Canada,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,873.2300432,987.7715963,773.2155669,Prevalence
+1,All Population,5,Prevalence,35,Georgia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,585.774208,660.0998097,511.5798872,Prevalence
+1,All Population,5,Prevalence,86,Italy,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,952.9353584,1075.33611,849.5351141,Prevalence
+1,All Population,5,Prevalence,133,Venezuela (Bolivarian Republic of),2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,484.2157704,586.6513192,403.9158788,Prevalence
+1,All Population,5,Prevalence,26,Papua New Guinea,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,287.3271353,375.3576182,202.1831873,Prevalence
+1,All Population,5,Prevalence,139,Algeria,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,375.3475053,512.7874284,273.3505182,Prevalence
+1,All Population,5,Prevalence,198,Zimbabwe,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,194.6615194,295.028142,137.2694442,Prevalence
+1,All Population,5,Prevalence,150,Oman,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,260.3736608,343.2622791,191.892954,Prevalence
+1,All Population,5,Prevalence,200,Benin,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,263.2559194,361.4803573,186.5466288,Prevalence
+1,All Population,5,Prevalence,202,Cameroon,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,451.8881735,622.6909343,314.7810575,Prevalence
+1,All Population,5,Prevalence,148,Morocco,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,434.4196906,589.8029871,292.7170236,Prevalence
+1,All Population,5,Prevalence,157,Yemen,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,131.6309846,181.1145732,90.12530734,Prevalence
+1,All Population,5,Prevalence,140,Bahrain,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,551.1406164,686.4851259,431.5458134,Prevalence
+1,All Population,5,Prevalence,95,UK,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,939.4482451,1035.583607,843.181513,Prevalence
+1,All Population,5,Prevalence,374,Niue,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,405.6169443,548.6593408,299.2927068,Prevalence
+1,All Population,5,Prevalence,105,Antigua and Barbuda,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,770.4144795,918.2523351,637.432052,Prevalence
+1,All Population,5,Prevalence,211,Mali,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,479.5302602,656.1089339,324.9465049,Prevalence
+1,All Population,5,Prevalence,298,American Samoa,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,486.295216,631.8537879,362.8391657,Prevalence
+1,All Population,5,Prevalence,75,Austria,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,825.7341927,930.9291866,739.0306436,Prevalence
+1,All Population,5,Prevalence,60,Lithuania,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,578.5966824,656.0121324,507.6602803,Prevalence
+1,All Population,5,Prevalence,13,Malaysia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,493.4514632,587.7996355,418.7308727,Prevalence
+1,All Population,5,Prevalence,163,India,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,215.079263,266.4003162,176.706231,Prevalence
+1,All Population,5,Prevalence,118,Suriname,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,308.6708762,419.7173173,236.9706685,Prevalence
+1,All Population,5,Prevalence,172,Equatorial Guinea,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,590.8362329,881.258754,364.1622957,Prevalence
+1,All Population,5,Prevalence,196,South Africa,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,374.3461292,442.6152303,319.9985179,Prevalence
+1,All Population,5,Prevalence,165,Pakistan,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,458.0957388,603.5113145,331.8643931,Prevalence
+1,All Population,5,Prevalence,169,Central African Republic,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,279.2400661,403.842631,189.467912,Prevalence
+1,All Population,5,Prevalence,22,Fiji,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,469.3359409,570.9012084,381.8222244,Prevalence
+1,All Population,5,Prevalence,194,Lesotho,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,187.5275597,255.9709773,127.2042896,Prevalence
+1,All Population,5,Prevalence,203,Cabo Verde,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,252.4884036,367.9170102,160.982918,Prevalence
+1,All Population,5,Prevalence,110,Dominica,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,478.7572984,649.8939382,356.0167946,Prevalence
+1,All Population,5,Prevalence,205,Côte d'Ivoire,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,642.5963926,867.4806074,461.5514117,Prevalence
+1,All Population,5,Prevalence,207,Ghana,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,329.1319804,414.5569737,254.2610835,Prevalence
+1,All Population,5,Prevalence,43,Albania,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,318.120643,411.7934561,241.1569688,Prevalence
+1,All Population,5,Prevalence,393,Saint Kitts and Nevis,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,645.9803182,739.7777532,545.033832,Prevalence
+1,All Population,5,Prevalence,180,Kenya,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,371.7356866,481.0266037,286.8449136,Prevalence
+1,All Population,5,Prevalence,209,Guinea-Bissau,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,331.1791442,449.0991881,229.3343814,Prevalence
+1,All Population,5,Prevalence,413,Tokelau,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,256.5087547,351.2893891,188.5305144,Prevalence
+1,All Population,5,Prevalence,152,Saudi Arabia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,424.4536741,541.2980338,346.5135896,Prevalence
+1,All Population,5,Prevalence,28,Solomon Islands,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,374.7677823,507.9149825,262.6636334,Prevalence
+1,All Population,5,Prevalence,135,Brazil,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,347.2066385,386.1842694,313.2380785,Prevalence
+1,All Population,5,Prevalence,37,Kyrgyzstan,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,232.2788682,262.9600991,205.9644789,Prevalence
+1,All Population,5,Prevalence,187,Somalia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,95.18299452,130.1777107,66.2335132,Prevalence
+1,All Population,5,Prevalence,144,Jordan,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,622.2034474,725.270402,526.9766915,Prevalence
+1,All Population,5,Prevalence,218,Togo,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,358.3040428,487.3250821,247.6589994,Prevalence
+1,All Population,5,Prevalence,125,Colombia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,382.9301698,429.5465725,342.2830425,Prevalence
+1,All Population,5,Prevalence,107,Barbados,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,943.1430746,1127.140777,796.4717055,Prevalence
+1,All Population,5,Prevalence,213,Niger,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,297.9542353,409.3322788,210.4837547,Prevalence
+1,All Population,5,Prevalence,146,Lebanon,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,794.806361,991.1054022,618.3801732,Prevalence
+1,All Population,5,Prevalence,215,Sao Tome and Principe,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,347.1635811,485.9728945,235.7275757,Prevalence
+1,All Population,5,Prevalence,217,Sierra Leone,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,290.6895358,376.2068527,202.9214391,Prevalence
+1,All Population,5,Prevalence,142,Iran,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,330.6274428,408.5837753,261.4155017,Prevalence
+1,All Population,5,Prevalence,67,Japan,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,742.5383669,814.5255748,675.5907604,Prevalence
+1,All Population,5,Prevalence,82,Greece,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,848.2453546,956.1831166,743.4714387,Prevalence
+1,All Population,5,Prevalence,52,Romania,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,499.407689,577.6200816,438.1485417,Prevalence
+1,All Population,5,Prevalence,77,Cyprus,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,912.3796273,1114.045228,740.2552375,Prevalence
+1,All Population,5,Prevalence,122,Ecuador,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,351.386349,402.7132098,302.2539031,Prevalence
+1,All Population,5,Prevalence,62,Russia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,475.8189678,531.8557954,425.9570921,Prevalence
+1,All Population,5,Prevalence,15,Myanmar,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,365.3747434,478.2915885,269.6025531,Prevalence
+1,All Population,5,Prevalence,161,Bangladesh,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,303.7208471,405.4402096,196.1434899,Prevalence
+1,All Population,5,Prevalence,48,Hungary,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,582.4222832,660.4129113,521.9909898,Prevalence
+1,All Population,5,Prevalence,30,Vanuatu,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,219.621803,303.134998,158.1489808,Prevalence
+1,All Population,5,Prevalence,176,Comoros,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,120.1759776,153.7777127,88.28486153,Prevalence
+1,All Population,5,Prevalence,24,Marshall Islands,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,482.0950386,653.796404,342.4300273,Prevalence
+1,All Population,5,Prevalence,112,Grenada,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,512.242445,608.8319791,424.5603648,Prevalence
+1,All Population,5,Prevalence,380,Palau,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,660.9695425,839.4009957,483.7176937,Prevalence
+1,All Population,5,Prevalence,154,Tunisia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,901.1852515,1116.779392,708.969936,Prevalence
+1,All Population,5,Prevalence,367,Monaco,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,1389.156267,1785.771717,1074.453307,Prevalence
+1,All Population,5,Prevalence,190,Uganda,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,564.9596756,742.4903298,413.3542721,Prevalence
+1,All Population,5,Prevalence,182,Malawi,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,295.7120252,413.2600858,212.6618144,Prevalence
+1,All Population,5,Prevalence,114,Haiti,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,312.9428773,444.1857946,210.895135,Prevalence
+1,All Population,5,Prevalence,435,South Sudan,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,320.7500092,434.7724016,227.5244493,Prevalence
+1,All Population,5,Prevalence,127,El Salvador,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,357.6370704,424.3473098,286.9627922,Prevalence
+1,All Population,5,Prevalence,305,Bermuda,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,995.6851634,1181.242037,830.237553,Prevalence
+1,All Population,5,Prevalence,116,Saint Lucia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,479.3352535,570.423525,396.0096561,Prevalence
+1,All Population,5,Prevalence,88,Malta,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,881.0407364,1016.184798,759.4401281,Prevalence
+1,All Population,5,Prevalence,178,Eritrea,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,339.5576433,445.5429643,243.7233926,Prevalence
+1,All Population,5,Prevalence,184,Mozambique,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,118.2311312,161.8217709,85.65042642,Prevalence
+1,All Population,5,Prevalence,90,Norway,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,704.0345253,798.0116943,609.6849131,Prevalence
+1,All Population,5,Prevalence,84,Ireland,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,1062.881085,1197.738326,936.8364503,Prevalence
+1,All Population,5,Prevalence,129,Honduras,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,134.3558304,176.0668668,95.77866821,Prevalence
+1,All Population,5,Prevalence,54,Slovakia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,546.3783168,608.8340549,478.9360237,Prevalence
+1,All Population,5,Prevalence,69,Singapore,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,691.7083334,787.0745707,617.4794113,Prevalence
+1,All Population,5,Prevalence,349,Greenland,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,557.9536818,707.6397032,451.0626112,Prevalence
+1,All Population,5,Prevalence,131,Nicaragua,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,290.6937505,368.9545666,225.3204429,Prevalence
+1,All Population,5,Prevalence,522,Sudan,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,260.1730922,386.5067041,176.4406698,Prevalence
+1,All Population,6,Incidence,178,Eritrea,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,45.67763455,62.62734911,30.89098097,Incidence
+1,All Population,6,Incidence,165,Pakistan,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,61.57606616,81.73917289,40.82737737,Incidence
+1,All Population,6,Incidence,179,Ethiopia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,54.82199603,79.53987224,37.00119567,Incidence
+1,All Population,6,Incidence,207,Ghana,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,45.2769162,59.99336953,33.13216664,Incidence
+1,All Population,6,Incidence,193,Botswana,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,34.65934024,52.33301858,21.69870679,Incidence
+1,All Population,6,Incidence,152,Saudi Arabia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,49.36431574,66.11786079,36.18827193,Incidence
+1,All Population,6,Incidence,180,Kenya,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,49.73256735,65.62845266,35.58163434,Incidence
+1,All Population,6,Incidence,208,Guinea,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,33.83899772,49.36966038,23.0519189,Incidence
+1,All Population,6,Incidence,194,Lesotho,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,28.46500418,41.30896588,18.0863311,Incidence
+1,All Population,6,Incidence,349,Greenland,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,58.62042089,76.8699531,43.42211545,Incidence
+1,All Population,6,Incidence,195,Namibia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,62.97352425,81.85416522,43.49586822,Incidence
+1,All Population,6,Incidence,36,Kazakhstan,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,28.53597909,32.7815306,23.9707811,Incidence
+1,All Population,6,Incidence,209,Guinea-Bissau,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,47.30761748,66.7998812,32.29579926,Incidence
+1,All Population,6,Incidence,6,China,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,31.6167084,38.21822554,25.39946315,Incidence
+1,All Population,6,Incidence,22,Fiji,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,69.30163782,87.42425665,54.80342319,Incidence
+1,All Population,6,Incidence,210,Liberia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,67.07911832,94.55122049,46.61528658,Incidence
+1,All Population,6,Incidence,18,Thailand,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,46.91425479,59.12599216,35.67439854,Incidence
+1,All Population,6,Incidence,8,Taiwan,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,62.73787741,74.54456385,53.55428111,Incidence
+1,All Population,6,Incidence,7,North Korea,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,36.88288886,49.31105575,26.17860066,Incidence
+1,All Population,6,Incidence,33,Armenia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,41.06372023,48.09125322,35.08646484,Incidence
+1,All Population,6,Incidence,351,Guam,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,40.94042234,49.25249248,33.78054153,Incidence
+1,All Population,6,Incidence,206,Gambia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,34.82022781,50.46812923,22.8959811,Incidence
+1,All Population,6,Incidence,19,Timor-Leste,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,35.27575656,51.42911414,23.07953496,Incidence
+1,All Population,6,Incidence,37,Kyrgyzstan,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,24.64158465,28.90129798,21.0501317,Incidence
+1,All Population,6,Incidence,305,Bermuda,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,112.0096368,136.2627247,90.93165698,Incidence
+1,All Population,6,Incidence,396,San Marino,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,85.150215,112.3758216,60.85352891,Incidence
+1,All Population,6,Incidence,23,Kiribati,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,25.10174084,35.23717078,17.24179736,Incidence
+1,All Population,6,Incidence,47,Czechia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,59.81558678,68.23652799,51.34387081,Incidence
+1,All Population,6,Incidence,20,Vietnam,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,39.2525777,58.46188843,26.33046279,Incidence
+1,All Population,6,Incidence,34,Azerbaijan,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,33.29405276,42.33680546,25.21273988,Incidence
+1,All Population,6,Incidence,50,Montenegro,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,88.39964953,114.2503755,66.43108825,Incidence
+1,All Population,6,Incidence,85,Israel,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,80.36503614,93.66335922,68.80523179,Incidence
+1,All Population,6,Incidence,413,Tokelau,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,37.12476642,53.07507474,24.80525397,Incidence
+1,All Population,6,Incidence,320,Cook Islands,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,142.5634937,187.7760763,101.2538143,Incidence
+1,All Population,6,Incidence,35,Georgia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,60.52411444,71.89084531,51.06380318,Incidence
+1,All Population,6,Incidence,10,Cambodia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,31.84156865,45.22091786,21.04965308,Incidence
+1,All Population,6,Incidence,98,Chile,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,39.41109084,44.20201228,34.15366063,Incidence
+1,All Population,6,Incidence,99,Uruguay,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,81.92771537,91.18114146,72.172997229999993,Incidence
+1,All Population,6,Incidence,522,Sudan,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,31.30799959,47.29557489,20.05245745,Incidence
+1,All Population,6,Incidence,38,Mongolia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,12.89565362,17.44353173,9.564053409,Incidence
+1,All Population,6,Incidence,79,Finland,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,92.28365678,107.6968251,77.9405364,Incidence
+1,All Population,6,Incidence,39,Tajikistan,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,29.26950461,41.80464057,21.41060522,Incidence
+1,All Population,6,Incidence,51,Poland,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,53.50469349,59.0505447,48.34712291,Incidence
+1,All Population,6,Incidence,24,Marshall Islands,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,82.09969792,114.10709,55.04284358,Incidence
+1,All Population,6,Incidence,435,South Sudan,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,43.51291692,60.81480687,28.17874199,Incidence
+1,All Population,6,Incidence,416,Tuvalu,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,60.65145305,84.24774448,41.36849349,Incidence
+1,All Population,6,Incidence,48,Hungary,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,60.67073346,69.22557661,52.42688751,Incidence
+1,All Population,6,Incidence,75,Austria,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,77.32682068,90.9786763,66.05905926,Incidence
+1,All Population,6,Incidence,25,Micronesia (Federated States of),2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,45.02138781,61.53179699,30.96501099,Incidence
+1,All Population,6,Incidence,49,North Macedonia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,58.83593456,72.05036825,45.91993783,Incidence
+1,All Population,6,Incidence,61,Republic of Moldova,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,43.64424632,50.73372034,37.57991836,Incidence
+1,All Population,6,Incidence,125,Colombia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,43.43664083,49.30984919,38.47748722,Incidence
+1,All Population,6,Incidence,112,Grenada,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,62.46036855,77.55592867,50.43768937,Incidence
+1,All Population,6,Incidence,113,Guyana,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,56.06533086,68.7604752,44.67119565,Incidence
+1,All Population,6,Incidence,126,Costa Rica,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,63.33418403,75.16314707,53.70023244,Incidence
+1,All Population,6,Incidence,422,United States Virgin Islands,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,75.91036593,94.24097063,62.53612543,Incidence
+1,All Population,6,Incidence,164,Nepal,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,18.31090085,26.6161853,11.64464366,Incidence
+1,All Population,6,Incidence,107,Barbados,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,113.9493309,133.8761216,94.29193429,Incidence
+1,All Population,6,Incidence,11,Indonesia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,37.2422808,51.90523623,24.85547597,Incidence
+1,All Population,6,Incidence,127,El Salvador,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,44.81879268,53.49151807,36.26575372,Incidence
+1,All Population,6,Incidence,76,Belgium,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,83.22651338,98.03856986,70.01183691,Incidence
+1,All Population,6,Incidence,89,Netherlands,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,87.5643252,100.9286811,76.09596842,Incidence
+1,All Population,6,Incidence,149,Palestine,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,59.85845026,79.44637733,45.10103999,Incidence
+1,All Population,6,Incidence,298,American Samoa,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,63.35485707,85.53202729,43.54227266,Incidence
+1,All Population,6,Incidence,118,Suriname,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,38.55048112,54.31237286,27.65901062,Incidence
+1,All Population,6,Incidence,175,Burundi,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,33.42154816,46.84060422,21.37515702,Incidence
+1,All Population,6,Incidence,77,Cyprus,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,89.41275562,117.5114777,69.47349983,Incidence
+1,All Population,6,Incidence,132,Panama,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,50.0672346,59.29187756,41.58296151,Incidence
+1,All Population,6,Incidence,139,Algeria,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,40.65561115,57.04704877,26.83569535,Incidence
+1,All Population,6,Incidence,62,Russia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,49.05777553,56.38478383,42.96120199,Incidence
+1,All Population,6,Incidence,140,Bahrain,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,60.44976036,79.79864848,43.75735637,Incidence
+1,All Population,6,Incidence,78,Denmark,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,84.5597661,96.93889317,73.18417519,Incidence
+1,All Population,6,Incidence,63,Ukraine,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,38.53462408,46.12335082,32.21613791,Incidence
+1,All Population,6,Incidence,153,Syria,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,26.95964262,35.87753622,20.35247893,Incidence
+1,All Population,6,Incidence,203,Cabo Verde,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,41.79566296,58.50960396,27.96159944,Incidence
+1,All Population,6,Incidence,146,Lebanon,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,85.20624034,109.2666284,64.42165908,Incidence
+1,All Population,6,Incidence,160,Afghanistan,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,11.04170968,17.45556765,6.675277758,Incidence
+1,All Population,6,Incidence,90,Norway,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,63.37063044,73.52935548,53.58213528,Incidence
+1,All Population,6,Incidence,154,Tunisia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,88.33484481,114.1182061,63.8862849,Incidence
+1,All Population,6,Incidence,52,Romania,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,52.31650348,61.46154635,43.86188553,Incidence
+1,All Population,6,Incidence,141,Egypt,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,53.51769247,77.02211314,37.88048755,Incidence
+1,All Population,6,Incidence,121,Bolivia (Plurinational State of),2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,48.88456472,70.25864243,33.7542087,Incidence
+1,All Population,6,Incidence,66,Brunei Darussalam,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,51.08261894,65.26170517,38.36904354,Incidence
+1,All Population,6,Incidence,93,Sweden,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,73.33804659,83.06539237,63.82426523,Incidence
+1,All Population,6,Incidence,181,Madagascar,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,48.54859343,66.44553878,32.95769148,Incidence
+1,All Population,6,Incidence,189,Tanzania,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,26.15180795,36.54088398,16.97073007,Incidence
+1,All Population,6,Incidence,135,Brazil,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,44.04992256,49.70876197,39.33306218,Incidence
+1,All Population,6,Incidence,53,Serbia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,75.75364898,89.11548483,64.25354423,Incidence
+1,All Population,6,Incidence,155,Türkiye,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,41.73994491,50.08403672,33.92592059,Incidence
+1,All Population,6,Incidence,168,Angola,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,44.08809452,64.15478461,28.46696575,Incidence
+1,All Population,6,Incidence,133,Venezuela (Bolivarian Republic of),2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,59.81728639,73.24430252,48.26529532,Incidence
+1,All Population,6,Incidence,105,Antigua and Barbuda,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,89.73620065,108.3872074,74.16982893,Incidence
+1,All Population,6,Incidence,150,Oman,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,27.91917056,39.17007858,19.2008898,Incidence
+1,All Population,6,Incidence,196,South Africa,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,41.87553528,51.72804459,34.26961033,Incidence
+1,All Population,6,Incidence,211,Mali,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,67.96192844,95.61931053,43.69576364,Incidence
+1,All Population,6,Incidence,218,Togo,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,51.3381545,70.96279889,33.98267255,Incidence
+1,All Population,6,Incidence,40,Turkmenistan,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,30.5229432,36.79949093,24.52439875,Incidence
+1,All Population,6,Incidence,12,Laos,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,53.92871833,77.05953284,35.69123427,Incidence
+1,All Population,6,Incidence,54,Slovakia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,58.41166036,65.90993689,49.05018579,Incidence
+1,All Population,6,Incidence,97,Argentina,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,58.98642491,67.88517625,50.99274712,Incidence
+1,All Population,6,Incidence,80,France,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,114.6342473,134.0051619,98.39329723,Incidence
+1,All Population,6,Incidence,169,Central African Republic,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,36.71970451,56.48837493,20.76217521,Incidence
+1,All Population,6,Incidence,367,Monaco,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,161.9749358,218.6867641,113.6978822,Incidence
+1,All Population,6,Incidence,151,Qatar,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,63.11390772,81.94052337,45.81521196,Incidence
+1,All Population,6,Incidence,182,Malawi,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,41.76063644,60.64209033,27.24300034,Incidence
+1,All Population,6,Incidence,67,Japan,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,68.16962636,76.08919033,60.30649757,Incidence
+1,All Population,6,Incidence,197,Eswatini,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,37.68111346,59.89420167,23.46241403,Incidence
+1,All Population,6,Incidence,26,Papua New Guinea,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,37.64966889,52.28310248,24.68045235,Incidence
+1,All Population,6,Incidence,119,Trinidad and Tobago,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,77.90964049,94.12277888,64.72283829,Incidence
+1,All Population,6,Incidence,176,Comoros,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,14.09368861,19.4450074,9.523432383,Incidence
+1,All Population,6,Incidence,198,Zimbabwe,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,23.24385257,32.9884142,15.4925953,Incidence
+1,All Population,6,Incidence,170,Congo,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,73.7321535,110.6956571,49.84059469,Incidence
+1,All Population,6,Incidence,183,Mauritius,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,59.45531509,68.01788599,52.07575753,Incidence
+1,All Population,6,Incidence,13,Malaysia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,56.52911706,68.23200048,47.14248831,Incidence
+1,All Population,6,Incidence,91,Portugal,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,94.33425954,110.5844259,78.46087939,Incidence
+1,All Population,6,Incidence,212,Mauritania,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,66.16797056,96.49814496,41.97421891,Incidence
+1,All Population,6,Incidence,92,Spain,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,64.97079151,75.9127181,55.06822684,Incidence
+1,All Population,6,Incidence,82,Greece,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,79.38126175,93.74617018,67.77090677,Incidence
+1,All Population,6,Incidence,106,Bahamas,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,111.2211189,131.6042159,92.22967823,Incidence
+1,All Population,6,Incidence,184,Mozambique,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,12.83128654,18.16616334,8.7200731480000009,Incidence
+1,All Population,6,Incidence,68,South Korea,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,37.88172974,47.26190049,26.7868047,Incidence
+1,All Population,6,Incidence,161,Bangladesh,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,37.99570071,52.55741139,23.90781334,Incidence
+1,All Population,6,Incidence,204,Chad,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,33.0139053,48.0808479,20.5713967,Incidence
+1,All Population,6,Incidence,147,Libya,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,41.13189507,57.82196117,28.86046476,Incidence
+1,All Population,6,Incidence,110,Dominica,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,59.55666458,83.53699544,41.75084479,Incidence
+1,All Population,6,Incidence,108,Belize,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,32.68325947,40.24867819,26.60337411,Incidence
+1,All Population,6,Incidence,111,Dominican Republic,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,47.75902537,56.65717636,36.41929704,Incidence
+1,All Population,6,Incidence,81,Germany,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,100.4056004,111.4699817,89.84315857,Incidence
+1,All Population,6,Incidence,94,Switzerland,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,75.84840592,89.86578866,64.2208878,Incidence
+1,All Population,6,Incidence,122,Ecuador,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,40.29277381,46.42146705,34.94302066,Incidence
+1,All Population,6,Incidence,136,Paraguay,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,48.42914884,59.98443543,38.81739216,Incidence
+1,All Population,6,Incidence,41,Uzbekistan,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,27.66077178,31.58415074,23.75650471,Incidence
+1,All Population,6,Incidence,29,Tonga,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,76.00998456,107.2578257,52.3042467,Incidence
+1,All Population,6,Incidence,15,Myanmar,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,47.19837013,64.52475691,33.46478599,Incidence
+1,All Population,6,Incidence,55,Slovenia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,71.92994467,82.5824056,62.6658863,Incidence
+1,All Population,6,Incidence,27,Samoa,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,25.23575567,36.68121741,16.42778742,Incidence
+1,All Population,6,Incidence,213,Niger,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,39.73948133,58.64358257,26.7177442,Incidence
+1,All Population,6,Incidence,14,Maldives,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,30.39441138,39.06520941,22.76899191,Incidence
+1,All Population,6,Incidence,83,Iceland,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,86.5564474,104.9333626,70.54921846,Incidence
+1,All Population,6,Incidence,109,Cuba,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,60.40674518,72.97716288,50.99688038,Incidence
+1,All Population,6,Incidence,95,UK,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,89.50028457,100.7856821,79.69268455,Incidence
+1,All Population,6,Incidence,369,Nauru,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,116.6903186,171.5320645,78.67634047,Incidence
+1,All Population,6,Incidence,58,Estonia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,56.82895688,67.06004152,49.11954526,Incidence
+1,All Population,6,Incidence,72,New Zealand,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,97.94764454,118.6299279,80.83562008,Incidence
+1,All Population,6,Incidence,190,Uganda,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,68.73356395,90.92201891,46.29213971,Incidence
+1,All Population,6,Incidence,28,Solomon Islands,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,55.90596968,79.39519022,38.12054931,Incidence
+1,All Population,6,Incidence,123,Peru,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,61.07743054,75.54083191,48.09653029,Incidence
+1,All Population,6,Incidence,148,Morocco,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,58.02796668,85.13098396,36.24608662,Incidence
+1,All Population,6,Incidence,177,Djibouti,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,36.87428912,52.4344403,24.19658314,Incidence
+1,All Population,6,Incidence,205,Côte d'Ivoire,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,86.65000429,116.5265173,58.61965105,Incidence
+1,All Population,6,Incidence,69,Singapore,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,62.3297792,72.58636338,53.55447738,Incidence
+1,All Population,6,Incidence,162,Bhutan,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,34.17145856,50.38499724,20.96840076,Incidence
+1,All Population,6,Incidence,374,Niue,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,56.6857646,78.99679382,38.54640028,Incidence
+1,All Population,6,Incidence,84,Ireland,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,100.0321937,118.3695306,83.19772097,Incidence
+1,All Population,6,Incidence,191,Zambia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,65.75175609,92.82257085,45.11325806,Incidence
+1,All Population,6,Incidence,71,Australia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,74.45205006,84.36688133,65.55561199,Incidence
+1,All Population,6,Incidence,163,India,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,29.40710264,37.12508954,22.83509635,Incidence
+1,All Population,6,Incidence,101,Canada,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,82.50610658,97.04193172,70.57039819,Incidence
+1,All Population,6,Incidence,45,Bulgaria,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,51.7375542,60.67366936,43.84855845,Incidence
+1,All Population,6,Incidence,128,Guatemala,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,22.40195562,26.40824448,19.00892457,Incidence
+1,All Population,6,Incidence,114,Haiti,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,46.46303076,65.64085659,30.49301982,Incidence
+1,All Population,6,Incidence,86,Italy,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,85.12941934,97.50133195,72.36265016,Incidence
+1,All Population,6,Incidence,46,Croatia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,62.22985534,73.89257421,52.97215028,Incidence
+1,All Population,6,Incidence,87,Luxembourg,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,79.52353722,94.57746254,66.26570308,Incidence
+1,All Population,6,Incidence,88,Malta,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,85.22389132,102.7794832,70.48476671,Incidence
+1,All Population,6,Incidence,142,Iran,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,33.32786666,41.21148265,24.84017745,Incidence
+1,All Population,6,Incidence,156,United Arab Emirates,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,42.46923257,56.46653563,29.73893962,Incidence
+1,All Population,6,Incidence,57,Belarus,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,60.5086634,70.8072645,49.69270246,Incidence
+1,All Population,6,Incidence,376,Northern Mariana Islands,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,67.36440784,88.87606421,47.03164096,Incidence
+1,All Population,6,Incidence,185,Rwanda,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,54.33441752,75.92207061,37.10649531,Incidence
+1,All Population,6,Incidence,43,Albania,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,32.01054763,43.91554887,21.54003816,Incidence
+1,All Population,6,Incidence,200,Benin,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,33.32778668,47.61046111,22.80415264,Incidence
+1,All Population,6,Incidence,214,Nigeria,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,72.11497785,103.8147604,50.63449841,Incidence
+1,All Population,6,Incidence,171,Democratic Republic of the Congo,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,73.01909711,105.1158119,44.02347376,Incidence
+1,All Population,6,Incidence,157,Yemen,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,15.19560532,22.44120291,9.496649913,Incidence
+1,All Population,6,Incidence,102,USA,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,92.47104569,107.3550296,79.59233901,Incidence
+1,All Population,6,Incidence,129,Honduras,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,18.7104859,25.41528692,12.59287985,Incidence
+1,All Population,6,Incidence,115,Jamaica,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,79.81873307,96.86994209,64.63311431,Incidence
+1,All Population,6,Incidence,130,Mexico,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,32.24416878,36.0519419,28.73148874,Incidence
+1,All Population,6,Incidence,131,Nicaragua,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,35.10857414,45.13336767,26.69839229,Incidence
+1,All Population,6,Incidence,116,Saint Lucia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,56.53077751,69.09862556,45.98025122,Incidence
+1,All Population,6,Incidence,117,Saint Vincent and the Grenadines,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,69.62533558,82.66083221,55.72077877,Incidence
+1,All Population,6,Incidence,143,Iraq,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,91.22071921,125.5631608,62.76956086,Incidence
+1,All Population,6,Incidence,30,Vanuatu,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,30.46532296,42.72872815,20.16918812,Incidence
+1,All Population,6,Incidence,16,Philippines,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,48.35569927,57.06919633,40.46005312,Incidence
+1,All Population,6,Incidence,44,Bosnia and Herzegovina,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,54.5383711,67.78123148,44.41923089,Incidence
+1,All Population,6,Incidence,59,Latvia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,56.91825838,66.82746441,49.10495555,Incidence
+1,All Population,6,Incidence,144,Jordan,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,70.69806708,84.48963812,58.31571265,Incidence
+1,All Population,6,Incidence,145,Kuwait,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,74.71837393,89.27943085,61.46795661,Incidence
+1,All Population,6,Incidence,201,Burkina Faso,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,39.62593591,54.07962406,25.41519024,Incidence
+1,All Population,6,Incidence,215,Sao Tome and Principe,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,49.11427744,69.11426566,31.4854113,Incidence
+1,All Population,6,Incidence,186,Seychelles,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,51.4630372,67.78922672,37.19265539,Incidence
+1,All Population,6,Incidence,380,Palau,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,90.75925412,122.5160955,61.00800298,Incidence
+1,All Population,6,Incidence,172,Equatorial Guinea,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,107.0107718,151.0524928,67.94178424,Incidence
+1,All Population,6,Incidence,74,Andorra,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,117.960964,154.2804562,83.15192854,Incidence
+1,All Population,6,Incidence,17,Sri Lanka,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,47.55657243,55.88976998,38.83768398,Incidence
+1,All Population,6,Incidence,60,Lithuania,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,58.75203509,67.98925552,50.83111375,Incidence
+1,All Population,6,Incidence,187,Somalia,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,11.14896036,16.89343477,6.665416369,Incidence
+1,All Population,6,Incidence,202,Cameroon,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,65.12912956,89.07167642,44.73578462,Incidence
+1,All Population,6,Incidence,173,Gabon,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,88.8239939,125.0790861,60.42940491,Incidence
+1,All Population,6,Incidence,216,Senegal,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,41.97567046,58.75646671,28.20227156,Incidence
+1,All Population,6,Incidence,385,Puerto Rico,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,56.06472626,65.354472,48.57223162,Incidence
+1,All Population,6,Incidence,217,Sierra Leone,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,38.67907811,52.82623133,25.96715147,Incidence
+1,All Population,6,Incidence,393,Saint Kitts and Nevis,2,Female,27,Age-standardized,429,Breast cancer,3,Rate,2023,71.09178036,83.80615539,59.73118199,Incidence

@@ -1,0 +1,9 @@
+Analysis version: v1.1.10
+Patch type: final reporting, documentation, and packaging update.
+No input data, model formula, XGBoost parameter, random seed, projection model, HCA formula, or numerical result was intentionally changed.
+Temporal folds: hyperparameters fixed in the pipeline; held-out periods not used for tuning, early stopping, or model selection.
+Fold SHAP: calculated exclusively on held-out future-period observations.
+Bootstrap: six complete non-overlapping 5-year blocks and one final 4-year block, sampled with replacement; all five age groups retained; model refitted in every replicate; SHAP evaluated on a fixed full-panel support.
+GLOBOCAN analysis: external-baseline scaling sensitivity, not external validation or independent forecasting; scaling-factor uncertainty was not propagated.
+HCA multipliers: illustrative scenario values, not observed age-specific female wage estimates; normalized age-graded scenario preserves the 2023 total monetary scale.
+High BMI: selected China-specific breast-cancer DALY PAF series is constant zero across 170 observations; not rankable and not evidence of absent obesity exposure or biological relevance.

@@ -1,0 +1,5 @@
+Sequential stage,Component represented,"Estimated incident cases, n","Incremental contribution, cases","Share of total increase, %"
+Observed 1990 baseline,,50064,,
+After replacing total population size,Population growth,60632,10568,28.4
+After additionally replacing age structure,Age-structure change,73489,12856,34.6
+Observed 2023 endpoint,Residual epidemiological component,87221,13732,37
