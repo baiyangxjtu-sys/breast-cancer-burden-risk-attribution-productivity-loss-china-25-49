@@ -41,6 +41,7 @@ The main analytic population is women aged 25–49 years. No individual-level cl
 .
 ├── Code/
 │   ├── GBD_EOBC_full_pipeline_FINAL_STANDALONE_v1.1.10.R
+│   ├── GBD_EOBC_full_pipeline_FINAL_STANDALONE_v1.1.10_R2_FIGURE_PATCH_FINAL.R
 │   └── README.md
 ├── Results/
 │   ├── Manuscript_Ready/
@@ -55,8 +56,8 @@ The main analytic population is women aged 25–49 years. No individual-level cl
 ├── CITATION.cff
 ├── LICENSE
 ├── LICENSE-DATA.md
-├── FILE_MANIFEST.csv
-└── SHA256SUMS.txt
+├── FILE_MANIFEST_v1.1.10_FROZEN.csv
+└── SHA256SUMS_v1.1.10_FROZEN.txt
 ```
 
 `Results/Manuscript_Ready/` is the publication-facing output set. It contains the 6 main figures, 2 main tables, 6 supplementary figures, 17 supplementary tables, consolidated supplementary workbook, figure source data, and output-quality documentation used for the revised manuscript.
