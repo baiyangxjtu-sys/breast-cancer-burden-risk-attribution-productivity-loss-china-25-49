@@ -145,7 +145,9 @@ All required checks in these files are reported as `PASS` in the frozen release.
 
 ## Package integrity
 
-`FILE_MANIFEST.csv` lists repository files, file sizes, and SHA-256 checksums. `SHA256SUMS.txt` provides command-line-compatible checksums and excludes itself.
+`FILE_MANIFEST_v1.1.10_FROZEN.csv` and `SHA256SUMS_v1.1.10_FROZEN.txt` are retained as integrity records for the frozen v1.1.10 analytical release.
+
+The second-round iScience revision added presentation-only files and documentation updates on 2026-08-30. These R2 presentation-sync additions do not alter the frozen analytical calculations or numerical results. A fully refreshed manifest and SHA-256 checksum set for the R2-synchronized reproducibility package is provided in Data S1.
 
 ## Licenses
 
