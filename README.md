@@ -11,6 +11,18 @@ Reproducible analysis code and author-derived outputs for the revised iScience m
 
 Version v1.1.10 preserves the validated analytical results and incorporates the final reporting, terminology, documentation, output-index, and release-hygiene corrections used for resubmission.
 
+### Second-round presentation sync — 2026-08-30
+
+Following the second-round iScience review, presentation and terminology were synchronized without changing the analytical release. The frozen analytical version remains v1.1.10.
+
+The R2 update includes:
+- a separate R2 figure-presentation patch script;
+- revised publication-facing main figures;
+- clarification that the arithmetic mean of the five age-specific PAF estimates is an unweighted descriptive mean rather than an overall or population-weighted PAF;
+- corresponding presentation and documentation updates.
+
+No input data, model specifications, statistical formulas, random seeds, or numerical analytical results were changed.
+
 ## Study scope
 
 The analysis integrates aggregated population-level information from:
